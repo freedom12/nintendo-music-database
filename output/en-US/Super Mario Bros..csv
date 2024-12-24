@@ -13,5 +13,5 @@ index,name,duration,isLoop,isBest,playlist,id,thumbnailURL
 12,"\"Hurry Up!\" Underwater BGM",52558,True,False,"","5fb98dc2-628d-4540-9558-d9cad7a6f13c","https://image-assets.m.nintendo.com/cbc3975d-8556-4fc7-89d0-12f2327fe1ef"
 13,"Castle BGM",27010,True,True,"Bowser","4480fd9b-3ed6-4267-8ad9-b842c91aa1e1","https://image-assets.m.nintendo.com/b1e16279-5d73-44c8-95ee-b031001667c3"
 14,"\"Hurry Up!\" Castle BGM",25776,True,False,"","738a1112-ed82-4a85-a3c2-c086e92ec47b","https://image-assets.m.nintendo.com/a548dc8a-a7be-4915-958d-37585ac2de51"
-15,"World Clear",6661,False,True,"","a2bb9845-5232-40e5-9975-c285ca908f22","https://image-assets.m.nintendo.com/c28824a9-e217-48ff-ba01-4159fc5b2ab7"
-16,"Ending",23559,True,True,"","2e7e15fc-ab48-4c9e-8ada-07c1f627a779","https://image-assets.m.nintendo.com/5937c058-c335-4b1f-a6d5-ff16c22039cf"
+15,"World Clear",6661,False,True,"Toad","a2bb9845-5232-40e5-9975-c285ca908f22","https://image-assets.m.nintendo.com/c28824a9-e217-48ff-ba01-4159fc5b2ab7"
+16,"Ending",23559,True,True,"Peach","2e7e15fc-ab48-4c9e-8ada-07c1f627a779","https://image-assets.m.nintendo.com/5937c058-c335-4b1f-a6d5-ff16c22039cf"
