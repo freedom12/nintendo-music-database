@@ -159,7 +159,7 @@ def gen_excel(IETF: str):
         })
     sheet_list.sort(key=lambda x: x["index"])
 
-    file_path = Path("output") / f"Nintendo Music {IETF}.xlsx"
+    file_path = Path("output") / f"Nintendo Music Database({IETF}).xlsx"
     if file_path.exists():
         file_path.unlink()
     with pd.ExcelWriter(file_path) as writer:
