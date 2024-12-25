@@ -172,7 +172,15 @@ def gen_excel(IETF: str):
             df.to_excel(writer, sheet_name=sheet['sheet_name'], index=False)
 
 
-with concurrent.futures.ThreadPoolExecutor() as executor:
-    executor.map(gen_excel, IETF_list)
+def main(is_concurrency: bool = False):
+    if is_concurrency:
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            executor.map(gen_excel, IETF_list)
+    else:
+        for IETF in IETF_list:
+            gen_excel(IETF)
+    print('Done')
 
-print('Done')
+
+if __name__ == '__main__':
+    main(True)
