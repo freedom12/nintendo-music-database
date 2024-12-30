@@ -1,4 +1,5 @@
 import concurrent.futures
+import json
 import math
 import os
 import re
@@ -14,10 +15,10 @@ import requests
 # https://api.m.nintendo.com/catalog/officialPlaylists/772a2b39-c35d-43fd-b3b1-bf267c01f342?country=JP&lang=ja-JP&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
 
 host = 'https://api.m.nintendo.com'
-IETF_list = ['zh-CN', 'en-US', 'ja-JP']
+lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
 
 
-def get_api(url: str, params: dict, retry_count: int = 5) -> dict:
+def get_api(url: str, params: dict, retry_count: int = 5) -> dict | list:
     for _ in range(retry_count):
         try:
             response = requests.get(url, params=params, timeout=10)
@@ -28,6 +29,38 @@ def get_api(url: str, params: dict, retry_count: int = 5) -> dict:
         except Exception as e:
             print(f'Error: {e}')
     raise RuntimeError('Failed to get a successful response from the API after multiple retries')
+
+
+def get_playlist_data(id, lang: str) -> dict:
+    url = f'{host}/catalog/officialPlaylists/{id}'
+    playlist_data = get_api(url, {'country': 'JP', 'lang': lang, 'membership': 'BASIC', 'packageType': 'hls_cbcs', 'sdkVersion': 'ios-1.4.0_f362763-1'})
+    if not isinstance(playlist_data, dict):
+        raise RuntimeError('Failed to get playlist data')
+    return playlist_data
+
+
+def get_game_related_data(id, lang: str) -> dict:
+    url = f'{host}/catalog/games/{id}/relatedPlaylists'
+    game_related_data = get_api(url, {'country': 'JP', 'lang': lang, 'membership': 'BASIC', 'packageType': 'hls_cbcs', 'sdkVersion': 'ios-1.4.0_f362763-1'})
+    if not isinstance(game_related_data, dict):
+        raise RuntimeError('Failed to get game related data')
+    return game_related_data
+
+
+def get_all_game_data(lang: str) -> list[dict]:
+    url = f'{host}/catalog/games:all'
+    game_data_list = get_api(url, {'country': 'JP', 'lang': lang, 'sortRule': 'RECENT'})
+    if not isinstance(game_data_list, list):
+        raise RuntimeError('Failed to get all game data')
+    return game_data_list
+
+
+def get_game_group_data(grouping_policy: str, lang: str) -> dict:
+    url = f'{host}/catalog/gameGroups'
+    game_group_data = get_api(url, {'country': 'JP', 'groupingPolicy': grouping_policy, 'lang': lang})
+    if not isinstance(game_group_data, dict):
+        raise RuntimeError('Failed to get game group data')
+    return game_group_data
 
 
 def save_csv(file_path: str, data: list[dict], key_list: Optional[list[str]] = None):
@@ -52,48 +85,46 @@ def get_valid_filename(s: str) -> str:
     return re.sub(r'[<>:"/\\|?*]', '-', s.strip())
 
 
-def gen_excel(IETF: str):
-    path = Path('output') / IETF
+def gen_excel(lang: str):
+    path = Path('output') / lang
     path.mkdir(parents=True, exist_ok=True)
 
-    url = f'{host}/catalog/games:all'
-    game_data_list = get_api(url, {'country': 'JP', 'lang': IETF, 'sortRule': 'RECENT'})
+    game_data_list = get_all_game_data(lang)
     game_dict = {}
     for game_index, game_data in enumerate(game_data_list, start=1):
-        print(f"{game_data['id']} {game_data['name']}")
+        print(f'{game_data['id']} {game_data['name']}')
         game = {
             'id': game_data['id'],
             'index': game_index,
             'name': game_data['name'],
             'year': 0,
             'hardware': game_data['formalHardware'],
-            'isLink': game_data['isGameLink'],
-            'thumbnailURL': game_data.get('thumbnailURL', '')
+            'is_link': game_data['isGameLink'],
+            'thumbnail_url': game_data.get('thumbnailURL', ''),
+            'track_dict': {}
         }
         game_dict[game['id']] = game
 
-        if game['isLink']:
+        if game['is_link']:
             continue
 
-        file_name = get_valid_filename(f"{game_data['name']}.csv")
+        file_name = get_valid_filename(f'{game_data['name']}.csv')
         file_path = path / file_name
         if file_path.exists():
             continue
 
-        url = f'{host}/catalog/games/{game_data["id"]}/relatedPlaylists'
-        game_play_list_data = get_api(url, {'country': 'JP', 'lang': IETF, 'membership': 'BASIC', 'packageType': 'hls_cbcs', 'sdkVersion': 'ios-1.4.0_f362763-1'})
-        all_play_list_id = game_play_list_data['allPlaylist']['id']
-        url = f'{host}/catalog/officialPlaylists/{all_play_list_id}'
-        all_play_list_data = get_api(url, {'country': 'JP', 'lang': IETF, 'membership': 'BASIC', 'packageType': 'hls_cbcs', 'sdkVersion': 'ios-1.4.0_f362763-1'})
-        track_dict = {}
-        for track_index, track_data in enumerate(all_play_list_data['tracks'], start=1):
+        game_related_data = get_game_related_data(game_data['id'], lang)
+        track_data_list = get_playlist_data(game_related_data['allPlaylist']['id'], lang)['tracks']
+        track_dict: dict = {}
+        game['track_dict'] = track_dict
+        for track_index, track_data in enumerate(track_data_list, start=1):
             payload_data = track_data['media']['payloadList'][0]
             is_loop = payload_data['containsLoopableMedia']
 
             if is_loop:
                 duration = payload_data['loopableMedia']['composed']['durationMillis']
                 if payload_data['durationMillis'] != duration:
-                    print(f'{game_data["name"]} {track_data["name"]} {payload_data["durationMillis"]} {duration}')
+                    print(f'{game_data['name']} {track_data['name']} {payload_data['durationMillis']} {duration}')
             else:
                 duration = payload_data['durationMillis']
 
@@ -102,32 +133,39 @@ def gen_excel(IETF: str):
                 'index': track_index,
                 'name': track_data['name'],
                 'duration': duration,
-                'isLoop': is_loop,
-                'isBest': False,
+                'is_loop': is_loop,
+                'is_best': False,
                 'playlist': set(),
-                'thumbnailURL': track_data.get('thumbnailURL', ''),
+                'playlist_other': set(),
+                'thumbnail_url': track_data.get('thumbnailURL', ''),
             }
             track_dict[track['id']] = track
 
-        for track_data in game_play_list_data['bestPlaylist']['tracks']:
-            track_dict[track_data['id']]['isBest'] = True
+        for track_data in game_related_data['bestPlaylist']['tracks']:
+            track_dict[track_data['id']]['is_best'] = True
 
-        for plat_list_sum_data in game_play_list_data['miscPlaylistSet']['officialPlaylists']:
-            if plat_list_sum_data['type'] == 'LOOP':
+        for play_list_sum_data in game_related_data['miscPlaylistSet']['officialPlaylists']:
+            if play_list_sum_data['type'] == 'LOOP':
                 continue
-            url = f'{host}/catalog/officialPlaylists/{plat_list_sum_data["id"]}'
-            plat_list_data = get_api(url, {'country': 'JP', 'lang': IETF, 'membership': 'BASIC', 'packageType': 'hls_cbcs', 'sdkVersion': 'ios-1.4.0_f362763-1'})
-            for track_data in plat_list_data['tracks']:
-                id = track_data['id']
-                if id in track_dict:
-                    track_dict[id]['playlist'].add(plat_list_sum_data['name'])
+            track_data_list = get_playlist_data(play_list_sum_data['id'], lang)['tracks']
+            for track_data in track_data_list:
+                track_id = track_data['id']
+                if track_id in track_dict:
+                    track_dict[track_id]['playlist'].add(play_list_sum_data['name'])
 
-        track_list = sorted(track_dict.values(), key=lambda x: x['index'])
-        key_list = ['index', 'name', 'duration', 'isLoop', 'isBest', 'playlist', 'id', 'thumbnailURL']
-        save_csv(str(file_path), track_list, key_list)
+    data = json.loads(open('nm.json', 'r', encoding='utf-8').read())
+    for section_data in data['miscSections']:
+        for play_list_sum_data in section_data['playlists']:
+            playlist_data = get_playlist_data(play_list_sum_data['id'], lang)
+            for track_data in playlist_data['tracks']:
+                game_id = track_data['game']['id']
+                track_id = track_data['id']
+                if game_id in game_dict:
+                    game = game_dict[game_id]
+                    if track_id in game['track_dict']:
+                        game['track_dict'][track_id]['playlist_other'].add(playlist_data['name'])
 
-    url = f'{host}/catalog/gameGroups'
-    game_group_data = get_api(url, {'country': 'JP', 'groupingPolicy': 'RELEASEDAT', 'lang': IETF})
+    game_group_data = get_game_group_data('RELEASEDAT', lang)
     for group_data in game_group_data['releasedAt']:
         year = group_data['releasedYear']
         for game_data in group_data['items']:
@@ -142,8 +180,17 @@ def gen_excel(IETF: str):
     if file_path.exists():
         file_path.unlink()
 
-    key_list = ['index', 'name', 'year', 'hardware', 'isLink', 'id', 'thumbnailURL']
+    key_list = ['index', 'name', 'year', 'hardware', 'is_link', 'id', 'thumbnail_url']
     save_csv(str(file_path), game_list, key_list)
+
+    for game in game_list:
+        if not game['track_dict']:
+            continue
+        track_list = sorted(game['track_dict'].values(), key=lambda x: x['index'])
+        key_list = ['index', 'name', 'duration', 'is_loop', 'is_best', 'playlist', 'playlist_other', 'id', 'thumbnail_url']
+        file_name = get_valid_filename(f'{game['name']}.csv')
+        file_path = path / file_name
+        save_csv(str(file_path), track_list, key_list)
 
     csv_path_list = [path / file for file in os.listdir(path) if file.endswith('.csv')]
     sheet_list: list = []
@@ -161,7 +208,7 @@ def gen_excel(IETF: str):
         })
     sheet_list.sort(key=lambda x: x['index'])
 
-    file_path = Path('output') / f'Nintendo Music Database({IETF}).xlsx'
+    file_path = Path('output') / f'Nintendo Music Database({lang}).xlsx'
     if file_path.exists():
         file_path.unlink()
     with pd.ExcelWriter(file_path) as writer:
@@ -175,10 +222,10 @@ def gen_excel(IETF: str):
 def main(is_concurrency: bool = False):
     if is_concurrency:
         with concurrent.futures.ThreadPoolExecutor() as executor:
-            executor.map(gen_excel, IETF_list)
+            executor.map(gen_excel, lang_list)
     else:
-        for IETF in IETF_list:
-            gen_excel(IETF)
+        for lang in lang_list:
+            gen_excel(lang)
     print('Done')
 
 

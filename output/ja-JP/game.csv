@@ -1,4 +1,4 @@
-index,name,year,hardware,isLink,id,thumbnailURL
+index,name,year,hardware,is_link,id,thumbnail_url
 1,"スーパーマリオブラザーズ",1985,"ファミリーコンピュータ",False,"4cf411d1-7917-40b5-9f53-bfa2052d7b64","https://image-assets.m.nintendo.com/24cb9cbf-5824-46ad-aa44-3f395d1ef1a6"
 2,"メトロイド",1986,"ファミリーコンピュータ",False,"a6460660-a9ed-4013-afc7-ae9f5c55921a","https://image-assets.m.nintendo.com/54f60c66-365d-4485-85e3-3d424cfa58dc"
 3,"ドクターマリオ",1990,"ゲームボーイ",False,"4f9fd050-cb14-44c5-b6b6-49145d416384","https://image-assets.m.nintendo.com/a5246843-a163-4500-8143-0cbc818cb630"

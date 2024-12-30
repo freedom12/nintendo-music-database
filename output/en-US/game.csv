@@ -1,4 +1,4 @@
-index,name,year,hardware,isLink,id,thumbnailURL
+index,name,year,hardware,is_link,id,thumbnail_url
 1,"Super Mario Bros.",1985,"Nintendo Entertainment System",False,"4cf411d1-7917-40b5-9f53-bfa2052d7b64","https://image-assets.m.nintendo.com/ca47dec6-1956-4222-afba-fe0ecca035bf"
 2,"Metroid (Famicom Disk System)",1986,"Nintendo Entertainment System",False,"a6460660-a9ed-4013-afc7-ae9f5c55921a","https://image-assets.m.nintendo.com/54f60c66-365d-4485-85e3-3d424cfa58dc"
 3,"Dr. Mario",1990,"Game Boy",False,"4f9fd050-cb14-44c5-b6b6-49145d416384","https://image-assets.m.nintendo.com/28ca3fae-13cf-474d-8f27-8e47645ed511"
