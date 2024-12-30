@@ -4,18 +4,46 @@ import math
 import os
 import re
 from pathlib import Path
-from typing import Iterable, Optional
+from typing import Iterable, Optional, TypedDict
 
 import pandas as pd
 import requests
 # https://api.m.nintendo.com/catalog/games:all?country=JP&lang=en-US&sortRule=RECENT
 # https://api.m.nintendo.com/catalog/gameGroups?country=JP&groupingPolicy=RELEASEDAT&lang=en-US
 # https://api.m.nintendo.com/catalog/gameGroups?country=JP&groupingPolicy=HARDWARE&lang=en-US
-# https://api.m.nintendo.com/catalog/games/e55a92d6-12f2-4011-8312-e7b38e2a3c7f/relatedPlaylists?country=JP&lang=zh-CN&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
-# https://api.m.nintendo.com/catalog/officialPlaylists/772a2b39-c35d-43fd-b3b1-bf267c01f342?country=JP&lang=ja-JP&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
+
+# https://api.m.nintendo.com/catalog/games/e55a92d6-12f2-4011-8312-e7b38e2a3c7f?country=JP&lang=zh-CN
 # https://api.m.nintendo.com/catalog/games/e55a92d6-12f2-4011-8312-e7b38e2a3c7f/relatedGames?country=JP&lang=zh-CN
+# https://api.m.nintendo.com/catalog/games/e55a92d6-12f2-4011-8312-e7b38e2a3c7f/relatedPlaylists?country=JP&lang=zh-CN&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
+
+# https://api.m.nintendo.com/catalog/officialPlaylists/772a2b39-c35d-43fd-b3b1-bf267c01f342?country=JP&lang=ja-JP&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
+
 host = 'https://api.m.nintendo.com'
 lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
+
+
+class Game(TypedDict):
+    id: str
+    index: int
+    name: str
+    year: int
+    hardware: str
+    related_game: list[str]
+    is_link: bool
+    thumbnail_url: str
+    track_dict: dict[str, 'Track']
+
+
+class Track(TypedDict):
+    id: str
+    index: int
+    name: str
+    duration: int
+    is_loop: bool
+    is_best: bool
+    playlist: set[str]
+    playlist_other: set[str]
+    thumbnail_url: str
 
 
 def get_api(url: str, params: dict, retry_count: int = 5) -> dict | list:
@@ -71,7 +99,7 @@ def get_game_group_data(grouping_policy: str, lang: str) -> dict:
     return game_group_data
 
 
-def save_csv(file_path: str, data: list[dict], key_list: Optional[list[str]] = None):
+def save_csv(file_path: str, data: list, key_list: Optional[list[str]] = None):
     if not key_list:
         key_list = list(data[0].keys())
     with open(file_path, 'w', encoding='utf-8') as file:
@@ -101,10 +129,10 @@ def gen_excel(lang: str):
     path.mkdir(parents=True, exist_ok=True)
 
     game_data_list = get_all_game_data(lang)
-    game_dict = {}
+    game_dict: dict[str, Game] = {}
     for game_index, game_data in enumerate(game_data_list, start=1):
         print(f'{game_data['id']} {game_data['name']}')
-        game = {
+        game: Game = {
             'id': game_data['id'],
             'index': game_index,
             'name': game_data['name'],
@@ -116,7 +144,6 @@ def gen_excel(lang: str):
             'track_dict': {}
         }
         game_dict[game['id']] = game
-
         related_game_data_list = get_related_game_data_list(game_data['id'], lang)
         for related_game_data in related_game_data_list:
             game['related_game'].append(related_game_data['name'])
@@ -130,9 +157,8 @@ def gen_excel(lang: str):
             continue
 
         related_playlist_data = get_related_playlist_data(game_data['id'], lang)
-        track_data_list = get_playlist_data(related_playlist_data['allPlaylist']['id'], lang)['tracks']
-        track_dict: dict = {}
-        game['track_dict'] = track_dict
+        track_data_list: list[dict] = get_playlist_data(related_playlist_data['allPlaylist']['id'], lang)['tracks']
+        track_dict = game['track_dict']
         for track_index, track_data in enumerate(track_data_list, start=1):
             payload_data = track_data['media']['payloadList'][0]
             is_loop = payload_data['containsLoopableMedia']
@@ -144,7 +170,7 @@ def gen_excel(lang: str):
             else:
                 duration = payload_data['durationMillis']
 
-            track = {
+            track: Track = {
                 'id': track_data['id'],
                 'index': track_index,
                 'name': track_data['name'],
