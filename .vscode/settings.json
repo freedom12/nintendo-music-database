@@ -3,5 +3,8 @@
     "autopep8.args": [
         "--ignore=E501"
     ],
-    "editor.snippetSuggestions": "bottom"
+    "editor.snippetSuggestions": "bottom",
+    "[csv]": {
+        "editor.inlayHints.maximumLength": 0
+    }
 }
