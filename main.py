@@ -216,7 +216,7 @@ def gen_excel(lang: str):
 
     game_list = sorted(game_dict.values(), key=lambda x: x['index'])
 
-    file_path = path / 'game.csv'
+    file_path = path / '_GAME_LIST_.csv'
     if file_path.exists():
         file_path.unlink()
 
@@ -235,7 +235,7 @@ def gen_excel(lang: str):
         key_list = ['index', 'name', 'duration', 'is_loop', 'is_best', 'playlist', 'playlist_other', 'id', 'thumbnail_url']
         save_csv(str(file_path), track_list, key_list)
 
-    csv_path_list.insert(0, path / 'game.csv')
+    csv_path_list.insert(0, path / '_GAME_LIST_.csv')
     file_path = Path('output') / f'Nintendo Music Database({lang}).xlsx'
     if file_path.exists():
         file_path.unlink()
