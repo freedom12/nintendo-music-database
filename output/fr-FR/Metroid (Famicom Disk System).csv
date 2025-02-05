@@ -1,0 +1,13 @@
+index,name,duration,is_loop,is_best,playlist,playlist_other,id,thumbnail_url
+1,"Title Screen",106113,False,True,"","Écrans titre","561dab56-c0d1-4ea7-9272-673fccf5910b","https://image-assets.m.nintendo.com/b3a0292d-4b41-430e-b980-449bfc3cc6ab"
+2,"Samus Appears",6934,False,True,"","","3bc94320-ba6c-49ef-a832-83f820c2baa5","https://image-assets.m.nintendo.com/d3ad7270-9f4b-45f3-9d4d-1162353c445a"
+3,"Brinstar (Rocky Zone)",105583,True,True,"","De nouvelles aventures","6656be3c-7b55-4fca-8d59-b9e5b8fdc139","https://image-assets.m.nintendo.com/8aa1eaa3-616d-4254-8e15-77f7f751103b"
+4,"Miniboss Hideout I: Kraid",101792,True,True,"","","ba05680d-50f1-4adf-bd0d-617cdcea9fab","https://image-assets.m.nintendo.com/ef0aa99b-d5f9-471b-8be6-0e20539a07bc"
+5,"Norfair (Fire Zone)",82980,True,True,"","","b5b55b2e-ad50-414e-9ed2-3f7fa7dc98e1","https://image-assets.m.nintendo.com/e00843a3-feb4-4e74-8ff3-826a501b2f04"
+6,"Miniboss Hideout II: Ridley",63990,True,True,"","","82a1644a-22c5-4d86-8478-82fa9693e6e5","https://image-assets.m.nintendo.com/0cc48ef2-9732-48a0-8413-4a1be4c158ed"
+7,"Stillness",56518,True,False,"","","95b3f163-657c-4577-98c2-a4f1818e5216","https://image-assets.m.nintendo.com/904cede2-4fea-403f-a133-ad6cfddf3f6f"
+8,"Item Obtained",4393,False,True,"","","a36c4401-09d5-4195-bd44-463e11d7d574","https://image-assets.m.nintendo.com/df192cae-cbe5-4030-9541-fba5fecb81c9"
+9,"Tourian (Central Base)",41650,True,True,"","Combats contre les boss","790ba89e-ffc9-4870-b562-78b903e13a38","https://image-assets.m.nintendo.com/904bbc32-a248-4105-b38b-dcbe3b0c92cb"
+10,"Zebetite",34652,True,False,"","","1a709026-2602-4b8d-b3c9-0683c39f7a1c","https://image-assets.m.nintendo.com/732b9ce5-46c0-4364-8622-1437f21ae1b2"
+11,"Escape",74052,True,True,"","","dccfedf4-df9a-4036-80fc-97bae709cbf3","https://image-assets.m.nintendo.com/a040536b-9289-40be-8828-a6b858d17082"
+12,"Ending",134352,False,True,"","","e7dd02a1-909d-4b54-a72c-3ba1b1aff5fb","https://image-assets.m.nintendo.com/27004af0-965f-41fd-ac42-83781e46f07b"
