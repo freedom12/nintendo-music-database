@@ -1,7 +1,7 @@
 index,name,year,hardware,related_game,is_link,id,thumbnail_url
 1,"슈퍼 마리오브라더스",1985,"Nintendo Entertainment System","Super Mario 64|Super Mario Bros. Wonder|슈퍼 마리오 Wii 갤럭시 어드벤처|슈퍼 마리오 오디세이|슈퍼 마리오 월드|슈퍼 마리오브라더스 2|슈퍼 마리오브라더스 3",False,"4cf411d1-7917-40b5-9f53-bfa2052d7b64","https://image-assets.m.nintendo.com/ca47dec6-1956-4222-afba-fe0ecca035bf"
 2,"Metroid (Famicom Disk System)",1986,"Nintendo Entertainment System","Metroid Prime",False,"a6460660-a9ed-4013-afc7-ae9f5c55921a","https://image-assets.m.nintendo.com/54f60c66-365d-4485-85e3-3d424cfa58dc"
-3,"Dr. Mario",1990,"Game Boy","",False,"4f9fd050-cb14-44c5-b6b6-49145d416384","https://image-assets.m.nintendo.com/28ca3fae-13cf-474d-8f27-8e47645ed511"
+3,"Dr. Mario (Game Boy)",1990,"Game Boy","",False,"4f9fd050-cb14-44c5-b6b6-49145d416384","https://image-assets.m.nintendo.com/28ca3fae-13cf-474d-8f27-8e47645ed511"
 4,"Kirby's Dream Land",1992,"Game Boy","별의 커비 스타 얼라이즈",False,"6c8da15c-c4d1-4f39-9bad-bbaa9bf44fd8","https://image-assets.m.nintendo.com/ee442c76-9ec4-4368-8117-2c8c3fda4bb4"
 5,"동키콩 컨트리",1994,"Super Nintendo Entertainment System","Donkey Kong Country 3: Dixie Kong's Double Trouble!|동키콩 컨트리 2",False,"ce614c2a-ca3e-449a-aa30-ddd626602f90","https://image-assets.m.nintendo.com/cb9b9d7e-d9e7-4e86-a75f-04a73d1aef84"
 6,"Super Mario World 2: Yoshi's Island",1995,"Super Nintendo Entertainment System","",False,"78c1596d-e1fe-40d7-8727-db57dc668318","https://image-assets.m.nintendo.com/0e3e33c9-c3fd-49d5-96da-45d32981c036"
@@ -44,3 +44,6 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 43,"슈퍼 마리오브라더스 2",1988,"Nintendo Entertainment System","Super Mario 64|Super Mario Bros. Wonder|슈퍼 마리오 Wii 갤럭시 어드벤처|슈퍼 마리오 오디세이|슈퍼 마리오 월드|슈퍼 마리오브라더스|슈퍼 마리오브라더스 3",False,"39ef12b8-5128-4e7c-95b3-e12f22274e51","https://image-assets.m.nintendo.com/23f19285-4879-42ca-9c71-273d170439d7"
 44,"The Legend of Zelda: A Link to the Past",1991,"Super Nintendo Entertainment System","",False,"2e710695-0ea6-425b-b0b5-d49012e7c1a4","https://image-assets.m.nintendo.com/1bf961b5-69b8-4328-a7a2-22ec575d7b00"
 45,"슈퍼 마리오브라더스 3",1988,"Nintendo Entertainment System","Super Mario 64|Super Mario Bros. Wonder|슈퍼 마리오 Wii 갤럭시 어드벤처|슈퍼 마리오 오디세이|슈퍼 마리오 월드|슈퍼 마리오브라더스|슈퍼 마리오브라더스 2",False,"776a9a5d-6705-461f-b126-3312184b7596","https://image-assets.m.nintendo.com/47923580-aa79-48e4-8119-da9e032daed1"
+46,"Tetris® (NES)",1989,"Nintendo Entertainment System","",False,"fd836877-c32e-4898-802d-81c0beefae99","https://image-assets.m.nintendo.com/f8625ec9-e5ad-4624-9ea9-2aa30948e00e"
+47,"Dr. Mario (NES)",1990,"Nintendo Entertainment System","",False,"8b8f87d1-4a54-4ab1-a644-e82aaae5e8a8","https://image-assets.m.nintendo.com/d18daf00-8889-415d-81d1-7fc2dc48828a"
+48,"Tetris® (Game Boy)",1989,"Game Boy","",False,"7770d07d-98d7-4d79-b821-85c466040938","https://image-assets.m.nintendo.com/f5a5a841-e160-44ad-bff9-fbfa186b1dfd"

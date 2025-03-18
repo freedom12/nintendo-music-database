@@ -29,4 +29,4 @@ index,name,duration,is_loop,is_best,playlist,playlist_other,id,thumbnail_url
 28,"Ganon's Message",77109,True,False,"Ganon / Ganondorf","","95f57d8f-7475-40f5-921f-09afe247e40f","https://image-assets.m.nintendo.com/28f0a708-b4e6-467c-8a02-e3650df7a5a1"
 29,"Ganon Battle",79405,True,True,"Ganon / Ganondorf","Scontri finali","84488003-90eb-4ba1-b150-e02c9c55e04a","https://image-assets.m.nintendo.com/6399810d-1f4b-4423-b691-1c586bf021e6"
 30,"Triforce Room",97470,True,True,"","","dd88224b-3f4d-45e7-b811-805dfae736fb","https://image-assets.m.nintendo.com/049ed0d8-3608-4e77-8654-4edf13a86e57"
-31,"Ending Theme",463821,False,True,"","","98d430f1-d0d0-4b31-a335-bd86c7dbdadf","https://image-assets.m.nintendo.com/65bc7f23-2b9d-4594-b45c-0746aedb1116"
+31,"Ending Theme",463821,False,True,"","Titoli di coda","98d430f1-d0d0-4b31-a335-bd86c7dbdadf","https://image-assets.m.nintendo.com/65bc7f23-2b9d-4594-b45c-0746aedb1116"

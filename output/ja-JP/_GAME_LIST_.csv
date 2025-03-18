@@ -1,7 +1,7 @@
 index,name,year,hardware,related_game,is_link,id,thumbnail_url
 1,"スーパーマリオブラザーズ",1985,"ファミリーコンピュータ","スーパーマリオ オデッセイ|スーパーマリオ64|スーパーマリオUSA|スーパーマリオギャラクシー|スーパーマリオブラザーズ ワンダー|スーパーマリオブラザーズ3|スーパーマリオワールド",False,"4cf411d1-7917-40b5-9f53-bfa2052d7b64","https://image-assets.m.nintendo.com/24cb9cbf-5824-46ad-aa44-3f395d1ef1a6"
 2,"メトロイド",1986,"ファミリーコンピュータ","メトロイドプライム",False,"a6460660-a9ed-4013-afc7-ae9f5c55921a","https://image-assets.m.nintendo.com/54f60c66-365d-4485-85e3-3d424cfa58dc"
-3,"ドクターマリオ",1990,"ゲームボーイ","",False,"4f9fd050-cb14-44c5-b6b6-49145d416384","https://image-assets.m.nintendo.com/a5246843-a163-4500-8143-0cbc818cb630"
+3,"ドクターマリオ（ゲームボーイ版）",1990,"ゲームボーイ","",False,"4f9fd050-cb14-44c5-b6b6-49145d416384","https://image-assets.m.nintendo.com/a5246843-a163-4500-8143-0cbc818cb630"
 4,"星のカービィ",1992,"ゲームボーイ","星のカービィ　スターアライズ",False,"6c8da15c-c4d1-4f39-9bad-bbaa9bf44fd8","https://image-assets.m.nintendo.com/fba34849-7643-4682-a667-97a2be9d486a"
 5,"スーパードンキーコング",1994,"スーパーファミコン","スーパードンキーコング 2|スーパードンキーコング 3",False,"ce614c2a-ca3e-449a-aa30-ddd626602f90","https://image-assets.m.nintendo.com/0a8cde94-bd3d-4b31-9363-ddcde7854a32"
 6,"スーパーマリオ ヨッシーアイランド",1995,"スーパーファミコン","",False,"78c1596d-e1fe-40d7-8727-db57dc668318","https://image-assets.m.nintendo.com/e83f7ccc-5649-4c14-b1db-978fefeb718d"
@@ -44,3 +44,6 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 43,"スーパーマリオUSA",1988,"ファミリーコンピュータ","スーパーマリオ オデッセイ|スーパーマリオ64|スーパーマリオギャラクシー|スーパーマリオブラザーズ|スーパーマリオブラザーズ ワンダー|スーパーマリオブラザーズ3|スーパーマリオワールド",False,"39ef12b8-5128-4e7c-95b3-e12f22274e51","https://image-assets.m.nintendo.com/c93a6186-79c5-41b5-bcff-76b322c8cad2"
 44,"ゼルダの伝説 神々のトライフォース",1991,"スーパーファミコン","",False,"2e710695-0ea6-425b-b0b5-d49012e7c1a4","https://image-assets.m.nintendo.com/aeb02f56-d43c-417a-97b6-d4d7b10aa36d"
 45,"スーパーマリオブラザーズ3",1988,"ファミリーコンピュータ","スーパーマリオ オデッセイ|スーパーマリオ64|スーパーマリオUSA|スーパーマリオギャラクシー|スーパーマリオブラザーズ|スーパーマリオブラザーズ ワンダー|スーパーマリオワールド",False,"776a9a5d-6705-461f-b126-3312184b7596","https://image-assets.m.nintendo.com/a2f8ad8f-3f47-43a7-9676-c8d2e36d1eab"
+46,"Tetris®（NES版）",1989,"ファミリーコンピュータ","",False,"fd836877-c32e-4898-802d-81c0beefae99","https://image-assets.m.nintendo.com/f8625ec9-e5ad-4624-9ea9-2aa30948e00e"
+47,"ドクターマリオ（ファミコン版）",1990,"ファミリーコンピュータ","",False,"8b8f87d1-4a54-4ab1-a644-e82aaae5e8a8","https://image-assets.m.nintendo.com/35600e21-4b2e-449d-acf8-7159af4d93a1"
+48,"Tetris®（ゲームボーイ版）",1989,"ゲームボーイ","",False,"7770d07d-98d7-4d79-b821-85c466040938","https://image-assets.m.nintendo.com/bbdb0332-a661-40a7-8efb-1a2aecae6724"
