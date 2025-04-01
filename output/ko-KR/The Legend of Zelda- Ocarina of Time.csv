@@ -4,7 +4,7 @@ index,name,duration,is_loop,is_best,playlist,playlist_other,id,thumbnail_url
 3,"Deku Tree",34333,False,False,"데크나무","","91de9d72-c77d-49b0-bd3e-0844b5957997","https://image-assets.m.nintendo.com/8d4ff307-9397-4260-8fd4-f2526d180316"
 4,"Fairy Flying",21496,True,False,"","","5335fa59-8cc3-43c4-957e-9c83076cda08","https://image-assets.m.nintendo.com/4a2f9704-5cfe-46e3-805d-eaba35a9c323"
 5,"House",34113,True,True,"하이랄 탐방","","e0613437-ad56-4d26-a8f2-adb916f19844","https://image-assets.m.nintendo.com/23df35f5-0237-4e85-aca3-2f8702ece246"
-6,"Kokiri Forest",58918,True,True,"하이랄 탐방","","e8ef1cca-bbb6-403f-947a-da599569f788","https://image-assets.m.nintendo.com/bb60da91-be2e-4fa8-853d-285c30b0d95c"
+6,"Kokiri Forest",58918,True,True,"하이랄 탐방","봄","e8ef1cca-bbb6-403f-947a-da599569f788","https://image-assets.m.nintendo.com/bb60da91-be2e-4fa8-853d-285c30b0d95c"
 7,"Got a Treasure",8634,False,False,"","","80c91e9a-109c-4c2a-9579-d5bdd945bc42","https://image-assets.m.nintendo.com/96b0fe0c-9109-4b66-9dfa-6c4d9b4f7624"
 8,"Important Item Acquired",3038,False,False,"","","dd97437d-c8e5-4536-9df6-a86bab82ea22","https://image-assets.m.nintendo.com/d07aa84d-c832-439f-9511-3f307c5c05fd"
 9,"Item Acquired",3171,False,False,"","","b7eae764-fd49-41c6-9a2c-8dc21676ce5f","https://image-assets.m.nintendo.com/c7a599af-4c3f-45a1-9f12-7c988a1c153f"

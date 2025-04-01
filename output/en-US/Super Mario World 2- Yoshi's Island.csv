@@ -5,7 +5,7 @@ index,name,duration,is_loop,is_best,playlist,playlist_other,id,thumbnail_url
 4,"The Journey Begins",60708,True,False,"","","2c2d4e8b-91c4-46a1-bf8f-204ad7a14ae9","https://image-assets.m.nintendo.com/21df6960-1d50-4c7c-bc38-bf99bb05b1d8"
 5,"Practice Stage",41163,True,False,"","","46352594-5d39-45e2-9245-cdea4d92403e","https://image-assets.m.nintendo.com/2334c102-3951-4fb4-adc4-b1652362fa5a"
 6,"Stage Start",1955,False,True,"Stages","","0665ee1a-8876-4d35-b4b2-2797752f273e","https://image-assets.m.nintendo.com/a90b712e-ec01-4561-9f3d-2aab180e71d2"
-7,"Flower Field BGM",172061,True,True,"Stages|Yoshi","New Adventures|Walking","b2cb2d99-5b44-4dc5-8e4f-0b7b8042f375","https://image-assets.m.nintendo.com/ef71ea59-e06f-4298-b57b-0cab6a642d53"
+7,"Flower Field BGM",172061,True,True,"Stages|Yoshi","New Adventures|Spring|Walking","b2cb2d99-5b44-4dc5-8e4f-0b7b8042f375","https://image-assets.m.nintendo.com/ef71ea59-e06f-4298-b57b-0cab6a642d53"
 8,"Goal!",48750,True,True,"Stages|Yoshi","Victory!","0436e7b2-9633-4888-a5c7-67fd69762080","https://image-assets.m.nintendo.com/28837778-716b-4ce1-8a44-27804050bd11"
 9,"Underground BGM",104596,True,True,"Stages","","5fd7db93-8944-4443-8193-ecf28f0e6f09","https://image-assets.m.nintendo.com/47b6ee70-d08f-464d-92a7-fc56d54611c4"
 10,"Castles & Forts BGM",127058,True,True,"Bowser|Stages","","ccfc9a1b-90d6-401d-a750-5cea0dbaad4e","https://image-assets.m.nintendo.com/89c3c1e0-e390-4555-aa2f-48bb91d8325a"
