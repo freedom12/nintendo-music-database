@@ -26,7 +26,7 @@ index,name,duration,is_loop,is_best,playlist,playlist_other,id,thumbnail_url
 25,"Finish! (Time Trials)",4460,False,False,"","","d95c4022-d581-4e1c-a57e-a853b39c0cb1","https://image-assets.m.nintendo.com/9412c1b0-80ff-4c4d-b451-d20a05b74bec"
 26,"Game Over",4395,False,False,"","","61fd1a91-f0c4-4794-8266-a2a3d1b41428","https://image-assets.m.nintendo.com/ced0f214-2fe7-4b72-b704-a4ec308a5004"
 27,"Race Results (Mario)",35781,True,True,"","","735e249c-c7a5-455f-973a-af97bea40a0a","https://image-assets.m.nintendo.com/59fab2a9-0b93-4b86-b22e-43aaf36626e0"
-28,"Race Results (Luigi)",33840,True,False,"","","5457a058-70fb-4e9d-9345-ca0aafe5d685","https://image-assets.m.nintendo.com/13f323c2-2e62-4a50-a2b8-31b6b9f0c4ad"
+28,"Race Results (Luigi)",33840,True,False,"路易吉","","5457a058-70fb-4e9d-9345-ca0aafe5d685","https://image-assets.m.nintendo.com/13f323c2-2e62-4a50-a2b8-31b6b9f0c4ad"
 29,"Race Results (Princess)",39429,True,False,"碧姬","","4e43ac86-672d-456e-afa6-cbeb251743ff","https://image-assets.m.nintendo.com/3832c155-b309-446a-8a4f-5bf4dbc68b8f"
 30,"Race Results (Yoshi)",32131,True,False,"耀西","","02f1940a-8a0b-4e9b-9372-75b7bdbfe81e","https://image-assets.m.nintendo.com/8f2dc361-1314-42eb-8d72-57dc99a5c513"
 31,"Race Results (Bowser)",41940,True,False,"庫巴","","0ef1ec33-fda7-48c5-a9b4-6a76a955b49c","https://image-assets.m.nintendo.com/26f20ddb-416d-404d-9338-b11b6ab775ec"
