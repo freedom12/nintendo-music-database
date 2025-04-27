@@ -50,7 +50,7 @@ index,name,duration,is_loop,is_best,playlist,playlist_other,id,thumbnail_url
 49,"Primordial Thicket",304781,True,True,"行星 PNF-404","","741a3c74-fd5f-4425-b544-5e0db1af8e08","https://image-assets.m.nintendo.com/8770184e-fa35-4c54-b804-da8108c0f616"
 50,"Into the Cave",5892,False,False,"","","46437a31-1126-4661-b689-157e598896b5","https://image-assets.m.nintendo.com/edddef7d-78f3-464c-ad14-84bcd944d284"
 51,"Spelunking",303243,True,True,"行星 PNF-404","","9d9e669a-1fcf-4d31-8bf5-1d164ac2b94a","https://image-assets.m.nintendo.com/5ef6f2d4-c1ae-4605-92db-7c1d494492fe"
-52,"Cave Exploration (Toy Box)",305770,False,False,"行星 PNF-404","","97597e41-4ff9-47ae-bf26-95c0c968f60c","https://image-assets.m.nintendo.com/511a3c52-c20b-43c2-8a51-adcc9464fffb"
+52,"Cave Exploration (Toy Box)",305770,True,False,"行星 PNF-404","","97597e41-4ff9-47ae-bf26-95c0c968f60c","https://image-assets.m.nintendo.com/511a3c52-c20b-43c2-8a51-adcc9464fffb"
 53,"Cave Exploration (Engulfed Castle)",239454,True,False,"行星 PNF-404","","8b5ec12a-a50c-42b2-b62e-d7bdb7d40e5f","https://image-assets.m.nintendo.com/cbb082b5-5428-41ca-bd00-d5b836207070"
 54,"Waterwraith Appears",43260,True,False,"","","e87dd4a5-8eb6-4dd9-9f88-7edc8f78b30d","https://image-assets.m.nintendo.com/8987e60b-9482-4e8d-bb88-c30185db5574"
 55,"Cave Exploration (Waterwraith)",103106,True,False,"行星 PNF-404","","7fdc9ac7-3bf3-478e-9a90-09e2e62aa185","https://image-assets.m.nintendo.com/224bfb47-a500-4c7e-91a4-0beaa194679e"

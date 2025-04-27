@@ -1,7 +1,7 @@
 index,name,duration,is_loop,is_best,playlist,playlist_other,id,thumbnail_url
 1,"Wii Menu Start-Up",2921,False,True,"","","c4849668-c57f-482a-9ec6-895e2ead4451","https://image-assets.m.nintendo.com/7dbe7698-64c4-4c4a-8ba7-2a1fd5175507"
 2,"Wii Menu",242700,True,True,"","잘 자","2528a95b-30a7-4750-9347-e5608b853ed6","https://image-assets.m.nintendo.com/87c87c5f-6eac-445c-a8d7-a2f7d10e32bd"
-3,"Launch Screen (Mii Channel)",5588,False,False,"Mii 채널","","1f007c91-341d-4975-b0a3-6b75875a8533","https://image-assets.m.nintendo.com/406da18a-8f11-40e3-886c-958a6a003619"
+3,"Launch Screen: Mii Channel",5588,False,False,"Mii 채널","","1f007c91-341d-4975-b0a3-6b75875a8533","https://image-assets.m.nintendo.com/406da18a-8f11-40e3-886c-958a6a003619"
 4,"Mii Plaza (Mii Channel)",120351,True,True,"Mii 채널","휴식","07abf31e-8db1-4c44-95cf-a0f510cffb36","https://image-assets.m.nintendo.com/a621ae8f-d401-4f40-b464-828500f76d7f"
 5,"Making a Mii (Mii Channel)",120348,True,False,"Mii 채널","","58795c8b-da8c-4a41-9ae9-5ad778e021f5","https://image-assets.m.nintendo.com/e47e0f8f-af55-42aa-97e2-f552aa821381"
 6,"Mii Parade: Walking (Mii Channel)",120352,True,True,"Mii 채널","","9ab2c598-788c-439a-8ffe-d8e21a57827b","https://image-assets.m.nintendo.com/b807e392-3e5c-4fe7-810b-2afa2f6527f8"
