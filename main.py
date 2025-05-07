@@ -43,7 +43,8 @@ class Track(TypedDict):
     is_loop: bool
     is_best: bool
     playlist: set[str]
-    playlist_other: set[str]
+    playlist_2: set[str]
+    playlist_3: set[str]
     thumbnail_url: str
 
 
@@ -180,7 +181,8 @@ def gen_excel(lang: str):
                 'is_loop': is_loop,
                 'is_best': False,
                 'playlist': set(),
-                'playlist_other': set(),
+                'playlist_2': set(),
+                'playlist_3': set(),
                 'thumbnail_url': track_data.get('thumbnailURL', ''),
             }
             track_dict[track['id']] = track
@@ -207,7 +209,18 @@ def gen_excel(lang: str):
                 if game_id in game_dict:
                     game = game_dict[game_id]
                     if track_id in game['track_dict']:
-                        game['track_dict'][track_id]['playlist_other'].add(playlist_data['name'])
+                        game['track_dict'][track_id]['playlist_2'].add(playlist_data['name'])
+
+    for section_data in data['commonSections']:
+        if section_data['name'] == '听听看吧':
+            playlist_data = get_playlist_data(play_list_sum_data['id'], lang)
+            for track_data in playlist_data['tracks']:
+                game_id = track_data['game']['id']
+                track_id = track_data['id']
+                if game_id in game_dict:
+                    game = game_dict[game_id]
+                    if track_id in game['track_dict']:
+                        game['track_dict'][track_id]['playlist_3'].add(playlist_data['name'])
 
     game_group_data = get_game_group_data('RELEASEDAT', lang)
     for group_data in game_group_data['releasedAt']:
@@ -234,7 +247,7 @@ def gen_excel(lang: str):
         if not game['track_dict']:
             continue
         track_list = sorted(game['track_dict'].values(), key=lambda x: x['index'])
-        key_list = ['index', 'name', 'duration', 'is_loop', 'is_best', 'playlist', 'playlist_other', 'id', 'thumbnail_url']
+        key_list = ['index', 'name', 'duration', 'is_loop', 'is_best', 'playlist', 'playlist_2', 'playlist_3', 'id', 'thumbnail_url']
         save_csv(str(file_path), track_list, key_list)
 
     csv_path_list.insert(0, path / '_GAME_LIST_.csv')

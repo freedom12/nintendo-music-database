@@ -33,7 +33,7 @@ index,name,duration,is_loop,is_best,playlist,playlist_other,id,thumbnail_url
 32,"Ghost Portrificationizer",47080,True,False,"Professor E. Gadd","","dd7de606-678f-43d5-9e0b-850942013740","https://image-assets.m.nintendo.com/0597f41f-75f3-4c5c-b3bd-122eada39c88"
 33,"Starting Up the Ghost Portrificationizer",44350,False,True,"Professor E. Gadd","","cf198756-afae-4ce5-8640-17aba3324e64","https://image-assets.m.nintendo.com/3bdeeb7b-bb12-4477-97fc-13883cbf56bf"
 34,"Ghosts You've Caught",42027,True,True,"","","ac6294ad-3682-4aba-a58f-25113e8361a1","https://image-assets.m.nintendo.com/e98ac0f3-3fe5-42e5-a702-46d2dd835761"
-35,"Ghost Guys in the Ballroom",49082,True,False,"Ghosts","Party|Walking","f8cf65a1-f2be-4eef-a582-6c3187f0178e","https://image-assets.m.nintendo.com/da2df56d-517b-470c-972f-4aef7f12e0a7"
+35,"Ghost Guys in the Ballroom",49082,True,False,"Ghosts|Shy Guy","Party|Walking","f8cf65a1-f2be-4eef-a582-6c3187f0178e","https://image-assets.m.nintendo.com/da2df56d-517b-470c-972f-4aef7f12e0a7"
 36,"The Floating Whirlindas in the Ballroom",69090,True,True,"Ghosts","","fbd1c36c-8099-4534-a2f9-cb275c18ed16","https://image-assets.m.nintendo.com/ad9d408b-6537-4859-8464-d7cded8294c5"
 37,"Pushing the Switch",10848,False,False,"","","3f2a0f9b-ef5a-40c0-a803-5605827b4e37","https://image-assets.m.nintendo.com/1845b1d0-d580-476b-8231-5e9cad5b20d4"
 38,"Boo Escape",22069,False,False,"Boo|Ghosts","","7d4ddd98-97b5-4a19-8d83-813b1952c8fc","https://image-assets.m.nintendo.com/f5527b9d-32ec-4655-9489-010e047b8cdb"
