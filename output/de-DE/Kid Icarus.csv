@@ -1,0 +1,13 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Title Theme",76098,False,True,"","","","5de18281-cb91-471c-8fe6-36f9ae9b638c","https://image-assets.m.nintendo.com/4fc4d6d8-8303-4e0c-be68-c8ed9b9036e2"
+2,"Stage 1",101375,True,True,"","","","517740a9-19ff-4f4c-ac85-b302d13926a1","https://image-assets.m.nintendo.com/b4360d51-524e-43bb-8cbf-5d1b1b60ce77"
+3,"Boss BGM",40714,True,True,"","","","79027101-43ff-4f38-9168-22974feb30c3","https://image-assets.m.nintendo.com/d763b5ff-d0e8-492c-8b09-b0860ae457ec"
+4,"Stage Clear",2967,False,False,"","","","53e82475-d7be-471d-92f2-6bf31187bcfd","https://image-assets.m.nintendo.com/f340c98d-bbee-406d-af41-5f9e2f00459c"
+5,"Stage 2",146101,True,True,"","","","9d7f189e-311d-4e21-86d0-38d0980c5819","https://image-assets.m.nintendo.com/f9cde0b7-a09a-489a-8640-4a2a4f745703"
+6,"Fortress",109894,True,True,"","","","20df412d-e0d3-4a2d-a4f2-3d3b808b9ac5","https://image-assets.m.nintendo.com/f0a87250-4bca-426a-b888-f0f898483b7e"
+7,"Stage 3",66238,True,True,"","","","62e45e26-cc3f-4943-a032-611cf015092f","https://image-assets.m.nintendo.com/9e6d90a5-7641-4a26-8ee7-d0af4be6f9c3"
+8,"Reaper's Theme",27899,True,True,"","","","9f54f58d-b1bb-498a-bef3-42a96875c324","https://image-assets.m.nintendo.com/e841c439-fb8f-42f9-8b55-2dbe9aad5866"
+9,"Game Over",3804,False,False,"","","","2d7292c6-55d4-47ed-a49f-db142201612d","https://image-assets.m.nintendo.com/b208650c-9b64-4ae3-80d1-20f8b7788092"
+10,"Stage 4",110964,True,True,"","","","691a2f99-98ae-4e51-a7ce-691a4e950274","https://image-assets.m.nintendo.com/274da035-9815-47db-9ae6-fe377c972026"
+11,"Final Boss BGM",40671,True,True,"","","","4b934358-aca1-4a84-b0c0-df47f39e0633","https://image-assets.m.nintendo.com/d5459f5e-8db9-4b2f-ba2e-2dadd4b6cec1"
+12,"Ending Theme",104239,False,True,"","","","2b356749-5376-4a87-bdc0-ebc78764c7eb","https://image-assets.m.nintendo.com/b15d4c2a-0cc5-4baf-9512-89a66bd8fd5b"

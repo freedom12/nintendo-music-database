@@ -1,10 +1,9 @@
 import concurrent.futures
 import json
 import math
-import os
 import re
 from pathlib import Path
-from typing import Iterable, Optional, TypedDict
+from typing import Optional, TypedDict
 import csv
 import pandas as pd
 import requests
@@ -19,8 +18,8 @@ import requests
 # https://api.m.nintendo.com/catalog/officialPlaylists/772a2b39-c35d-43fd-b3b1-bf267c01f342?country=JP&lang=ja-JP&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
 
 host = 'https://api.m.nintendo.com'
-# lang_list = ['zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
-lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
+lang_list = ['zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
+# lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
 
 
 class Game(TypedDict):
