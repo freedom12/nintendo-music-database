@@ -1,7 +1,7 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
 1,"オープニング",98508,False,True,"","","Nintendo Musicセレクション|Nintendo Musicピックアップ集","eac08659-4c5c-4746-8c8a-9626ed15f2d3","https://image-assets.m.nintendo.com/2dda3131-1d1c-4462-8582-6745f1782a47"
 2,"タイトル",74659,True,True,"","タイトル画面","Nintendo Musicピックアップ集","b127d1eb-1ee8-49f9-9a6e-3f23c6187bc7","https://image-assets.m.nintendo.com/eec4db00-1713-4b43-82f0-cefda3403e0b"
-3,"セレクト",109369,True,False,"","ほっと一息","","42dfceae-22f5-47d9-85c1-79face0e764d","https://image-assets.m.nintendo.com/bfbe4ca6-4912-43ec-a007-98bc88f90354"
+3,"セレクト",109369,True,False,"","ほっとひと息|ほっと一息","","42dfceae-22f5-47d9-85c1-79face0e764d","https://image-assets.m.nintendo.com/bfbe4ca6-4912-43ec-a007-98bc88f90354"
 4,"マップ",116067,True,False,"","","","c2eb324b-529c-43e8-a9dc-768770d99c5e","https://image-assets.m.nintendo.com/41f8eadf-6f2a-484e-a6e5-5d8e7ac8ea57"
 5,"Ｖ.Ｓ.セレクト",57943,True,False,"","","","bcc5b5be-336a-4e57-9176-fe55f9d5fb32","https://image-assets.m.nintendo.com/9a8e4353-a7fb-44a3-8311-823f3e8e2ace"
 6,"スタートデモ１",52719,False,True,"高難度ルート","冒険のはじまり","Nintendo Musicピックアップ集","c8a06667-071b-4928-8147-73c89b4a5e6e","https://image-assets.m.nintendo.com/bc61fb0b-ebc0-4051-a5eb-97b793625033"
