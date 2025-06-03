@@ -18,8 +18,8 @@ import requests
 # https://api.m.nintendo.com/catalog/officialPlaylists/772a2b39-c35d-43fd-b3b1-bf267c01f342?country=JP&lang=ja-JP&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
 
 host = 'https://api.m.nintendo.com'
-# lang_list = ['zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
-lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
+lang_list = ['zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
+# lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
 
 
 class Game(TypedDict):
@@ -230,7 +230,7 @@ def gen_excel(lang: str):
                 if track_id in track_dict:
                     track_dict[track_id]['playlist'].add(play_list_sum_data['name'])
 
-    data = json.loads(open('nm.json', 'r', encoding='utf-8').read())
+    data = json.loads(open('home.json', 'r', encoding='utf-8').read())
     for section_data in data['miscSections']:
         for play_list_sum_data in section_data['playlists']:
             playlist_data = get_playlist_data(play_list_sum_data['id'], lang)
