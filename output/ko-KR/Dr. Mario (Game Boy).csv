@@ -1,9 +1,9 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
 1,"Selection Screen",52125,True,True,"","","Nintendo Music 픽업 모음","a9e419aa-3426-4542-a87d-3ddcbdc1b0f0","https://image-assets.m.nintendo.com/8c68ae9b-91ce-4563-8725-0b4b00bf4566"
-2,"Fever",152195,True,True,"","","Nintendo Music 셀렉션|Nintendo Music 픽업 모음|마리오 셀렉션","2a961fd5-0732-4dcf-a0c8-a8c5ee987a09","https://image-assets.m.nintendo.com/90046f43-1237-4535-af98-ddf23efba507"
+2,"Fever",152195,True,True,"","","Nintendo Music 셀렉션|Nintendo Music 픽업 모음|「재생 시간 조정」으로 추천|마리오 셀렉션","2a961fd5-0732-4dcf-a0c8-a8c5ee987a09","https://image-assets.m.nintendo.com/90046f43-1237-4535-af98-ddf23efba507"
 3,"Game Over",1448,False,False,"","","","50ea585a-230d-44f7-bdd5-284882ee385b","https://image-assets.m.nintendo.com/615bfefd-b8be-46ab-815a-c51da332a969"
-4,"Vs. Game Over",113157,True,False,"","","","195b7980-3080-46ed-85d2-011f75f7e53f","https://image-assets.m.nintendo.com/38bd86fd-bb80-4512-a7ee-b75d89b54c77"
-5,"Chill",249694,True,True,"","","Nintendo Music 셀렉션|Nintendo Music 픽업 모음|마리오 셀렉션","668eae09-dbff-4b68-9505-0bc98f69c3a5","https://image-assets.m.nintendo.com/1e49ee88-dc7e-4a72-bff9-281710d7224b"
+4,"Vs. Game Over",113157,True,False,"","","「재생 시간 조정」으로 추천","195b7980-3080-46ed-85d2-011f75f7e53f","https://image-assets.m.nintendo.com/38bd86fd-bb80-4512-a7ee-b75d89b54c77"
+5,"Chill",249694,True,True,"","","Nintendo Music 셀렉션|Nintendo Music 픽업 모음|「재생 시간 조정」으로 추천|마리오 셀렉션","668eae09-dbff-4b68-9505-0bc98f69c3a5","https://image-assets.m.nintendo.com/1e49ee88-dc7e-4a72-bff9-281710d7224b"
 6,"Stage Clear",2204,False,False,"","","","8c7c5f85-7f4b-4314-b7d0-cefb8ac2909f","https://image-assets.m.nintendo.com/e72d5b69-3b79-432b-8f65-80882313292c"
 7,"Level 20 Low Clear & Ending",120455,True,False,"","","","35635702-182a-4f39-bfe2-0984080bf997","https://image-assets.m.nintendo.com/ed0f9b46-24e3-4dc1-8adb-022ad5dcaadf"
 8,"Level 20 Hi Clear (UFO) & Ending",120454,True,True,"","","Nintendo Music 픽업 모음","b90b0d58-99cc-46c1-821d-2185b44d4dd0","https://image-assets.m.nintendo.com/e730f22d-d018-4cd5-8bda-7aaaecda60d1"

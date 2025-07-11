@@ -1,9 +1,9 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
 1,"Title Screen",39159,False,True,"","Temi dello schermo del titolo","Il meglio di Nintendo Music","30d9dfdd-7707-46de-95cc-98db04487fb4","https://image-assets.m.nintendo.com/ac88889b-d7fd-4211-b276-03df5a93d67b"
 2,"A-Type (Early Version)",92236,True,True,"","","Il meglio di Nintendo Music","35411cf6-2358-43ae-8b0b-90e28e5dc1fb","https://image-assets.m.nintendo.com/afa0e897-0958-42f6-ac6e-60b62ca89d02"
-3,"A-Type",92236,True,True,"","","Il meglio di Nintendo Music","7e232803-f559-4c72-a746-757988a06240","https://image-assets.m.nintendo.com/d34f71ab-80d8-4fc4-924c-3f756e9cd8d7"
-4,"B-Type",89019,True,True,"","","Il meglio di Nintendo Music","fd83cf0c-c612-425d-8006-39d89f7e9c2b","https://image-assets.m.nintendo.com/c86dd53d-1cb1-41d5-aa05-490e02cb610c"
-5,"C-Type",92236,True,True,"","","Il meglio di Nintendo Music","da6d84fe-068d-497e-a495-39628ed48619","https://image-assets.m.nintendo.com/444b1155-5aca-4f0f-9d4e-01527db0564b"
+3,"A-Type",92236,True,True,"","","Il meglio di Nintendo Music|Scelti per la riproduzione in loop","7e232803-f559-4c72-a746-757988a06240","https://image-assets.m.nintendo.com/d34f71ab-80d8-4fc4-924c-3f756e9cd8d7"
+4,"B-Type",89019,True,True,"","","Il meglio di Nintendo Music|Scelti per la riproduzione in loop","fd83cf0c-c612-425d-8006-39d89f7e9c2b","https://image-assets.m.nintendo.com/c86dd53d-1cb1-41d5-aa05-490e02cb610c"
+5,"C-Type",92236,True,True,"","","Il meglio di Nintendo Music|Scelti per la riproduzione in loop","da6d84fe-068d-497e-a495-39628ed48619","https://image-assets.m.nintendo.com/444b1155-5aca-4f0f-9d4e-01527db0564b"
 6,"25 Lines Cleared",1464,False,True,"","","Il meglio di Nintendo Music","8c387ec7-f96c-435a-98f6-ffc2cff2c24f","https://image-assets.m.nintendo.com/c518b849-0cc2-45d6-a2e5-5c2f51af42b8"
 7,"Ending: High 0",3799,False,False,"","","","10894436-9187-4948-a56e-24839b8bcc70","https://image-assets.m.nintendo.com/8e951a13-e045-47df-9349-80c5d3e7c0a0"
 8,"Ending: High 1",3758,False,False,"","","","4781bab6-2756-4670-b262-9c7d3fedf016","https://image-assets.m.nintendo.com/db1c22bb-c50b-4632-859e-dde1301098ff"

@@ -1,6 +1,6 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
 1,"Welcome To Dream Land",40802,True,True,"","Pantalla del título","Destacados de Nintendo Music|Selección de Nintendo Music","768b8a25-5174-4340-9cce-dbb571efe571","https://image-assets.m.nintendo.com/a7bfe642-a0d6-4258-8f33-e3be8cd41fee"
-2,"Green Greens",72357,True,True,"","Nuevas aventuras","Destacados de Nintendo Music|Selección de Nintendo Music","d4ecd7ea-621d-4e1b-9a2f-d8c736959949","https://image-assets.m.nintendo.com/1206da25-3b2e-46e0-b69b-f7e5a373d7b6"
+2,"Green Greens",72357,True,True,"","Nuevas aventuras","Destacados de Nintendo Music|Selección de Nintendo Music|Sugerencias de reproducción en bucle","d4ecd7ea-621d-4e1b-9a2f-d8c736959949","https://image-assets.m.nintendo.com/1206da25-3b2e-46e0-b69b-f7e5a373d7b6"
 3,"Boss Theme",49912,True,True,"","","Destacados de Nintendo Music","6efa8dd0-84e4-486c-a2ce-17cbf3b6419b","https://image-assets.m.nintendo.com/08fb09d4-73b8-41a4-a00b-b3d14876b536"
 4,"Sparkling Stars",24694,True,False,"","","","938d6082-7d1c-4160-b139-0e7f5a102d12","https://image-assets.m.nintendo.com/bd509245-a9f7-40ce-a57a-09960b53058e"
 5,"Kirby Dance",6275,False,True,"","¡Victoria!","Destacados de Nintendo Music","c52fbcc8-e7d2-4ee4-b6d9-53e70ba635a0","https://image-assets.m.nintendo.com/7f403d65-0b7a-4ba4-85f9-63d33e745777"
@@ -12,5 +12,5 @@ index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_
 11,"Defeat",2861,False,False,"","","","488e0c78-37bc-4aca-9cff-c535974e3b46","https://image-assets.m.nintendo.com/380cb2e3-6b45-4004-8575-181c248c7ad8"
 12,"Game Over",5423,False,False,"","","","1096c313-c3a7-4ae6-b84f-9e20fab0af7e","https://image-assets.m.nintendo.com/b53ea132-8bde-473f-bcc0-fda39627d1f6"
 13,"Boss Game Select",30086,True,False,"","","","56c31270-3b86-42c6-a0d4-d118a5f65234","https://image-assets.m.nintendo.com/34d60e5f-8b49-483a-9f0a-796214d3534a"
-14,"Mt. DeDeDe",63307,True,True,"Rey Dedede","Enfrentamientos finales","Destacados de Nintendo Music|Selección de Nintendo Music","5dc1d781-d66a-4052-b827-2976460785eb","https://image-assets.m.nintendo.com/3e4fff17-b46d-4a82-b750-516bb76077fe"
-15,"A New Wind for Tomorrow",95450,True,True,"","Créditos","Destacados de Nintendo Music","dce2dfd1-3b78-42e0-802e-a9f730ba70f4","https://image-assets.m.nintendo.com/69ec040e-4b1b-4384-90a1-01325fe8ee0d"
+14,"Mt. DeDeDe",63307,True,True,"Rey Dedede","Enfrentamientos finales","Destacados de Nintendo Music|Selección de Nintendo Music|Sugerencias de reproducción en bucle","5dc1d781-d66a-4052-b827-2976460785eb","https://image-assets.m.nintendo.com/3e4fff17-b46d-4a82-b750-516bb76077fe"
+15,"A New Wind for Tomorrow",95450,True,True,"","Créditos","Destacados de Nintendo Music|Sugerencias de reproducción en bucle","dce2dfd1-3b78-42e0-802e-a9f730ba70f4","https://image-assets.m.nintendo.com/69ec040e-4b1b-4384-90a1-01325fe8ee0d"

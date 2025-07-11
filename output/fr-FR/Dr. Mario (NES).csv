@@ -1,9 +1,9 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title Screen",130080,True,True,"","Écrans titre","Compilation Nintendo Music|Sélection Nintendo Music|Sélection série Mario","d7c1b507-5bbf-46df-90f3-7eba3bbfbbe0","https://image-assets.m.nintendo.com/d415662b-226a-4cd6-9dbc-7c615212266e"
+1,"Title Screen",130080,True,True,"","Écrans titre","Compilation Nintendo Music|Sélection Nintendo Music|Sélection série Mario|Sélection « Extension de piste »","d7c1b507-5bbf-46df-90f3-7eba3bbfbbe0","https://image-assets.m.nintendo.com/d415662b-226a-4cd6-9dbc-7c615212266e"
 2,"Selection Screen",53919,True,True,"","","Compilation Nintendo Music","b5562aa6-86f2-4b2e-a5a9-645a6cb46c7f","https://image-assets.m.nintendo.com/8ba1a6a5-a193-4355-98aa-32a174adb87d"
-3,"Fever",146072,True,True,"","","Compilation Nintendo Music","3dc9230f-e54f-4240-ba3f-74a55650b86b","https://image-assets.m.nintendo.com/e3f896eb-3ba4-4b05-ae40-40ac6b5f3bd9"
+3,"Fever",146072,True,True,"","","Compilation Nintendo Music|Sélection « Extension de piste »","3dc9230f-e54f-4240-ba3f-74a55650b86b","https://image-assets.m.nintendo.com/e3f896eb-3ba4-4b05-ae40-40ac6b5f3bd9"
 4,"Fever Clear",22379,False,True,"","","Compilation Nintendo Music","360d8cf3-841e-4f1d-9afa-7eea91d79042","https://image-assets.m.nintendo.com/501d9cc4-940e-4200-bfa9-5d3fa7521d6c"
-5,"Chill",261313,True,True,"","","Compilation Nintendo Music","0fc23f70-0c6a-4e79-b6aa-e8de6fd79c4c","https://image-assets.m.nintendo.com/dd29288e-b42a-4f95-b415-d54a29b45135"
+5,"Chill",261313,True,True,"","","Compilation Nintendo Music|Sélection « Extension de piste »","0fc23f70-0c6a-4e79-b6aa-e8de6fd79c4c","https://image-assets.m.nintendo.com/dd29288e-b42a-4f95-b415-d54a29b45135"
 6,"Chill Clear",21588,False,True,"","","Compilation Nintendo Music","44abe951-3fb8-4785-919a-0a2884f33ad6","https://image-assets.m.nintendo.com/2fa1d9ac-7981-4838-bcb9-6bfe297fc2ee"
 7,"Game Over",23380,False,False,"","","","e382f37f-6f51-4a29-b3db-e1fb7b792c07","https://image-assets.m.nintendo.com/67d9e7a7-9205-4c65-be42-aa23e4d06c87"
 8,"Vs. Game Over",119311,True,False,"","","","3ef2bba8-a6b9-4158-89bc-1463072c9d1a","https://image-assets.m.nintendo.com/0fcebe42-6572-481f-9bef-cb71926e738f"

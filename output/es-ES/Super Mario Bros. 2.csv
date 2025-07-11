@@ -1,7 +1,7 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
 1,"Title BGM",29074,False,True,"","Pantalla del título","Destacados de Nintendo Music|Selección de Mario|Selección de Nintendo Music","5de81664-b879-47e9-98a9-63238ec284d4","https://image-assets.m.nintendo.com/04f03eb3-8804-4277-9b32-890847acfc47"
-2,"Please Select Player",69396,True,True,"","","Destacados de Nintendo Music|Selección de Mario|Selección de Nintendo Music","2e9ac249-276c-48e4-b9e0-72dbe56be2cb","https://image-assets.m.nintendo.com/a9eff336-d5fe-4a6d-991f-cb2f6eb8d5a2"
-3,"Ground BGM",93956,True,True,"","Nuevas aventuras","Destacados de Nintendo Music|Selección de Mario|Selección de Nintendo Music","30c5c8d3-c22b-4a98-900e-38869ab77a14","https://image-assets.m.nintendo.com/91889b4c-ac88-4cf6-9c90-3713f732c5e9"
+2,"Please Select Player",69396,True,True,"","","Destacados de Nintendo Music|Selección de Mario|Selección de Nintendo Music|Sugerencias de reproducción en bucle","2e9ac249-276c-48e4-b9e0-72dbe56be2cb","https://image-assets.m.nintendo.com/a9eff336-d5fe-4a6d-991f-cb2f6eb8d5a2"
+3,"Ground BGM",93956,True,True,"","Nuevas aventuras","Destacados de Nintendo Music|Selección de Mario|Selección de Nintendo Music|Sugerencias de reproducción en bucle","30c5c8d3-c22b-4a98-900e-38869ab77a14","https://image-assets.m.nintendo.com/91889b4c-ac88-4cf6-9c90-3713f732c5e9"
 4,"Underground BGM",37448,True,True,"","","Destacados de Nintendo Music","14145408-663f-4ef3-b827-da9edcf46781","https://image-assets.m.nintendo.com/ebd4d93c-93db-4c70-8c53-7aecac4ac8e5"
 5,"Sub-Space BGM",43838,True,True,"","","Destacados de Nintendo Music","fec431bf-259f-49c4-b108-6d065704ef89","https://image-assets.m.nintendo.com/b9286ca2-2f01-40f4-aec2-3afe771fcdb7"
 6,"Boss BGM",53423,True,True,"","Enemigos temibles","Destacados de Nintendo Music","5efbec78-2e2c-4ace-a139-26ece3b0840a","https://image-assets.m.nintendo.com/a796b905-7d94-40a0-b251-c75a96fe18c9"
@@ -11,5 +11,5 @@ index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_
 10,"Bonus Chance: Lose",1811,False,False,"","","","f1435666-e35b-4dce-95f5-438e705f261b","https://image-assets.m.nintendo.com/6082b750-2228-4c0f-9161-7bac3404db36"
 11,"Course Clear",4574,False,False,"","¡Victoria!","","8174105a-f208-4962-ab93-27052a821886","https://image-assets.m.nintendo.com/bc978068-fcca-4041-bc61-92d596048429"
 12,"Final Boss BGM",43842,True,True,"","Enfrentamientos finales","Destacados de Nintendo Music","c88b837d-a731-45cd-a857-663213aa5835","https://image-assets.m.nintendo.com/a16d4a52-5231-4274-8b3c-9bdf0ef93608"
-13,"Ending",115487,True,True,"","","Destacados de Nintendo Music","4fc7f3a9-aee7-4bb9-acf3-1758d1da9bc7","https://image-assets.m.nintendo.com/88b888bb-d6ea-4796-99e3-aaff0963cac8"
+13,"Ending",115487,True,True,"","","Destacados de Nintendo Music|Sugerencias de reproducción en bucle","4fc7f3a9-aee7-4bb9-acf3-1758d1da9bc7","https://image-assets.m.nintendo.com/88b888bb-d6ea-4796-99e3-aaff0963cac8"
 14,"Game Over",1978,False,False,"","","","c6176172-b1a9-4ef1-b6a4-3aad991b9296","https://image-assets.m.nintendo.com/de4046c5-4d06-43f6-a57a-8b6936cb80ba"
