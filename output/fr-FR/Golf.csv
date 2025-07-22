@@ -1,0 +1,11 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Tee Shot",4365,False,True,"","","","4bbaa9a0-f2c7-46d0-97f2-e97cba46e330","https://image-assets.m.nintendo.com/221223a7-b27e-4dc5-9950-49d7a4726392"
+2,"Second Shot",3485,False,True,"","","","57a341a3-15b5-41d3-bb2c-71451eb54c3f","https://image-assets.m.nintendo.com/8d9e7de1-9761-4c69-abaa-4ea4ee7ec43d"
+3,"Out of Bounds",6501,False,True,"","","","cd423a6b-e272-45e5-bf65-ec201b2bf1dd","https://image-assets.m.nintendo.com/88004058-221b-484e-970f-6f6125b5d211"
+4,"Water Hazard",6560,False,True,"","","","c64acd75-3015-42a0-88ff-b8c935b2a455","https://image-assets.m.nintendo.com/dececb0a-04b7-4b2c-aeb6-1a0c291d5279"
+5,"Bunker",5610,False,True,"","","","9a232b47-151d-4b97-852c-807f47ed246a","https://image-assets.m.nintendo.com/f5ede20b-b5dd-4027-946d-32d69c3ae803"
+6,"Bunker Shot",1906,False,True,"","","","17151e25-f527-4911-b79b-09f0d77e3062","https://image-assets.m.nintendo.com/3c79e9c1-d37c-4da1-971c-fc8a0f4eb910"
+7,"Birdie Try / Eagle Try",2730,False,True,"","","","7ac01d74-e01e-4e91-b98e-4666c88a8679","https://image-assets.m.nintendo.com/8d229c6b-b837-4199-9ceb-75e11853038e"
+8,"Par / Birdie / Eagle / Double Eagle",3847,False,True,"","","","275b0094-a87f-490d-81b1-647a9c885d44","https://image-assets.m.nintendo.com/12f0450e-241a-4237-afb2-9db0ce728ae4"
+9,"Bogey / Double Bogey",4094,False,True,"","","","03b87dbf-2238-4fd9-817b-1221f0b7e0b7","https://image-assets.m.nintendo.com/1910428f-ec86-431b-8f67-1249833a58f4"
+10,"Match-Play Victory",2793,False,True,"","","","1520c1f2-4d79-47eb-8291-43e9b7cebe13","https://image-assets.m.nintendo.com/37b393a6-c20e-4f24-8230-727b0f50cb20"

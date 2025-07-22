@@ -1,0 +1,10 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Title BGM",5072,False,True,"","","","f139aca4-14af-45e6-b8b1-9e3811be0716","https://image-assets.m.nintendo.com/ed975f04-4fa7-480d-96f9-fb766680e8c3"
+2,"Round 1 BGM",31886,True,True,"","","","e536150e-b678-4ea5-b62a-f53862ab4ae9","https://image-assets.m.nintendo.com/ad6c471d-f05e-4e2b-a266-11c28dcb6fa1"
+3,"Flower Guarding BGM",23606,True,True,"","","","11ddc454-8781-4260-be82-70c963459350","https://image-assets.m.nintendo.com/89399ce5-34b3-426c-9916-b902412a06b7"
+4,"Round 1 Clear",5261,False,True,"","Vittoria!","","3974adf9-f015-4b3c-81af-1fbd16709c16","https://image-assets.m.nintendo.com/647809e3-b67d-43fd-bb3f-a8debdf1edd4"
+5,"Round 2 BGM",27865,True,True,"","","","781abd29-dd9a-4b65-b925-63200efa3936","https://image-assets.m.nintendo.com/4dba7794-035f-4186-ac22-a4c26153e5b9"
+6,"Danger!",24670,True,False,"","","","1e8c9297-a2a8-4768-97d3-6d40009671c7","https://image-assets.m.nintendo.com/cec9b6ab-bcf6-4e6f-ac84-cb244112508c"
+7,"Player Down",5358,False,False,"","","","086db11e-589e-4cf5-91d8-d53699a087ea","https://image-assets.m.nintendo.com/b128c5e5-35c1-4ff3-bb92-323b3b9ed178"
+8,"Power Spray",32114,True,True,"","","","d2929fda-a6ae-4884-ba3c-27a8a7db64f6","https://image-assets.m.nintendo.com/8b68017c-aad5-4d90-a9e9-0dbf9a6ec10f"
+9,"Round 2 Clear",6329,False,True,"","","","bdee5ebd-4b84-475c-9bd8-9d8cb53c7a98","https://image-assets.m.nintendo.com/3a9b6378-5106-43d2-a02e-07fe909fcc68"

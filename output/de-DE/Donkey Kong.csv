@@ -1,0 +1,12 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Title BGM",15005,False,True,"","","","cf3122d2-8293-4a8f-b9f7-9e10d8732e1c","https://image-assets.m.nintendo.com/b0b1de8a-473d-4c9c-b580-d13af816de1a"
+2,"Game Start",6461,False,True,"","","","05dc44f2-cfd7-45d6-bfe8-a8225dedc11e","https://image-assets.m.nintendo.com/8163b845-58bd-4101-85f8-39da6aa3c201"
+3,"Round Start BGM",3917,False,True,"","","","6e57a285-9275-4ebe-9a8b-c7def13f03b3","https://image-assets.m.nintendo.com/f307b495-6d61-4963-940b-8830c18a20d0"
+4,"Round 1 BGM",36383,True,True,"","","","3d033b22-b6e2-4ae3-b1cd-af1a5e0360f3","https://image-assets.m.nintendo.com/e1e92465-913d-4f11-a9dd-b96ac04b876d"
+5,"Hammer BGM",25734,True,True,"","","","2a356db0-f393-4f59-80c3-10eebc0d5171","https://image-assets.m.nintendo.com/5d325404-ac25-4033-ace0-49dcc42123d5"
+6,"Round 1 and 2 Clear",3507,False,True,"","","","32afaae9-021d-4434-b1a2-6a23a8b7fe11","https://image-assets.m.nintendo.com/37adeb4e-cba6-4a67-a041-b580dd716010"
+7,"Round 2 BGM",33169,True,True,"","","","22dbf7c5-f1e4-4890-b3e1-846b26ee5fc5","https://image-assets.m.nintendo.com/e454769e-f316-4106-9d0a-a5c95eccabe4"
+8,"Player Down",4514,False,False,"","","","b3e52521-5b9e-478a-8c49-ba4a107fdcd4","https://image-assets.m.nintendo.com/90d8c36b-b788-4e4b-8cc1-bb66417b1b07"
+9,"Round 3 BGM",32124,True,True,"","","","4ff63f3e-3960-4e2c-99c4-4d9f01ecc24b","https://image-assets.m.nintendo.com/9bd3b140-401d-4c42-8e8b-b658ea830875"
+10,"Hurry Up!",22274,True,False,"","","","06077d24-6b2a-4a4f-802d-8818725f387a","https://image-assets.m.nintendo.com/a6bd6718-4bb0-460a-b145-81b0aff787ce"
+11,"Round 3 Clear",7509,False,True,"","Gewonnen!","","168b19fc-1445-4ef3-8b4a-d716772f7eeb","https://image-assets.m.nintendo.com/6459ce54-fab2-4e38-a641-7e68dc4e96ef"

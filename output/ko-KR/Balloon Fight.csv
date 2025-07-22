@@ -1,0 +1,12 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Game Start",10159,False,True,"","","","e92380c2-569a-400f-9b3d-c84ac3d4d0c6","https://image-assets.m.nintendo.com/49bf4976-ac2f-4bac-8432-c0d1a3f0462a"
+2,"Enemy Floating Down",27831,True,True,"","","","49e1b86e-ebcb-473f-b605-7dd3ab741a55","https://image-assets.m.nintendo.com/b51b72f6-72c5-46ba-bd63-aec86c800d14"
+3,"Enemy Defeated",2038,False,False,"","","","541cd185-1c46-4bde-95cc-debd30cba3d7","https://image-assets.m.nintendo.com/a1145faa-3a33-46f3-8db0-08cf2641e2ad"
+4,"Popping a Bubble",1673,False,False,"","","","4b318e9f-dca8-4461-9b2f-5551591ffe09","https://image-assets.m.nintendo.com/042eb896-cb35-42d3-a0aa-4cad74d3dbe9"
+5,"Eaten by a Fish",2897,False,True,"","","","60a2b11a-d9db-4e0d-9214-4f0bed5f2f70","https://image-assets.m.nintendo.com/5abea5a1-e894-436a-9f01-2b439409394a"
+6,"Try Again",2489,False,True,"","","","d9bee05e-bfd5-49b1-ada7-46ec199c0feb","https://image-assets.m.nintendo.com/0197d246-cc04-4305-a383-79a457414297"
+7,"Clear",2981,False,True,"","","","56376e54-04a3-4c24-b611-3e67de49cbf1","https://image-assets.m.nintendo.com/84ba7f0d-09f3-4361-ab49-c6a78f06bfa0"
+8,"Perfect",2341,False,True,"","","","fffdcaf3-be68-452c-83f3-9b3444c91c90","https://image-assets.m.nintendo.com/815ceb33-cff8-4ba9-a40a-6c1560392015"
+9,"Balloon Trip",117351,True,True,"","","","fc3e374f-e861-4c05-ab0f-b88cb462560d","https://image-assets.m.nintendo.com/a1cf445f-d09e-4811-bfe1-42e7330b211d"
+10,"Game Over (Early-Model Famicom)",8536,False,True,"","","","46cd7726-8606-44e8-83b3-34428872d350","https://image-assets.m.nintendo.com/f594e6b5-5f02-48f7-b5e6-6f5ec889bf5f"
+11,"Game Over",8545,False,True,"","","","8ad42329-0431-4d5a-851c-214f01d401ff","https://image-assets.m.nintendo.com/65a9c5cc-565c-40cf-8269-c0a1f42adbe0"

@@ -1,0 +1,11 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Title BGM",12501,False,True,"","","Selección de Mario","bd1486a8-117e-4120-91cb-e56ef6242ea6","https://image-assets.m.nintendo.com/618fb27f-f658-4ac8-819d-04299bc37825"
+2,"Game Start",6445,False,True,"","","","81d7c183-c71a-45ef-9050-df68919aee28","https://image-assets.m.nintendo.com/2ccf63e5-d241-4203-964c-086d0edb6d37"
+3,"Player Down",3262,False,True,"","","","ab777778-43ab-4b92-9116-671b08152887","https://image-assets.m.nintendo.com/cb1c2e04-2b3d-45f9-917c-b620abd600c8"
+4,"Restart",2451,False,True,"","","","f311342b-7dec-4e53-b440-765f1141d8a6","https://image-assets.m.nintendo.com/998e18c8-4bb1-4ce1-85f3-aa8212cfa7e0"
+5,"Clear",2900,False,True,"","","","54c38a10-6901-4cd4-925f-1dab3ab71c3a","https://image-assets.m.nintendo.com/b08ff198-4ae9-4ed0-841d-63e182809ae5"
+6,"Game Start (Phase 2 Onward)",3153,False,True,"","","","7c1cf7b2-e3b2-48c2-a1c8-4d7a0721c219","https://image-assets.m.nintendo.com/c57792e0-99e2-46db-a3a7-8c4b70efc5b7"
+7,"Extra Points",2167,False,True,"","","","49188890-7b1b-47eb-aa22-0d66113b9043","https://image-assets.m.nintendo.com/5a2a688e-0d5e-411b-bc5e-782c035d3b97"
+8,"Bonus Round",24405,True,False,"","","","9fd73003-3b88-474c-9377-4264efddb5d1","https://image-assets.m.nintendo.com/1af37fbb-7a51-43ce-be12-711e27ae563a"
+9,"Perfect Score",2522,False,True,"","","","185944dc-4169-457d-872e-027f93eb41ae","https://image-assets.m.nintendo.com/b05b2c85-1299-42fd-8792-e0aebcf0ff3f"
+10,"Game Over",6113,False,True,"","","","c2c05fa2-6235-40a9-850e-901dbc961ff9","https://image-assets.m.nintendo.com/9290b7f3-151d-497d-a302-34000856df9d"

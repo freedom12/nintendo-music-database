@@ -1,0 +1,13 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Title BGM",5915,False,True,"","","","910b1952-cb3b-4701-a947-967314b5fd51","https://image-assets.m.nintendo.com/d5376ade-4c91-476a-a7d4-1178c4d6cf15"
+2,"Game A/B Start",7515,False,True,"","","","01a51f76-76ad-4151-a024-6dcd8d6a76b1","https://image-assets.m.nintendo.com/6640e61a-1aa2-472e-919a-d136df8e7ffe"
+3,"Gunmen on the Move",6488,False,True,"","","","51dbe11b-31d9-4fce-b7dc-8db68aba5ef9","https://image-assets.m.nintendo.com/b22f804a-b3c4-4d9a-8cb8-dee520b0fbc8"
+4,"Gunmen at the Ready",7887,False,True,"","","","b1d75479-563e-45e4-becb-3a1735c756e1","https://image-assets.m.nintendo.com/ce6217ef-4d48-45a1-ad7a-a03c4d07e358"
+5,"FIRE!!",1493,False,True,"","","","1a6554b6-b771-4c44-9c0e-c3de0fc8ef38","https://image-assets.m.nintendo.com/83a00870-7f62-42b3-bd34-bf79229ac4a5"
+6,"Hit",2666,False,True,"","","","0c94bd38-e602-4f94-ba5d-ac38f2cef9a6","https://image-assets.m.nintendo.com/04c3a523-b9d4-4476-93e2-b72493744a25"
+7,"YOU WON!!",2439,False,True,"","","","4834a95a-103b-482f-91bf-6f7677352a09","https://image-assets.m.nintendo.com/1847f2be-2aac-4304-b0c8-d63ac33cd6d6"
+8,"FOUL!!",3099,False,True,"","","","c0deb435-af5f-4a43-a359-be3c016585ab","https://image-assets.m.nintendo.com/6c4f508f-1f45-4f3a-a375-fb561c49871f"
+9,"Game C Start",4298,False,True,"","","","1d6ce488-8b83-45e1-9589-085066c8a13e","https://image-assets.m.nintendo.com/adb6d738-b5f0-48e4-bfb7-1def15e141d1"
+10,"Window/Door Open",1526,False,True,"","","","3e9598ed-5143-4aeb-8a46-f5144b0f9fe7","https://image-assets.m.nintendo.com/cacb39f3-661a-4188-840d-285be7793040"
+11,"YOU LOST!!",6804,False,True,"","","","e1fde76e-1ec0-4042-978b-27caca3e9f34","https://image-assets.m.nintendo.com/9b9b12cc-6d27-4212-9fcd-be7b7db4c20d"
+12,"Game Over",7490,False,True,"","","","064076af-1434-4c63-9710-5af3db19ad3e","https://image-assets.m.nintendo.com/8a2f5572-d928-42e0-a526-c5b176030bc1"

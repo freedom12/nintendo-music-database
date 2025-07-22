@@ -1,0 +1,13 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Title BGM",13676,False,True,"","","","98ced32f-e6ae-4f60-8393-c0f93e6e580c","https://image-assets.m.nintendo.com/6798b3e0-6c1a-4b8c-8182-afa2ecb0e504"
+2,"Game Start",4332,False,True,"","","","53bdea11-d3c8-45c0-8c23-d06fa934993f","https://image-assets.m.nintendo.com/14a5b6b2-f82b-4c10-becf-0a4f10ab857e"
+3,"Round 1 BGM",32124,True,True,"","","","d9260727-c005-498b-947d-33a25a07d304","https://image-assets.m.nintendo.com/55c3a990-f9c1-46b7-9d73-c852f839567b"
+4,"Round 1 Clear",6136,False,True,"","","","a9c749a2-bf14-4d18-990c-7ddf2cfef0e4","https://image-assets.m.nintendo.com/7ea10505-eecb-4751-afaa-16a1718421d1"
+5,"Round 2 BGM",72110,True,True,"","","","5fb5510e-ebee-438e-bf6d-a262805e6290","https://image-assets.m.nintendo.com/ba1279ee-0e09-4005-8f71-f81b98c30b8f"
+6,"Player Down",3993,False,False,"","","","d7c024cf-44b4-4ee5-85ae-e66160232b16","https://image-assets.m.nintendo.com/925ef30b-7406-403a-9f62-dc8da64ca974"
+7,"Round 2 Clear",6077,False,True,"","","","3c1fe375-a125-4e13-a604-9e20ebdab0c6","https://image-assets.m.nintendo.com/e3febcbe-e763-41dc-8129-19656a1eeeae"
+8,"Round 3 BGM",56742,True,True,"","","","f2d6040f-46ee-46b5-a629-501cfa3eb429","https://image-assets.m.nintendo.com/b3afc1e9-90a9-4059-8756-3fc8e5eaa699"
+9,"Round 3 Clear",5516,False,True,"","","","7368f17a-ffc3-40f0-b3ef-71471c46532f","https://image-assets.m.nintendo.com/fb163091-140f-44a6-a1d0-6f656cbfd489"
+10,"Round 4 BGM",36384,True,True,"","","","eea94b72-1007-4c1d-8457-54bc2a4a463e","https://image-assets.m.nintendo.com/5702fecb-117e-4a87-8d81-40622b6cd5f9"
+11,"Hurry Up!",21506,True,False,"","","","76344970-5f30-4256-897d-4254d3da0f39","https://image-assets.m.nintendo.com/45b1208c-c70b-401e-88ff-4ca451ccd61d"
+12,"Round 4 Clear (All Clear!)",6244,False,True,"","Vittoria!","","d895d2dd-94f0-4856-a583-730268aac5ac","https://image-assets.m.nintendo.com/e70ae9db-b325-42e3-89a1-9f24e5cd4f44"
