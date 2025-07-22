@@ -1,0 +1,7 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Title BGM",8498,False,True,"","","","897cce0b-31ca-4b51-970b-56be52248d6e","https://image-assets.m.nintendo.com/c00c9a9b-fe23-4b20-b66f-148be703cf65"
+2,"Game Win A",4161,False,True,"","","","0ec305fe-cf64-4221-87bd-fd5c216d81b2","https://image-assets.m.nintendo.com/d5f4f4d1-5e48-4abf-981d-910cf19470eb"
+3,"Game Win B",3406,False,True,"","","","467a447a-07c4-4c1e-8e7e-468d58751554","https://image-assets.m.nintendo.com/e9012596-8ac0-4092-bdcc-92100ba072b4"
+4,"Set Win",5321,False,True,"","Victory!","","b9a57bac-cafa-4196-b070-9187fcd1f3da","https://image-assets.m.nintendo.com/914c940c-0c12-461c-991e-1318f23bc742"
+5,"Set Loss",4408,False,True,"","","","ae0474c6-617c-4d61-ace0-b0d892887a05","https://image-assets.m.nintendo.com/ad6ca921-0077-47c5-bc21-f97b365611b8"
+6,"Victory Cup BGM",13002,False,True,"","Victory!","","2bf335f9-7460-425b-96dd-47d729b41929","https://image-assets.m.nintendo.com/7e53a45e-584e-422d-8e17-97a41e986bb1"

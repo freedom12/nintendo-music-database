@@ -1,0 +1,12 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"タイトルBGM",5168,False,True,"","","","d5fa7ba1-ba67-4a35-9627-32293b3ff796","https://image-assets.m.nintendo.com/40f9fbb3-aa40-4261-ab27-a0185436146e"
+2,"ゲームスタート",4435,False,True,"","","","3fcf07a9-5807-419d-a047-4d9a0ad4cc29","https://image-assets.m.nintendo.com/a8c96164-8a1d-4500-bc8f-979fd34e2c71"
+3,"ROUND BGM A",40643,True,True,"","","","dbaed959-2fda-41a2-a38a-0c696f842ce4","https://image-assets.m.nintendo.com/5087fb7c-f899-439f-b86c-f3c1dc75149d"
+4,"パトロールカー 見回り",9899,False,False,"","","","9ee99e78-299f-431e-bc1e-0132e7afee03","https://image-assets.m.nintendo.com/db35920a-14de-4d0f-9c36-bb921cc182b8"
+5,"ROUNDクリア",4571,False,True,"","","","6d0f2408-69f1-4fde-9d7f-0703d86a8e59","https://image-assets.m.nintendo.com/7d4d0295-60c5-4f0d-8049-02fe9fd19693"
+6,"ROUNDスタート",3673,False,True,"","","","2325ed61-0c70-4c09-bde9-34651914d688","https://image-assets.m.nintendo.com/4ed3c915-87fb-4e52-869b-46e5aa8333ab"
+7,"ROUND BGM B",40643,True,True,"","","","1c3f454c-5058-4c89-a018-47d72f69bb47","https://image-assets.m.nintendo.com/490e3b7b-3042-4c53-b8fe-21b8c70236d2"
+8,"パトロールカー 連行",12480,False,False,"","","","f69ea5ef-c939-42ed-93ad-af17a5066c8e","https://image-assets.m.nintendo.com/cbb19212-feec-4f1d-83a8-f6981eb61e27"
+9,"ROUND BGM C",66201,True,True,"","","","94928dd0-b66b-4ec9-99c0-694f92bc6c2a","https://image-assets.m.nintendo.com/2a38f2b1-7c99-4d5d-b9f4-0cf8d34bfa02"
+10,"勝利者",9871,False,True,"","Win!","","83d693fb-b0f9-4b40-9588-075aae55f6e5","https://image-assets.m.nintendo.com/857b1136-715d-405c-98f4-7ccc1f8ccc77"
+11,"ゲームオーバー",6699,False,True,"","","","680e36ee-8c08-40be-ae59-6f112d6a09b6","https://image-assets.m.nintendo.com/54768a87-9305-4f92-bf72-5cfd14375a58"

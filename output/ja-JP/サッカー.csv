@@ -1,0 +1,7 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"タイトルBGM",15247,False,True,"","","","84a71823-52b0-45c8-b134-cb3541b7aedb","https://image-assets.m.nintendo.com/c73e33a7-1a50-4af8-80e5-3fd471a2be13"
+2,"チームセレクト",38513,True,True,"","","","c25ce3c8-0914-4f7f-946f-58c844f36e88","https://image-assets.m.nintendo.com/078c2aaa-adc4-4b1a-a19c-d8affd85aa5b"
+3,"試合BGM",85917,True,True,"","","","13c0e673-d000-428f-8bf0-c813390c7789","https://image-assets.m.nintendo.com/e04dc5c4-e78b-48bf-816f-2304e36b6027"
+4,"ハーフタイム",41442,True,True,"","","","39f24d12-e174-4439-a6cd-0957db748e99","https://image-assets.m.nintendo.com/258d411c-ebc7-4c8f-b0b9-892df6e9b8d3"
+5,"ゴール",4093,False,True,"","","","94130f06-ba17-405d-88b0-cf3a109b8c57","https://image-assets.m.nintendo.com/a2aff513-5ab8-411a-ad95-0b02d46de322"
+6,"試合終了",7072,False,True,"","","","ba06ecd9-f94c-45ad-9890-899b295693e0","https://image-assets.m.nintendo.com/1c618768-f429-4153-860b-c07683f807de"

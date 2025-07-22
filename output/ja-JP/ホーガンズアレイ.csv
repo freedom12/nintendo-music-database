@@ -1,0 +1,12 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"タイトルBGM",7172,False,True,"","","","4b350f76-4f44-4dd2-8f65-0d47fee2e41a","https://image-assets.m.nintendo.com/b7776483-8aed-4367-88c6-15642c5a946d"
+2,"デモBGM",10680,False,False,"","","","75f4fd61-96f2-4552-a316-54f4ef1f6706","https://image-assets.m.nintendo.com/6609f332-997e-43a7-a32a-9d56addf3806"
+3,"ゲームスタート",5308,False,True,"","","","18f72017-9d4b-496a-8bf6-fe3ff489b85d","https://image-assets.m.nintendo.com/a590ca66-e623-4bad-bee5-3a07fce6ef30"
+4,"パネル出現",5318,False,True,"","","","0ed1fa8e-18dd-4515-9f6e-dfebc54803b6","https://image-assets.m.nintendo.com/531fb7e9-5e34-4d46-8ae3-67489980086f"
+5,"成功",3731,False,True,"","","","9c77f747-2538-48d6-bcf7-41f38a6d8a54","https://image-assets.m.nintendo.com/a40c7a28-a7b5-4e13-b23d-ce4e3754b161"
+6,"ミス",3109,False,True,"","","","d6f9fa99-fce8-484a-9c0b-1ffb99306782","https://image-assets.m.nintendo.com/064c063a-dda8-493e-8106-50fc36fcbd83"
+7,"シーン移動（GAME B）",5505,False,False,"","","","ab0e27b2-ba45-4924-9086-3a7346c02e9c","https://image-assets.m.nintendo.com/297d5323-9c00-4d56-b116-b79c5575747c"
+8,"ラウンドクリア（GAME B）",6716,False,True,"","","","12af5e2c-4ea4-48dc-afc7-dc5236fd4183","https://image-assets.m.nintendo.com/c71b3b4b-447a-4a70-adcb-356780991c35"
+9,"ラウンドクリア（GAME C）",3516,False,True,"","","","5d85d680-b028-42ba-95e0-6ed9029ec9ee","https://image-assets.m.nintendo.com/e5a06077-3050-4cd7-852f-ae3c1d07c061"
+10,"(SUPER) SHARP SHOOTER!",4308,False,True,"","","","e5afc123-b7a1-4d9d-9030-da615a68d04f","https://image-assets.m.nintendo.com/36bb2ad8-5065-4993-a55f-2707cb5355de"
+11,"ゲームオーバー",5850,False,True,"","","","a303b21d-ef7c-4ff8-a133-9a04f48556f9","https://image-assets.m.nintendo.com/60c028d1-7330-4606-a65e-96837f4ad598"

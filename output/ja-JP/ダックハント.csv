@@ -1,0 +1,11 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"タイトルBGM",4854,False,True,"","","","955e0341-f7ac-4ad4-ac9b-2787156a1fcd","https://image-assets.m.nintendo.com/48d38bcd-4827-4c64-82fd-10992d70fa46"
+2,"ゲーム A/B スタート",6542,False,True,"","","","30fbdea7-150b-4bc6-9f3b-15da39338355","https://image-assets.m.nintendo.com/fb2a9269-a18d-44b2-aa73-3f8280faf615"
+3,"猟犬",1785,False,True,"","","","8d6c6786-0519-4d94-8913-cbd0aeffbc80","https://image-assets.m.nintendo.com/ed17afcb-1a79-49f7-8089-44d9fd225a21"
+4,"ダック",4547,False,True,"","","","a9577186-886b-420e-b97a-ea967b36ffdc","https://image-assets.m.nintendo.com/5cbb6a57-566f-41fc-87fb-9c7ed17b3174"
+5,"ダックゲット！",2034,False,True,"","","","040923d7-115d-4d16-85a9-d90cf164904b","https://image-assets.m.nintendo.com/862417f9-e1de-4563-8c7f-355a60ebbe9f"
+6,"クリア",4537,False,True,"","","","ba0ffc7f-3ede-432e-b13b-1a1bc11e415b","https://image-assets.m.nintendo.com/137a76d7-a369-4996-89fe-de144de7a8dc"
+7,"パーフェクト",2486,False,True,"","","","39039e68-8bd8-4953-86ca-232c92f67bdf","https://image-assets.m.nintendo.com/1897f795-ab63-445d-8a7f-b35332ed8f35"
+8,"ミス",2500,False,False,"","","","59613349-d3ee-4c6c-9d79-ba257297dcb5","https://image-assets.m.nintendo.com/15642e5d-5db0-4fb4-9b47-e80ff527e25c"
+9,"ゲーム C スタート",5829,False,True,"","","","f62fb69a-4e16-4e33-93ff-4f2bf7f86f8d","https://image-assets.m.nintendo.com/a8225996-0603-486e-90e6-e61ff09508d5"
+10,"ゲームオーバー",6647,False,True,"","","","192b4feb-fff6-4a65-87fd-b535e4d18d7f","https://image-assets.m.nintendo.com/e9293b9a-040b-4e61-8139-2e0b8823e419"
