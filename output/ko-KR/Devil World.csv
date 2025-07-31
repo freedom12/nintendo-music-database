@@ -1,8 +1,8 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title BGM",11214,False,True,"","","","36fbe469-35d2-49e1-801f-6ad358978478","https://image-assets.m.nintendo.com/c210bfba-b0df-437c-bfb0-a432742293b6"
+1,"Title BGM",11214,False,True,"","","NES 셀렉션","36fbe469-35d2-49e1-801f-6ad358978478","https://image-assets.m.nintendo.com/c210bfba-b0df-437c-bfb0-a432742293b6"
 2,"Game Start",6398,False,True,"","","","d07391be-46c4-44a3-97b1-8f342da95202","https://image-assets.m.nintendo.com/ad896857-67b6-4d77-ada2-21b998140793"
 3,"Ice-Cream Cone Appears",23072,True,True,"","","","35622e47-cdb3-4ac3-945d-3dbe5182260f","https://image-assets.m.nintendo.com/67ff208c-6c02-4472-bb68-862391664a98"
 4,"Scene 1 Clear",3581,False,True,"","","","e4414d9f-d8cb-416e-b175-d6593acba0a5","https://image-assets.m.nintendo.com/59100ecb-5b79-4448-a2ef-c069b075556d"
 5,"Scene 2 Clear / Bonus Scene Clear",6217,False,True,"","","","bc9c6339-d1b0-48e9-a55f-88f7a851795e","https://image-assets.m.nintendo.com/78e6cd87-9701-4f42-b804-2c12037cd7a7"
-6,"Bonus Scene",54188,True,True,"","","","ffcc1e92-71cd-4cb3-bf58-245e93dd2131","https://image-assets.m.nintendo.com/ed1b57b5-2713-4a1d-a550-63cd8df1e61b"
+6,"Bonus Scene",54188,True,True,"","","NES 셀렉션","ffcc1e92-71cd-4cb3-bf58-245e93dd2131","https://image-assets.m.nintendo.com/ed1b57b5-2713-4a1d-a550-63cd8df1e61b"
 7,"Game Over",4734,False,True,"","","","50329456-033a-437b-bea4-4a79d5de8ba7","https://image-assets.m.nintendo.com/b7641963-8503-4d37-b6ee-2983d7f11585"

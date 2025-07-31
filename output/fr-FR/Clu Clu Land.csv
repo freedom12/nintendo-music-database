@@ -1,9 +1,9 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title BGM",7911,False,True,"","","","982a09e9-84e1-4ee4-abe4-e1289cf2f77b","https://image-assets.m.nintendo.com/b9bfb542-07dc-4e79-8e7f-b29baee63040"
+1,"Title BGM",7911,False,True,"","","Sélection NES","982a09e9-84e1-4ee4-abe4-e1289cf2f77b","https://image-assets.m.nintendo.com/b9bfb542-07dc-4e79-8e7f-b29baee63040"
 2,"Game Start",6481,False,True,"","","","ec36c0a4-43cc-4f7d-83e0-1f35a6087d09","https://image-assets.m.nintendo.com/3622131b-c720-46e0-83e6-f0315be8b00f"
-3,"Scene BGM",66199,True,True,"","","","26fe075b-ac17-4697-82a7-2ade5c18ea2a","https://image-assets.m.nintendo.com/cdee1b3f-68ab-466f-be31-9230a8bc79d9"
+3,"Scene BGM",66199,True,True,"","","Sélection NES","26fe075b-ac17-4697-82a7-2ade5c18ea2a","https://image-assets.m.nintendo.com/cdee1b3f-68ab-466f-be31-9230a8bc79d9"
 4,"Hurry Up!",31059,True,True,"","","","d044fd8c-ca9d-4e23-87e2-fb98da8bf1cf","https://image-assets.m.nintendo.com/8d42c607-291b-4d0f-8716-e386dd2c249f"
 5,"Scene Clear",4717,False,True,"","","","03772f94-6754-48f5-a002-af5f473f9bdf","https://image-assets.m.nintendo.com/22a24980-1b5a-48de-9cb9-f06464318b79"
 6,"Score Bonus",1685,False,True,"","","","212f3616-4c05-4789-86fd-328ec34329e4","https://image-assets.m.nintendo.com/b396006b-13d8-47ee-b3a3-7a8c4bffd281"
-7,"Bonus Round BGM",32121,True,True,"","","","75dc52b2-23a5-458e-9f28-c7c760e78d35","https://image-assets.m.nintendo.com/53a16698-d719-449a-9243-bf2fc1a42e89"
+7,"Bonus Round BGM",32121,True,True,"","","Sélection NES","75dc52b2-23a5-458e-9f28-c7c760e78d35","https://image-assets.m.nintendo.com/53a16698-d719-449a-9243-bf2fc1a42e89"
 8,"Game Over",3434,False,True,"","","","21af7030-c378-4ded-94a0-2c814203d5ea","https://image-assets.m.nintendo.com/3b0d1d1c-efc5-45f4-b63f-71322fc8c9f2"

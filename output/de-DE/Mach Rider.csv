@@ -1,8 +1,8 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title BGM",19323,False,True,"","","","c576029d-20a1-44ce-9c8f-a81e0a4f098a","https://image-assets.m.nintendo.com/bbc0b985-4d30-4392-946b-d2abec8082c9"
-2,"Course Select",36377,True,True,"","","","bc3f07e6-0761-4798-a80d-0e319e42bb6b","https://image-assets.m.nintendo.com/248e370b-c6ac-4fda-a13a-f52ea0fff9d8"
+1,"Title BGM",19323,False,True,"","","Das Beste: NES","c576029d-20a1-44ce-9c8f-a81e0a4f098a","https://image-assets.m.nintendo.com/bbc0b985-4d30-4392-946b-d2abec8082c9"
+2,"Course Select",36377,True,True,"","","Das Beste: NES","bc3f07e6-0761-4798-a80d-0e319e42bb6b","https://image-assets.m.nintendo.com/248e370b-c6ac-4fda-a13a-f52ea0fff9d8"
 3,"Game Start",5478,False,True,"","","","f7db5a7b-4daf-4b5e-865c-db2acbc02d82","https://image-assets.m.nintendo.com/238c7bbb-c8a2-4371-9e9d-9605a3fa98d0"
-4,"Course BGM 1",78980,True,True,"","","","d2d73ead-8ca8-4d3f-8d11-662b880d5f70","https://image-assets.m.nintendo.com/2941a8e6-7d37-4228-b5d3-dd7e07e667fc"
+4,"Course BGM 1",78980,True,True,"","","Das Beste: NES","d2d73ead-8ca8-4d3f-8d11-662b880d5f70","https://image-assets.m.nintendo.com/2941a8e6-7d37-4228-b5d3-dd7e07e667fc"
 5,"Goal Reached",2417,False,False,"","","","e7317941-b113-4c83-bde2-84f3bf7eab86","https://image-assets.m.nintendo.com/240ed1f3-3094-426b-bb00-c7e9113f6aa3"
 6,"Course Clear",3772,False,True,"","","","b8b74a8d-b94f-4cf3-90ec-c7b95bd39e61","https://image-assets.m.nintendo.com/6efee441-6e87-4146-aaa7-fc2b77ee8c32"
 7,"Course BGM 2",206770,True,True,"","","","af22137c-9c54-4c1c-8a81-436ea71df84b","https://image-assets.m.nintendo.com/2114a64a-ceea-4344-92b7-bc48d5a44767"

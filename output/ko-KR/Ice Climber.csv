@@ -1,7 +1,7 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title BGM / Bonus Round",47035,True,True,"","","","5b2c686b-85e1-459d-828a-6e45acdb2755","https://image-assets.m.nintendo.com/93af1dc6-bb3a-42ab-b6ee-5143bd92ca60"
+1,"Title BGM / Bonus Round",47035,True,True,"","","NES 셀렉션","5b2c686b-85e1-459d-828a-6e45acdb2755","https://image-assets.m.nintendo.com/93af1dc6-bb3a-42ab-b6ee-5143bd92ca60"
 2,"Game Start",8095,False,True,"","","","24928b7c-affb-4faf-a327-fbaa1d56aee8","https://image-assets.m.nintendo.com/3c9e2239-1be9-489d-bee6-2ae9e87e8f6d"
-3,"Mountain BGM",36382,True,True,"","","","c88b0a68-e440-415d-9dc5-a630408bb09c","https://image-assets.m.nintendo.com/1dc32544-4253-4482-a572-cdeaa72988ea"
+3,"Mountain BGM",36382,True,True,"","","NES 셀렉션","c88b0a68-e440-415d-9dc5-a630408bb09c","https://image-assets.m.nintendo.com/1dc32544-4253-4482-a572-cdeaa72988ea"
 4,"Stage Clear",6097,False,True,"","","","d213e0f5-b419-478f-9d90-04a713a35bb2","https://image-assets.m.nintendo.com/1815ba6d-f349-4743-8887-9bf2db1b6552"
 5,"Player Down",1877,False,True,"","","","782c5eb1-aac8-4636-8d7f-036a5eb5eeff","https://image-assets.m.nintendo.com/1e795084-bcbc-422d-9331-bb2e0957fb03"
 6,"Game Over",3211,False,True,"","","","7bc7b3d4-de8f-4e18-8ac8-77b139e7dcdc","https://image-assets.m.nintendo.com/611d8139-f1dc-4bde-bc7c-a2307942520c"

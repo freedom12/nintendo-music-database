@@ -1,9 +1,9 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title Theme",190778,True,True,"","標題畫面","Nintendo Music推薦集|Nintendo Music精選|「更改長度」推薦|薩爾達傳說精選","f322044e-ba0b-42d4-9cdf-8c7f3aac4c5c","https://image-assets.m.nintendo.com/c061a120-dcba-45b3-a4c8-19813d4b14d9"
-2,"Overworld Theme",85370,True,True,"","開始冒險","Nintendo Music推薦集|Nintendo Music精選|「更改長度」推薦|薩爾達傳說精選","ebeb9690-9a24-470a-8e4d-af9eb255ff32","https://image-assets.m.nintendo.com/755e187b-3190-44bb-a57b-c48993a8a0c6"
+1,"Title Theme",190778,True,True,"","標題畫面","NES精選|Nintendo Music推薦集|Nintendo Music精選|「更改長度」推薦|薩爾達傳說精選","f322044e-ba0b-42d4-9cdf-8c7f3aac4c5c","https://image-assets.m.nintendo.com/c061a120-dcba-45b3-a4c8-19813d4b14d9"
+2,"Overworld Theme",85370,True,True,"","開始冒險","NES精選|Nintendo Music推薦集|Nintendo Music精選|「更改長度」推薦|薩爾達傳說精選","ebeb9690-9a24-470a-8e4d-af9eb255ff32","https://image-assets.m.nintendo.com/755e187b-3190-44bb-a57b-c48993a8a0c6"
 3,"Puzzle Solved",2744,False,False,"","","","813e1a3b-e0af-4f25-b161-8ab90bdeb060","https://image-assets.m.nintendo.com/9d17b5f7-6cdb-409d-b376-7b25b1c40d0b"
 4,"Important Item Acquired",1984,False,False,"","","","5d006337-f0b6-4d7c-9bdd-85f22c27a9b1","https://image-assets.m.nintendo.com/353b5f00-78e6-433b-92a1-3f2d713fd6b6"
-5,"Underworld Theme",53692,True,True,"","","Nintendo Music推薦集|Nintendo Music精選|「更改長度」推薦|薩爾達傳說精選","457dc107-11a1-4826-8c88-0bcd71175e5a","https://image-assets.m.nintendo.com/3ebd333f-8c8e-47a6-a9f0-f6d1f26abcab"
+5,"Underworld Theme",53692,True,True,"","","NES精選|Nintendo Music推薦集|Nintendo Music精選|「更改長度」推薦|薩爾達傳說精選","457dc107-11a1-4826-8c88-0bcd71175e5a","https://image-assets.m.nintendo.com/3ebd333f-8c8e-47a6-a9f0-f6d1f26abcab"
 6,"Got a Triforce Fragment",7975,False,True,"","","Nintendo Music推薦集","cd1b8356-7c94-477f-b7ee-0aaae629a3a0","https://image-assets.m.nintendo.com/3f1a6044-6a9c-4e45-8d80-a459fa61ed6e"
 7,"Recorder Melody",3233,False,False,"","","","c93fc053-207b-44a6-a75b-c244b3ccd2e4","https://image-assets.m.nintendo.com/21047084-f22b-41f1-99af-47b39ed2db1d"
 8,"Game Over",41128,True,False,"","","","463db503-b151-4c6e-9c29-78590119f2bb","https://image-assets.m.nintendo.com/4644f2bc-ec84-4cd4-b2af-948b27cb7801"

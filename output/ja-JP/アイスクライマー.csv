@@ -1,7 +1,7 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"タイトルBGM / ボーナスステージ",47035,True,True,"","","","5b2c686b-85e1-459d-828a-6e45acdb2755","https://image-assets.m.nintendo.com/93af1dc6-bb3a-42ab-b6ee-5143bd92ca60"
+1,"タイトルBGM / ボーナスステージ",47035,True,True,"","","ファミコンセレクション","5b2c686b-85e1-459d-828a-6e45acdb2755","https://image-assets.m.nintendo.com/93af1dc6-bb3a-42ab-b6ee-5143bd92ca60"
 2,"ゲームスタート",8095,False,True,"","","","24928b7c-affb-4faf-a327-fbaa1d56aee8","https://image-assets.m.nintendo.com/3c9e2239-1be9-489d-bee6-2ae9e87e8f6d"
-3,"MOUNTAIN BGM",36382,True,True,"","","","c88b0a68-e440-415d-9dc5-a630408bb09c","https://image-assets.m.nintendo.com/6dd677b6-5e90-40c9-bbdb-a031215355cc"
+3,"MOUNTAIN BGM",36382,True,True,"","","ファミコンセレクション","c88b0a68-e440-415d-9dc5-a630408bb09c","https://image-assets.m.nintendo.com/6dd677b6-5e90-40c9-bbdb-a031215355cc"
 4,"ステージクリア",6097,False,True,"","","","d213e0f5-b419-478f-9d90-04a713a35bb2","https://image-assets.m.nintendo.com/1815ba6d-f349-4743-8887-9bf2db1b6552"
 5,"ミス",1877,False,True,"","","","782c5eb1-aac8-4636-8d7f-036a5eb5eeff","https://image-assets.m.nintendo.com/4c5cc9c0-ad9d-4285-8356-7e98ae8833a4"
 6,"ゲームオーバー",3211,False,True,"","","","7bc7b3d4-de8f-4e18-8ac8-77b139e7dcdc","https://image-assets.m.nintendo.com/5083adf7-c6b1-4e83-adad-9afe50fba7d0"

@@ -1,5 +1,5 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title BGM",7172,False,True,"","","","4b350f76-4f44-4dd2-8f65-0d47fee2e41a","https://image-assets.m.nintendo.com/b7776483-8aed-4367-88c6-15642c5a946d"
+1,"Title BGM",7172,False,True,"","","NES精選","4b350f76-4f44-4dd2-8f65-0d47fee2e41a","https://image-assets.m.nintendo.com/b7776483-8aed-4367-88c6-15642c5a946d"
 2,"Instruction BGM",10680,False,False,"","","","75f4fd61-96f2-4552-a316-54f4ef1f6706","https://image-assets.m.nintendo.com/6609f332-997e-43a7-a32a-9d56addf3806"
 3,"Game Start",5308,False,True,"","","","18f72017-9d4b-496a-8bf6-fe3ff489b85d","https://image-assets.m.nintendo.com/a590ca66-e623-4bad-bee5-3a07fce6ef30"
 4,"A Panel Appears",5318,False,True,"","","","0ed1fa8e-18dd-4515-9f6e-dfebc54803b6","https://image-assets.m.nintendo.com/531fb7e9-5e34-4d46-8ae3-67489980086f"

@@ -1,7 +1,7 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title BGM",12567,False,True,"","","","eb4afabf-e470-4c03-a5d3-6cefbd6ceec6","https://image-assets.m.nintendo.com/d43a9a24-2ae6-4a19-89ef-9932fdb93ba9"
+1,"Title BGM",12567,False,True,"","","NES精选","eb4afabf-e470-4c03-a5d3-6cefbd6ceec6","https://image-assets.m.nintendo.com/d43a9a24-2ae6-4a19-89ef-9932fdb93ba9"
 2,"Game Start",4283,False,True,"","","","26bdd6b7-42fb-4b4f-ad93-22043e157e7a","https://image-assets.m.nintendo.com/f98afb20-28b8-47c7-bf2f-3c24b1764902"
-3,"Calculate BGM",36385,True,True,"","","","34f4fd51-b453-4122-8f78-aba1aa526fe9","https://image-assets.m.nintendo.com/595c1a45-9fe1-4d79-8623-c5576515c70c"
+3,"Calculate BGM",36385,True,True,"","","NES精选","34f4fd51-b453-4122-8f78-aba1aa526fe9","https://image-assets.m.nintendo.com/595c1a45-9fe1-4d79-8623-c5576515c70c"
 4,"Player Down",3149,False,True,"","","","7a9b5c0c-12c5-427e-b0d1-2e176b82bc36","https://image-assets.m.nintendo.com/71d25483-3e55-4f84-8ea7-07686b6165a8"
 5,"Exercise BGM",23603,True,True,"","","","7aa395d1-df72-4a3b-96d3-e2f43a19b4ad","https://image-assets.m.nintendo.com/eebead08-561a-44b9-8a6f-2438075aa14e"
 6,"Correct Answer",1593,False,True,"","","","462ecb12-c0ad-4ce8-acb5-96e36ca57c56","https://image-assets.m.nintendo.com/a29f1152-453c-44e4-85c2-711f5366c8c2"

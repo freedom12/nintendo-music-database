@@ -1,7 +1,7 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
 1,"ゲームスタート",6104,False,True,"","","","eb59cc86-9e55-47a2-bf20-2d8d8dc62d01","https://image-assets.m.nintendo.com/e692e87b-e4fb-43f1-b208-a1a975ac765e"
-2,"ステージBGM",117350,True,True,"","","","da6fcc8a-cceb-414f-8382-8864ad85f984","https://image-assets.m.nintendo.com/183c521d-81d4-4269-b14e-b57b892888b6"
+2,"ステージBGM",117350,True,True,"","","ファミコンセレクション","da6fcc8a-cceb-414f-8382-8864ad85f984","https://image-assets.m.nintendo.com/183c521d-81d4-4269-b14e-b57b892888b6"
 3,"ステージクリア",3493,False,True,"","","","6d20964c-2c24-4376-989e-0a6219773ff4","https://image-assets.m.nintendo.com/2a371e99-e3d7-4bf1-8c79-58f89656126b"
-4,"ボーナスステージ",53423,True,True,"","","","d08dabb1-f153-4f8b-9ee0-2cdc2a47b93f","https://image-assets.m.nintendo.com/516d8601-3bae-4529-a1b1-83572fa77c4f"
-5,"ゴールデンハンマー",85390,True,True,"","","","2ea3f4d2-e86b-48d8-a2d2-07d3469d5b44","https://image-assets.m.nintendo.com/cb09f62d-c462-4792-811c-64464f2ecd2d"
+4,"ボーナスステージ",53423,True,True,"","","ファミコンセレクション","d08dabb1-f153-4f8b-9ee0-2cdc2a47b93f","https://image-assets.m.nintendo.com/516d8601-3bae-4529-a1b1-83572fa77c4f"
+5,"ゴールデンハンマー",85390,True,True,"","","ファミコンセレクション","2ea3f4d2-e86b-48d8-a2d2-07d3469d5b44","https://image-assets.m.nintendo.com/cb09f62d-c462-4792-811c-64464f2ecd2d"
 6,"ゲームオーバー",3486,False,True,"","","","f7b9ca7f-07ab-4445-8c3f-036a115cc5db","https://image-assets.m.nintendo.com/335eae13-dcca-4028-bde5-fdfb915e3b0b"

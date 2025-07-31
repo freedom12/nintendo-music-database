@@ -1,10 +1,10 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title BGM",9433,False,True,"","","","d223e96a-4bac-417c-9db5-4d250c3134b9","https://image-assets.m.nintendo.com/2891011c-b04d-4c14-a3e8-33117e51e559"
+1,"Title BGM",9433,False,True,"","","NES精選","d223e96a-4bac-417c-9db5-4d250c3134b9","https://image-assets.m.nintendo.com/2891011c-b04d-4c14-a3e8-33117e51e559"
 2,"Test BGM",42803,True,True,"","","","e9a4899b-14fa-48f9-ac08-3f6ed44aedb2","https://image-assets.m.nintendo.com/90db8f3a-6263-412e-afc5-7340ed38856e"
 3,"Direct BGM",5380,False,True,"","","","da2cc53b-55fc-447e-8ecf-5fbdb3871a63","https://image-assets.m.nintendo.com/74539957-f665-424a-b59b-915f05c6739b"
 4,"Memory Start",3510,False,True,"","","","e0ce004a-e5c7-49ff-8e68-a7b532a6beeb","https://image-assets.m.nintendo.com/6eb53c50-b880-4efa-8457-5f5d601f3d28"
-5,"Memory BGM",87553,True,True,"","","","33b2fd53-907b-4c56-be46-4d35c99d3e2e","https://image-assets.m.nintendo.com/dc83632d-deb5-4919-b058-76bf18b84aeb"
-6,"Bingo BGM",117350,True,True,"","","","a0ac921d-a565-4125-9ae7-0a1fb1586ab1","https://image-assets.m.nintendo.com/bf63958e-198b-46b1-b409-d8ab3e83ff7e"
+5,"Memory BGM",87553,True,True,"","","NES精選","33b2fd53-907b-4c56-be46-4d35c99d3e2e","https://image-assets.m.nintendo.com/dc83632d-deb5-4919-b058-76bf18b84aeb"
+6,"Bingo BGM",117350,True,True,"","","NES精選","a0ac921d-a565-4125-9ae7-0a1fb1586ab1","https://image-assets.m.nintendo.com/bf63958e-198b-46b1-b409-d8ab3e83ff7e"
 7,"Bingo BGM (Paused)",117350,True,True,"","","","77032863-b160-4151-95d1-1128ceff6017","https://image-assets.m.nintendo.com/b7ce837c-2a73-4a78-b889-cedfc956170d"
 8,"Hurry Up!",27998,True,True,"","","","fa2ecb56-e6ce-48ac-b8f7-56157ced6dc8","https://image-assets.m.nintendo.com/713b080c-2761-4388-9e0b-fbaa10393fdd"
 9,"Hurry Up! (Paused)",27998,True,True,"","","","f4bd1e22-cd0f-4353-9af7-8c90ffb68401","https://image-assets.m.nintendo.com/27dbc0dd-857e-41e4-9692-ca9ba925e4e5"

@@ -1,8 +1,8 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Title Screen",106183,False,True,"","Title Themes","Nintendo Music Selects|Nintendo Music Top Tracks","561dab56-c0d1-4ea7-9272-673fccf5910b","https://image-assets.m.nintendo.com/b3a0292d-4b41-430e-b980-449bfc3cc6ab"
+1,"Title Screen",106183,False,True,"","Title Themes","NES Selects|Nintendo Music Selects|Nintendo Music Top Tracks","561dab56-c0d1-4ea7-9272-673fccf5910b","https://image-assets.m.nintendo.com/b3a0292d-4b41-430e-b980-449bfc3cc6ab"
 2,"Samus Appears",7003,False,True,"","","Nintendo Music Top Tracks","3bc94320-ba6c-49ef-a832-83f820c2baa5","https://image-assets.m.nintendo.com/d3ad7270-9f4b-45f3-9d4d-1162353c445a"
-3,"Brinstar (Rocky Zone)",105652,True,True,"","New Adventures","Extended-Playback Picks|Nintendo Music Selects|Nintendo Music Top Tracks","6656be3c-7b55-4fca-8d59-b9e5b8fdc139","https://image-assets.m.nintendo.com/8aa1eaa3-616d-4254-8e15-77f7f751103b"
-4,"Miniboss Hideout I: Kraid",101861,True,True,"","","Extended-Playback Picks|Nintendo Music Selects|Nintendo Music Top Tracks","ba05680d-50f1-4adf-bd0d-617cdcea9fab","https://image-assets.m.nintendo.com/ef0aa99b-d5f9-471b-8be6-0e20539a07bc"
+3,"Brinstar (Rocky Zone)",105652,True,True,"","New Adventures","Extended-Playback Picks|NES Selects|Nintendo Music Selects|Nintendo Music Top Tracks","6656be3c-7b55-4fca-8d59-b9e5b8fdc139","https://image-assets.m.nintendo.com/8aa1eaa3-616d-4254-8e15-77f7f751103b"
+4,"Miniboss Hideout I: Kraid",101861,True,True,"","","Extended-Playback Picks|NES Selects|Nintendo Music Selects|Nintendo Music Top Tracks","ba05680d-50f1-4adf-bd0d-617cdcea9fab","https://image-assets.m.nintendo.com/ef0aa99b-d5f9-471b-8be6-0e20539a07bc"
 5,"Norfair (Fire Zone)",83050,True,True,"","","Extended-Playback Picks|Nintendo Music Top Tracks","b5b55b2e-ad50-414e-9ed2-3f7fa7dc98e1","https://image-assets.m.nintendo.com/e00843a3-feb4-4e74-8ff3-826a501b2f04"
 6,"Miniboss Hideout II: Ridley",64060,True,True,"","","Nintendo Music Top Tracks","82a1644a-22c5-4d86-8478-82fa9693e6e5","https://image-assets.m.nintendo.com/0cc48ef2-9732-48a0-8413-4a1be4c158ed"
 7,"Stillness",56588,True,False,"","","","95b3f163-657c-4577-98c2-a4f1818e5216","https://image-assets.m.nintendo.com/904cede2-4fea-403f-a133-ad6cfddf3f6f"

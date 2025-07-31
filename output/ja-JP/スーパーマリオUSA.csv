@@ -1,7 +1,7 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"タイトルBGM",29074,False,True,"","タイトル画面","Nintendo Musicセレクション|Nintendo Musicピックアップ集|マリオセレクション","5de81664-b879-47e9-98a9-63238ec284d4","https://image-assets.m.nintendo.com/8b60b25d-1980-40af-acb2-92efb277c98c"
-2,"プレイヤーセレクト",69396,True,True,"","","Nintendo Musicセレクション|Nintendo Musicピックアップ集|「ながさチェンジ」におすすめ|マリオセレクション","2e9ac249-276c-48e4-b9e0-72dbe56be2cb","https://image-assets.m.nintendo.com/a9eff336-d5fe-4a6d-991f-cb2f6eb8d5a2"
-3,"地上BGM",93956,True,True,"","冒険のはじまり","Nintendo Musicセレクション|Nintendo Musicピックアップ集|「ながさチェンジ」におすすめ|マリオセレクション","30c5c8d3-c22b-4a98-900e-38869ab77a14","https://image-assets.m.nintendo.com/91889b4c-ac88-4cf6-9c90-3713f732c5e9"
+1,"タイトルBGM",29074,False,True,"","タイトル画面","Nintendo Musicセレクション|Nintendo Musicピックアップ集|ファミコンセレクション|マリオセレクション","5de81664-b879-47e9-98a9-63238ec284d4","https://image-assets.m.nintendo.com/8b60b25d-1980-40af-acb2-92efb277c98c"
+2,"プレイヤーセレクト",69396,True,True,"","","Nintendo Musicセレクション|Nintendo Musicピックアップ集|「ながさチェンジ」におすすめ|ファミコンセレクション|マリオセレクション","2e9ac249-276c-48e4-b9e0-72dbe56be2cb","https://image-assets.m.nintendo.com/a9eff336-d5fe-4a6d-991f-cb2f6eb8d5a2"
+3,"地上BGM",93956,True,True,"","冒険のはじまり","Nintendo Musicセレクション|Nintendo Musicピックアップ集|「ながさチェンジ」におすすめ|ファミコンセレクション|マリオセレクション","30c5c8d3-c22b-4a98-900e-38869ab77a14","https://image-assets.m.nintendo.com/91889b4c-ac88-4cf6-9c90-3713f732c5e9"
 4,"地下BGM",37448,True,True,"","","Nintendo Musicピックアップ集","14145408-663f-4ef3-b827-da9edcf46781","https://image-assets.m.nintendo.com/ebd4d93c-93db-4c70-8c53-7aecac4ac8e5"
 5,"裏画面BGM",43838,True,True,"","","Nintendo Musicピックアップ集","fec431bf-259f-49c4-b108-6d065704ef89","https://image-assets.m.nintendo.com/b9286ca2-2f01-40f4-aec2-3afe771fcdb7"
 6,"ボス",53423,True,True,"","強敵たち","Nintendo Musicピックアップ集","5efbec78-2e2c-4ace-a139-26ece3b0840a","https://image-assets.m.nintendo.com/a796b905-7d94-40a0-b251-c75a96fe18c9"
