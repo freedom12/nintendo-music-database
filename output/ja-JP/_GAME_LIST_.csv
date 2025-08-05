@@ -94,3 +94,6 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 93,"ファミリーコンピュータ ロボット ジャイロセット",1985,"ファミリーコンピュータ","ファミリーコンピュータ ロボット ブロックセット",False,"85b83fcd-b5cf-4583-89a4-089f9e65caff","https://image-assets.m.nintendo.com/833d66fb-85a9-4011-90c9-043ebb9913f0"
 94,"マッハライダー",1985,"ファミリーコンピュータ","",False,"33d8695b-de51-498a-b687-7279548de28e","https://image-assets.m.nintendo.com/0360a4f7-e92b-454e-a37c-f0910eeed437"
 95,"マリオペイント",1992,"スーパーファミコン","",False,"66760fd8-dda3-465a-86c8-21ebb25cc4ce","https://image-assets.m.nintendo.com/00285b3a-8328-4d73-b101-e60ba45ed41c"
+96,"パイロットウイングス",1990,"スーパーファミコン","パイロットウイングス リゾート|パイロットウイングス64",False,"9b2729ee-4fc6-44d3-a740-740874b80469","https://image-assets.m.nintendo.com/6030a180-f790-4efa-9be7-3681509e7384"
+97,"パイロットウイングス64",1996,"NINTENDO 64","パイロットウイングス|パイロットウイングス リゾート",False,"f4695838-b0eb-4990-a4fc-fc3db54d2749","https://image-assets.m.nintendo.com/c6bd504e-cbda-4676-87c6-4954a3fd2a55"
+98,"パイロットウイングス リゾート",2011,"ニンテンドー3DS","パイロットウイングス|パイロットウイングス64",False,"779e3755-f7c0-41ef-8f93-3b38ef048638","https://image-assets.m.nintendo.com/a0980b38-3835-43eb-8f2c-2c7a4bfb6e43"

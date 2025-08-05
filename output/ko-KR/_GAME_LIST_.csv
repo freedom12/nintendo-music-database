@@ -94,3 +94,6 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 93,"Gyromite",1985,"Nintendo Entertainment System","Stack-Up",False,"85b83fcd-b5cf-4583-89a4-089f9e65caff","https://image-assets.m.nintendo.com/b8b4097a-3bdc-48d0-8f16-012908b0cbf7"
 94,"Mach Rider",1985,"Nintendo Entertainment System","",False,"33d8695b-de51-498a-b687-7279548de28e","https://image-assets.m.nintendo.com/7ad39a96-d26b-4cf1-8150-e8aa32dd253d"
 95,"Mario Paint",1992,"Super Nintendo Entertainment System","",False,"66760fd8-dda3-465a-86c8-21ebb25cc4ce","https://image-assets.m.nintendo.com/c7acb7c1-42e2-484a-a3dc-5f9de773f4e6"
+96,"Pilotwings",1990,"Super Nintendo Entertainment System","Pilotwings 64|Pilotwings Resort",False,"9b2729ee-4fc6-44d3-a740-740874b80469","https://image-assets.m.nintendo.com/22e2fa41-098d-419e-ba05-211b958ee875"
+97,"Pilotwings 64",1996,"Nintendo 64","Pilotwings|Pilotwings Resort",False,"f4695838-b0eb-4990-a4fc-fc3db54d2749","https://image-assets.m.nintendo.com/869dfc9f-dd5d-4528-af09-ee4e503c60ff"
+98,"Pilotwings Resort",2011,"Nintendo 3DS","Pilotwings|Pilotwings 64",False,"779e3755-f7c0-41ef-8f93-3b38ef048638","https://image-assets.m.nintendo.com/5333e10f-2da2-458f-9112-a9271dc66208"
