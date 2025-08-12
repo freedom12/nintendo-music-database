@@ -97,3 +97,6 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 96,"Pilotwings",1990,"Super Nintendo Entertainment System","Pilotwings 64|Pilotwings Resort",False,"9b2729ee-4fc6-44d3-a740-740874b80469","https://image-assets.m.nintendo.com/22e2fa41-098d-419e-ba05-211b958ee875"
 97,"Pilotwings 64",1996,"Nintendo 64","Pilotwings|Pilotwings Resort",False,"f4695838-b0eb-4990-a4fc-fc3db54d2749","https://image-assets.m.nintendo.com/869dfc9f-dd5d-4528-af09-ee4e503c60ff"
 98,"Pilotwings Resort",2011,"Nintendo 3DS","Pilotwings|Pilotwings 64",False,"779e3755-f7c0-41ef-8f93-3b38ef048638","https://image-assets.m.nintendo.com/5333e10f-2da2-458f-9112-a9271dc66208"
+99,"Captain Toad: Treasure Tracker",2018,"Nintendo 3DS","",True,"fe1efa9b-003c-455d-af4f-e1f0c4b1334e","https://image-assets.m.nintendo.com/04899fae-3f92-4b7a-989f-fb5602bddb33"
+100,"Captain Toad: Treasure Tracker",2014,"Wii U","",True,"ff77b569-5c0a-4596-9374-8e6af309d58b","https://image-assets.m.nintendo.com/8ecd6409-1a31-490a-b1f7-ad33d597656b"
+101,"Captain Toad: Treasure Tracker",2018,"Nintendo Switch","",False,"c01093c9-916a-4e3e-8dd9-1d63401875bf","https://image-assets.m.nintendo.com/ffba1d56-a489-4241-a935-78d45bff552a"
