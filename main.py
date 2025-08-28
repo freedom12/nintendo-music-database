@@ -19,8 +19,7 @@ import requests
 
 host = 'https://api.m.nintendo.com'
 # lang_list = ['zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
-# lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
-lang_list = ['zh-CN']
+lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
 
 
 class Game(TypedDict):
