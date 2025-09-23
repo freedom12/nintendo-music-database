@@ -18,8 +18,9 @@ import requests
 # https://api.m.nintendo.com/catalog/officialPlaylists/772a2b39-c35d-43fd-b3b1-bf267c01f342?country=JP&lang=ja-JP&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
 
 host = 'https://api.m.nintendo.com'
-lang_list = ['zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
+# lang_list = ['zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
 # lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
+lang_list = ['zh-CN']
 
 
 class Game(TypedDict):
@@ -60,11 +61,19 @@ def get_api(url: str, params: dict, retry_count: int = 5) -> dict | list:
     raise RuntimeError('Failed to get a successful response from the API after multiple retries')
 
 
+playlist_data_dict: dict[str, dict[str, dict]] = {}
+
+
 def get_playlist_data(id, lang: str) -> dict:
+    if lang not in playlist_data_dict:
+        playlist_data_dict[lang] = {}
+    if id in playlist_data_dict[lang]:
+        return playlist_data_dict[lang][id]
     url = f'{host}/catalog/officialPlaylists/{id}'
     playlist_data = get_api(url, {'country': 'JP', 'lang': lang, 'membership': 'BASIC', 'packageType': 'hls_cbcs', 'sdkVersion': 'ios-1.4.0_f362763-1'})
     if not isinstance(playlist_data, dict):
         raise RuntimeError('Failed to get playlist data')
+    playlist_data_dict[lang][id] = playlist_data
     return playlist_data
 
 
