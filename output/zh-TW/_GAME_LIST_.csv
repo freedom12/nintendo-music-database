@@ -114,3 +114,5 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 113,"New Super Mario Bros.",2006,"Nintendo DS","New 超級瑪利歐兄弟U 豪華版|Super Mario 64|Super Mario Bros.|Super Mario Bros. 2|Super Mario Bros. 3|Super Mario Galaxy|Super Mario Galaxy 2|Super Mario World|超級瑪利歐 奧德賽|超級瑪利歐兄弟 驚奇",False,"cb7c3bca-4a8b-4273-855a-bb6e47dfc5e3","https://image-assets.m.nintendo.com/49fe045f-1eab-444b-b4d9-458eea0e9b7e"
 114,"Animal Crossing: New Leaf",2012,"Nintendo 3DS","集合啦！動物森友會",False,"00a1d178-fb71-49fc-b835-74ebaec97474","https://image-assets.m.nintendo.com/796b2617-3536-4467-b183-b87227a53393"
 115,"卡比的美食節",2022,"Nintendo Switch","Kirby's Dream Land|星之卡比 探索發現|星之卡比 新星同盟",False,"eb49a973-97d3-4ced-9131-0883a7f400ee","https://image-assets.m.nintendo.com/784fe63e-2027-4c8c-999c-f61f0a748de4"
+116,"Wii Fit",2007,"Wii","",True,"cf340f42-165c-4939-8ba5-39b2b99ec038","https://image-assets.m.nintendo.com/fcb7bb4d-9850-41ab-9c30-98e9f89e9879"
+117,"Wii Fit Plus",2009,"Wii","",False,"177f02d4-bfd9-4b46-8b1b-c91896eba711","https://image-assets.m.nintendo.com/508f66b4-07ea-4387-9879-184c26f6ae4d"
