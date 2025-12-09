@@ -18,6 +18,7 @@ import requests
 # https://api.m.nintendo.com/catalog/games/e55a92d6-12f2-4011-8312-e7b38e2a3c7f/relatedPlaylists?country=JP&lang=zh-CN&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
 
 # https://api.m.nintendo.com/catalog/officialPlaylists/772a2b39-c35d-43fd-b3b1-bf267c01f342?country=JP&lang=ja-JP&membership=BASIC&packageType=hls_cbcs&sdkVersion=ios-1.4.0_f362763-1
+# https://api.m.nintendo.com/catalog/officialPlaylists/772a2b39-c35d-43fd-b3b1-bf267c01f342?country=JP&lang=ja-JP&membership=BASIC&packageType=hls_clear&sdkVersion=ios-1.4.0_f362763-1
 
 host = 'https://api.m.nintendo.com'
 lang_list = ['zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
