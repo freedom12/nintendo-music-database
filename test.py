@@ -1,3 +1,4 @@
+import os
 import requests
 import main
 from datetime import datetime
@@ -33,6 +34,17 @@ for track in updated_tracks:
     response = requests.get(url, params={'country': 'JP', 'lang': 'zh-CN'})
     if response.status_code == 200:
         track_data = response.json()
-        print(f"time: {updated_date}, track name: {track_data.get('name')}")
+        str = f"time: {updated_date}, track name: {track_data.get('name')}"
     else:
-        print(f"time: {updated_date}, Failed to get data for track ID: {track_id}")
+        str = f"time: {updated_date}, Failed to get data for track ID: {track_id}"
+
+    print(str)
+    # 输出到文件
+    time = datetime.now().strftime('%Y-%m-%d')
+    path = f'detect_update/detect_update({time}).txt'
+    if not os.path.exists('detect_update'):
+        os.makedirs('detect_update')
+    if os.path.exists(path):
+        os.remove(path)
+    with open(path, 'a', encoding='utf-8') as f:
+        f.write(str + '\n')

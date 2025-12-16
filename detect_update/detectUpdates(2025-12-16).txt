@@ -1,0 +1,494 @@
+time: 2025-11-21 11:09:31, track name: Start the Mario Party!
+time: 2025-11-21 11:09:31, track name: Mega Wiggler's Joy
+time: 2025-11-21 11:09:31, track name: Mega Wiggler's Tree Party 1
+time: 2025-11-21 11:09:31, track name: Mega Wiggler's Tree Party - Opening
+time: 2025-11-21 11:09:31, track name: Super Mario Party Jamboree
+time: 2025-11-21 11:09:31, track name: Mega Wiggler's Tree Party 1 - Wiggler's Back
+time: 2025-11-21 11:09:31, track name: Shopping at the Party Plaza
+time: 2025-11-21 11:09:31, track name: Mega Wiggler's Anger
+time: 2025-11-21 11:09:31, track name: Things Afoot in the Forest
+time: 2025-11-21 11:09:31, track name: Get the Party Started!
+time: 2025-11-21 11:09:31, track name: Where to Play?
+time: 2025-11-21 11:09:31, track name: Mega Wiggler's Tree Party 2 - Wiggler's Back
+time: 2025-11-21 11:09:31, track name: Mega Wiggler's Tree Party 2
+time: 2025-11-21 11:09:31, track name: Roll 'Em Raceway 1 - Before the Dice Roll
+time: 2025-11-21 11:09:32, track name: A Wild Ride
+time: 2025-11-21 11:09:32, track name: Roll 'Em Raceway - Opening
+time: 2025-11-21 11:09:32, track name: Roll 'Em Raceway 2 - After the Dice Roll
+time: 2025-11-21 11:09:32, track name: Roll 'Em Raceway 1 - After the Dice Roll
+time: 2025-11-21 11:09:32, track name: Roll 'Em Raceway 2 - Before the Dice Roll
+time: 2025-11-21 11:09:32, track name: Midrace
+time: 2025-11-21 11:09:32, track name: Rainbow Galleria - Opening
+time: 2025-11-21 11:09:32, track name: Rainbow Galleria 2
+time: 2025-11-21 11:09:32, track name: Flash Sale!
+time: 2025-11-21 11:09:32, track name: Fun in the Sun
+time: 2025-11-21 11:09:32, track name: Galleria Flash Sale
+time: 2025-11-21 11:09:32, track name: Volcanic Eruption
+time: 2025-11-21 11:09:32, track name: Goomba Lagoon 1
+time: 2025-11-21 11:09:32, track name: Shop Till You Drop
+time: 2025-11-21 11:09:32, track name: Goomba Lagoon - Opening
+time: 2025-11-21 11:09:32, track name: Rainbow Galleria 1
+time: 2025-11-21 11:09:32, track name: Lava Bubble Eruption!
+time: 2025-11-21 11:09:32, track name: Western Land - Opening
+time: 2025-11-21 11:09:32, track name: Mario's Rainbow Castle 1
+time: 2025-11-21 11:09:32, track name: Bottoms Up!
+time: 2025-11-21 11:09:32, track name: Western Land 2
+time: 2025-11-21 11:09:32, track name: Steamer's Moving!
+time: 2025-11-21 11:09:32, track name: Choo-choo!
+time: 2025-11-21 11:09:32, track name: Western Land 1
+time: 2025-11-21 11:09:32, track name: Mario's Rainbow Castle 1 - Impostor Bowser Appears
+time: 2025-11-21 11:09:32, track name: Goomba Lagoon 2
+time: 2025-11-21 11:09:32, track name: Mario's Rainbow Castle - Opening
+time: 2025-11-21 11:09:33, track name: Mario's Rainbow Castle 2 - Impostor Bowser Appears
+time: 2025-11-21 11:09:33, track name: The Star above the Tower
+time: 2025-11-21 11:09:33, track name: Mario's Rainbow Castle 2
+time: 2025-11-21 11:09:33, track name: Minigame Time!
+time: 2025-11-21 11:09:33, track name: Bowser's Treacherous Traps
+time: 2025-11-21 11:09:33, track name: King Bowser's Keep 2
+time: 2025-11-21 11:09:33, track name: King Bowser's Keep - Opening
+time: 2025-11-21 11:09:33, track name: Unwanted Ztar
+time: 2025-11-21 11:09:33, track name: Impostor Bowser's Turn
+time: 2025-11-21 11:09:33, track name: King Bowser's Keep 1
+time: 2025-11-21 11:09:33, track name: Koopa Troopa Shop
+time: 2025-11-21 11:09:33, track name: Chomp Call!
+time: 2025-11-21 11:09:33, track name: Chance Time!
+time: 2025-11-21 11:09:33, track name: Here Comes an Ally!
+time: 2025-11-21 11:09:33, track name: Kamek Shop
+time: 2025-11-21 11:09:33, track name: Showdown Minigame!
+time: 2025-11-21 11:09:33, track name: Bowser Busts In
+time: 2025-11-21 11:09:33, track name: How'd the Minigame Go?
+time: 2025-11-21 11:09:33, track name: Here Comes Boo!
+time: 2025-11-21 11:09:33, track name: A Minigame with Everyone!
+time: 2025-11-21 11:09:33, track name: Here's the Star!
+time: 2025-11-21 11:09:33, track name: You Are the Super Star!
+time: 2025-11-21 11:09:33, track name: Quiz Time!
+time: 2025-11-21 11:09:33, track name: And the Super Star Is...
+time: 2025-11-21 11:09:33, track name: Congrats! Now Let's Play Some More!
+time: 2025-11-21 11:09:33, track name: Results
+time: 2025-11-21 11:09:33, track name: You Got a Star!
+time: 2025-11-21 11:09:33, track name: In the Homestretch!
+time: 2025-11-21 11:09:33, track name: Party Planning Breakdown
+time: 2025-11-21 11:09:33, track name: Party-Planner Trek - Opening
+time: 2025-11-21 11:09:34, track name: Boss Minigame
+time: 2025-11-21 11:09:34, track name: Nervous about Helping
+time: 2025-11-21 11:09:34, track name: Dragoneel Slayers - Opening
+time: 2025-11-21 11:09:34, track name: Goomba Lagoon Party Prep
+time: 2025-11-21 11:09:34, track name: Dragoneel Slayers 1
+time: 2025-11-21 11:09:34, track name: Roll 'Em Raceway Party Prep
+time: 2025-11-21 11:09:34, track name: Rainbow Galleria Party Prep
+time: 2025-11-21 11:09:34, track name: Let the Boss Minigame Begin
+time: 2025-11-21 11:09:34, track name: Mega Wiggler's Tree Party Prep
+time: 2025-11-21 11:09:34, track name: King Bowser's Keep Party Prep
+time: 2025-11-21 11:09:34, track name: Boss Sumo Bro Blitzers - Opening
+time: 2025-11-21 11:09:34, track name: Boss Sumo Bro Blitzers 1
+time: 2025-11-21 11:09:34, track name: Boss Sumo Bro Blitzers 2
+time: 2025-11-21 11:09:34, track name: Dragoneel Slayers 2
+time: 2025-11-21 11:09:34, track name: Mega Stingby Stompers 1
+time: 2025-11-21 11:09:34, track name: Mega Stingby Stompers 2
+time: 2025-11-21 11:09:34, track name: Mega Stingby Stompers - Opening
+time: 2025-11-21 11:09:34, track name: Mega Rocky Wrench Wreckers 2
+time: 2025-11-21 11:09:34, track name: Mega Rocky Wrench Wreckers - Opening
+time: 2025-11-21 11:09:34, track name: Mega Rocky Wrench Wreckers 1
+time: 2025-11-21 11:09:34, track name: Bowser Crashers - Opening
+time: 2025-11-21 11:09:34, track name: Bowser Crashers 2
+time: 2025-11-21 11:09:34, track name: Boss Defeated!
+time: 2025-11-21 11:09:34, track name: Bowser Crashers 1
+time: 2025-11-21 11:09:34, track name: Couldn't Help...
+time: 2025-11-21 11:09:34, track name: Succeeded in Helping!
+time: 2025-11-21 11:09:34, track name: Boss Minigame Victory!
+time: 2025-11-21 11:09:34, track name: Soup Troupe
+time: 2025-11-21 11:09:34, track name: Rhythm Kitchen
+time: 2025-11-21 11:09:34, track name: Boss Minigame Draw
+time: 2025-11-21 11:09:35, track name: Whisk Cream
+time: 2025-11-21 11:09:35, track name: Copycat Curry
+time: 2025-11-21 11:09:35, track name: Short-Stack Chef
+time: 2025-11-21 11:09:35, track name: Remixed Rhythm
+time: 2025-11-21 11:09:35, track name: En Barb!
+time: 2025-11-21 11:09:35, track name: On the Beet
+time: 2025-11-21 11:09:35, track name: Spread 'n Butter
+time: 2025-11-21 11:09:35, track name: Parfait the Course
+time: 2025-11-21 11:09:35, track name: Footlong Frenzy
+time: 2025-11-21 11:09:35, track name: Burger Builders
+time: 2025-11-21 11:09:35, track name: A Second Helping
+time: 2025-11-21 11:09:35, track name: Item Manufacturing
+time: 2025-11-21 11:09:35, track name: Item Complete!
+time: 2025-11-21 11:09:35, track name: On to the Next
+time: 2025-11-21 11:09:35, track name: Fixing to Fly
+time: 2025-11-21 11:09:35, track name: Stage Clear!
+time: 2025-11-21 11:09:35, track name: Rhythm Kitchen Success!
+time: 2025-11-21 11:09:35, track name: Rhythm Kitchen Failure...
+time: 2025-11-21 11:09:35, track name: Party at the Factory
+time: 2025-11-21 11:09:35, track name: Preflight Checklist
+time: 2025-11-21 11:09:35, track name: Taxi Back
+time: 2025-11-21 11:09:35, track name: Free Flight
+time: 2025-11-21 11:09:35, track name: Koopathlon - Midpoint Results
+time: 2025-11-21 11:09:35, track name: Survivathon
+time: 2025-11-21 11:09:35, track name: Koopathlon 2
+time: 2025-11-21 11:09:35, track name: Koopathlon 1
+time: 2025-11-21 11:09:35, track name: Taxi There
+time: 2025-11-21 11:09:35, track name: Sky Battle
+time: 2025-11-21 11:09:35, track name: Pulling Ahead!
+time: 2025-11-21 11:09:35, track name: The Koopathlon Begins
+time: 2025-11-21 11:09:36, track name: Impostor Bowser's Survivathon 3
+time: 2025-11-21 11:09:36, track name: Impostor Bowser's Survivathon 2
+time: 2025-11-21 11:09:36, track name: Finish Line!
+time: 2025-11-21 11:09:36, track name: Better Luck Next Time
+time: 2025-11-21 11:09:36, track name: Bowser Kaboom Squad Preparations
+time: 2025-11-21 11:09:36, track name: Survivathon Finale
+time: 2025-11-21 11:09:36, track name: Impostor Bowser's Survivathon 1
+time: 2025-11-21 11:09:36, track name: Koopathlon 3
+time: 2025-11-21 11:09:36, track name: The Final Lap
+time: 2025-11-21 11:09:36, track name: Koopathlon - Final Lap Results
+time: 2025-11-21 11:09:36, track name: Impostor Bowser Takedown Drill
+time: 2025-11-21 11:09:36, track name: Move as One
+time: 2025-11-21 11:09:36, track name: Look, Look!
+time: 2025-11-21 11:09:36, track name: All Together!
+time: 2025-11-21 11:09:36, track name: Bowser Kaboom Squad 1
+time: 2025-11-21 11:09:36, track name: Line 'Em Up
+time: 2025-11-21 11:09:36, track name: Playtime Is Over
+time: 2025-11-21 11:09:36, track name: You Got This
+time: 2025-11-21 11:09:36, track name: Don't Panic
+time: 2025-11-21 11:09:36, track name: Bonus Time!
+time: 2025-11-21 11:09:36, track name: Minigame Bay
+time: 2025-11-21 11:09:36, track name: Overtaking on the Ocean 1
+time: 2025-11-21 11:09:36, track name: Bowser Kaboom Squad 2
+time: 2025-11-21 11:09:36, track name: Everyone's Results 1
+time: 2025-11-21 11:09:36, track name: Choose Your Item
+time: 2025-11-21 11:09:36, track name: Taking Down Impostor Bowser
+time: 2025-11-21 11:09:36, track name: Everyone's Results 2
+time: 2025-11-21 11:09:36, track name: Overtaking on the Ocean 2
+time: 2025-11-21 11:09:36, track name: Squad Victory
+time: 2025-11-21 11:09:36, track name: Squad Defeat
+time: 2025-11-21 11:09:37, track name: Overtaking on the Ocean 3
+time: 2025-11-21 11:09:37, track name: Survival Success!
+time: 2025-11-21 11:09:37, track name: Survival, Start!
+time: 2025-11-21 11:09:37, track name: Who’s Coming to the Party?
+time: 2025-11-21 11:09:37, track name: Boss Rush
+time: 2025-11-21 11:09:37, track name: Submarine Ride 1
+time: 2025-11-21 11:09:37, track name: Submarine Ride 3
+time: 2025-11-21 11:09:37, track name: Submarine Ride 2
+time: 2025-11-21 11:09:37, track name: Survival Failure...
+time: 2025-11-21 11:09:37, track name: Survival Results?
+time: 2025-11-21 11:09:37, track name: A Contest in Space
+time: 2025-11-21 11:09:37, track name: Solid Boss Rush!
+time: 2025-11-21 11:09:37, track name: Boss Rush Complete
+time: 2025-11-21 11:09:37, track name: Loads of Minigames
+time: 2025-11-21 11:09:37, track name: Keep Your Cool
+time: 2025-11-21 11:09:37, track name: Gone Fishin'
+time: 2025-11-21 11:09:37, track name: Keep Going!
+time: 2025-11-21 11:09:37, track name: Last-Minute Thrills
+time: 2025-11-21 11:09:37, track name: Waltzing Round and Round
+time: 2025-11-21 11:09:37, track name: Let the Minigame Begin
+time: 2025-11-21 11:09:37, track name: Breathing in Harmony
+time: 2025-11-21 11:09:37, track name: Shake! Shake!
+time: 2025-11-21 11:09:37, track name: Run Away! Run Away!
+time: 2025-11-21 11:09:37, track name: Proceed with Caution
+time: 2025-11-21 11:09:37, track name: Item Minigame
+time: 2025-11-21 11:09:37, track name: Think Reeeally Hard
+time: 2025-11-21 11:09:37, track name: Hurry-Scurry
+time: 2025-11-21 11:09:37, track name: Think about It
+time: 2025-11-21 11:09:37, track name: Go the Distance
+time: 2025-11-21 11:09:37, track name: Reckless Advance
+time: 2025-11-21 11:09:38, track name: No Time to Worry
+time: 2025-11-21 11:09:38, track name: Cut through the Wind
+time: 2025-11-21 11:09:38, track name: All-Out Strike
+time: 2025-11-21 11:09:38, track name: Make No Mistake
+time: 2025-11-21 11:09:38, track name: Too Dangerous
+time: 2025-11-21 11:09:38, track name: Match 'Em Up
+time: 2025-11-21 11:09:38, track name: Panic, but Carefully
+time: 2025-11-21 11:09:38, track name: Happier Together
+time: 2025-11-21 11:09:38, track name: Hurry! Hurry! How Many?
+time: 2025-11-21 11:09:38, track name: Is It a Match?
+time: 2025-11-21 11:09:38, track name: Doom and Gloom
+time: 2025-11-21 11:09:38, track name: Try Hard, Folks
+time: 2025-11-21 11:09:38, track name: Let's Go Lightly
+time: 2025-11-21 11:09:38, track name: Rolling About
+time: 2025-11-21 11:09:38, track name: Loud and Sweet
+time: 2025-11-21 11:09:38, track name: The Wide, Wide Ocean
+time: 2025-11-21 11:09:38, track name: Amusing
+time: 2025-11-21 11:09:38, track name: Minigame Victory!
+time: 2025-11-21 11:09:38, track name: Frantic
+time: 2025-11-21 11:09:38, track name: Slowly Yet Surely
+time: 2025-11-21 11:09:38, track name: Luigi Rescue Operation - Opening
+time: 2025-11-21 11:09:38, track name: Mario's Three-Peat
+time: 2025-11-21 11:09:38, track name: Let's Play Again
+time: 2025-11-21 11:09:38, track name: Minigame Draw
+time: 2025-11-21 11:09:38, track name: Peach's Day Off
+time: 2025-11-21 11:09:38, track name: Show Up for the Showdown
+time: 2025-11-21 11:09:38, track name: Luigi Rescue Operation
+time: 2025-11-21 11:09:38, track name: Mario's Three-Peat - Opening
+time: 2025-11-21 11:09:38, track name: Luigi Rescue Operation: The Final Puzzle
+time: 2025-11-21 11:09:38, track name: Peach's Day Off - Opening
+time: 2025-11-21 11:09:39, track name: Wario's Buzzer Beater - Opening
+time: 2025-11-21 11:09:39, track name: Get Double Points!
+time: 2025-11-21 11:09:39, track name: Daisy's Field Day
+time: 2025-11-21 11:09:39, track name: Waluigi's Pinball Arcade
+time: 2025-11-21 11:09:39, track name: Waluigi's Pinball Arcade - Opening
+time: 2025-11-21 11:09:39, track name: Daisy's Field Day - Opening
+time: 2025-11-21 11:09:39, track name: Wario's Buzzer Beater - Midpoint Results
+time: 2025-11-21 11:09:39, track name: Wario's Buzzer Beater
+time: 2025-11-21 11:09:39, track name: Yoshi's Mountain Race - Opening
+time: 2025-11-21 11:09:39, track name: Peach's Day Off: A Day Off at Night
+time: 2025-11-21 11:09:39, track name: Yoshi's Mountain Race
+time: 2025-11-21 11:09:39, track name: Showdown Minigame Victory!
+time: 2025-11-21 11:09:39, track name: Jr.'s Jauntlet - Final Round
+time: 2025-11-21 11:09:39, track name: Jr.'s Jauntlet - Opening
+time: 2025-11-21 11:09:39, track name: Rosalina's Radical Race
+time: 2025-11-21 11:09:39, track name: Rosalina's Radical Race: The Finish Line
+time: 2025-11-21 11:09:39, track name: Jr.'s Jauntlet
+time: 2025-11-21 11:09:39, track name: Rosalina's Radical Race - Opening
+time: 2025-11-21 11:09:39, track name: DK's Konga Line - Opening
+time: 2025-11-21 11:09:39, track name: DK's Konga Line
+time: 2025-11-21 11:09:39, track name: Carnival Coaster - Safe to Ride!
+time: 2025-11-21 11:09:39, track name: Where to Play? - Jamboree TV
+time: 2025-11-21 11:09:39, track name: Great Job!
+time: 2025-11-21 11:09:39, track name: Which Stage Will It Be?
+time: 2025-11-21 11:09:39, track name: Where to Play? - GameShare
+time: 2025-11-21 11:09:39, track name: Where to Play? - Super Mario Party Jamboree
+time: 2025-11-21 11:09:39, track name: Start Jamboree TV!
+time: 2025-11-21 11:09:39, track name: Staff Credits
+time: 2025-11-21 11:09:39, track name: The Curtain Rises
+time: 2025-11-21 11:09:39, track name: A Round of Applause at Minigame Bay!
+time: 2025-11-21 11:09:39, track name: Carnival Coaster 3
+time: 2025-11-21 11:09:40, track name: Sky-High Coaster 3
+time: 2025-11-21 11:09:40, track name: Carnival Coaster 2
+time: 2025-11-21 11:09:40, track name: Carnival Coaster 1
+time: 2025-11-21 11:09:40, track name: Sky-High Coaster 1
+time: 2025-11-21 11:09:40, track name: Carnival Coaster 4
+time: 2025-11-21 11:09:40, track name: Carnival Coaster - Choose a Door
+time: 2025-11-21 11:09:40, track name: Haunted Coaster 1
+time: 2025-11-21 11:09:40, track name: Sky-High Coaster 2
+time: 2025-11-21 11:09:40, track name: Carnival Coaster - Pelt the Para-Biddybuds!
+time: 2025-11-21 11:09:40, track name: Carnival Coaster - Results
+time: 2025-11-21 11:09:40, track name: Trial Coaster 1
+time: 2025-11-21 11:09:40, track name: Volcano Coaster 1
+time: 2025-11-21 11:09:40, track name: Haunted Coaster 2
+time: 2025-11-21 11:09:40, track name: Haunted Coaster 3
+time: 2025-11-21 11:09:40, track name: Trial Coaster 2
+time: 2025-11-21 11:09:40, track name: Volcano Coaster 2
+time: 2025-11-21 11:09:40, track name: Volcano Coaster 4
+time: 2025-11-21 11:09:40, track name: Haunted Coaster - Defeat King Boo!
+time: 2025-11-21 11:09:40, track name: Volcano Coaster 3
+time: 2025-11-21 11:09:40, track name: Hurry! Hurry!
+time: 2025-11-21 11:09:40, track name: Carnival Coaster - Game Over
+time: 2025-11-21 11:09:40, track name: What's the Scoop?
+time: 2025-11-21 11:09:40, track name: Aim for the Gap!
+time: 2025-11-21 11:09:40, track name: Pop Your Color!
+time: 2025-11-21 11:09:40, track name: Zoom into the Goal!
+time: 2025-11-21 11:09:40, track name: Get a Grip
+time: 2025-11-21 11:09:40, track name: Net Gains
+time: 2025-11-21 11:09:40, track name: The Toads Are in Trouble!
+time: 2025-11-21 11:09:40, track name: Slowly, Surely, Carefully
+time: 2025-11-21 11:09:41, track name: Hitting It Rich
+time: 2025-11-21 11:09:41, track name: Bowser! Bowser! Bowser!
+time: 2025-11-21 11:09:41, track name: Speak Up, Junior!
+time: 2025-11-21 11:09:41, track name: Bowser Live - Getting Ready
+time: 2025-11-21 11:09:41, track name: Bowser Live Begins!
+time: 2025-11-21 11:09:41, track name: Stand or Squat!
+time: 2025-11-21 11:09:41, track name: Goombalancing Act
+time: 2025-11-21 11:09:41, track name: Bowser Live - Up Next
+time: 2025-11-21 11:09:41, track name: Knock-Knock Match
+time: 2025-11-21 11:09:41, track name: Bowser Chicken
+time: 2025-11-21 11:09:41, track name: Bowser Live - Final Minigame
+time: 2025-11-21 11:09:41, track name: See Ya Later, Jamboree TV!
+time: 2025-11-21 11:09:41, track name: Staff Credits - Jamboree TV
+time: 2025-11-21 11:09:41, track name: Bowser Beats
+time: 2025-11-21 11:09:41, track name: Bowser Call and Response
+time: 2025-12-01 09:13:41, track name: "HURRY UP!" Birabuto Kingdom BGM
+time: 2025-12-01 09:13:41, track name: Birabuto Kingdom BGM
+time: 2025-12-01 09:13:41, track name: Treasure Room BGM
+time: 2025-12-01 09:13:41, track name: "Hurry Up!" Treasure Room BGM
+time: 2025-12-01 09:13:41, track name: "Hurry Up!" Birabuto Kingdom BGM
+time: 2025-12-01 09:13:42, track name: Area Cleared
+time: 2025-12-01 09:13:42, track name: "HURRY UP!" Boss BGM
+time: 2025-12-01 09:13:42, track name: Bonus Game BGM
+time: 2025-12-01 09:13:42, track name: "Hurry Up!" Boss BGM
+time: 2025-12-01 09:13:42, track name: "HURRY UP!" Treasure Room BGM
+time: 2025-12-01 09:13:42, track name: Bonus Game Fanfare
+time: 2025-12-01 09:13:42, track name: Boss BGM
+time: 2025-12-01 09:13:42, track name: Muda Kingdom BGM
+time: 2025-12-01 09:13:42, track name: "Hurry Up!" Muda Kingdom BGM
+time: 2025-12-01 09:13:42, track name: Princess Daisy Rescued?
+time: 2025-12-01 09:13:42, track name: "HURRY UP!" Easton Kingdom BGM
+time: 2025-12-01 09:13:42, track name: Easton Kingdom BGM
+time: 2025-12-01 09:13:42, track name: "HURRY UP!" Muda Kingdom BGM
+time: 2025-12-01 09:13:42, track name: "Hurry Up!" Invincibility BGM
+time: 2025-12-01 09:13:42, track name: Chai Kingdom BGM
+time: 2025-12-01 09:13:42, track name: Invincibility BGM
+time: 2025-12-01 09:13:42, track name: Game Over
+time: 2025-12-01 09:13:42, track name: Player Down
+time: 2025-12-01 09:13:42, track name: "Hurry Up!" Easton Kingdom BGM
+time: 2025-12-01 09:13:42, track name: "HURRY UP!" Invincibility BGM
+time: 2025-12-01 09:13:42, track name: "Hurry Up!" Chai Kingdom BGM
+time: 2025-12-01 09:13:42, track name: "HURRY UP!" Tatanga the Mysterious Spaceman
+time: 2025-12-01 09:13:42, track name: "HURRY UP!" Chai Kingdom BGM
+time: 2025-12-01 09:13:42, track name: Princess Daisy Rescued
+time: 2025-12-01 09:13:42, track name: Shooting Area BGM
+time: 2025-12-01 09:13:42, track name: "Hurry Up!" Tatanga the Mysterious Spaceman
+time: 2025-12-01 09:13:42, track name: Ending
+time: 2025-12-01 09:13:42, track name: Tatanga the Mysterious Spaceman
+time: 2025-12-01 09:13:44, track name: Opening Scene 1: Start Game
+time: 2025-12-01 09:13:44, track name: Opening Scene 3: Baby Bowser & Kamek Appear
+time: 2025-12-01 09:13:44, track name: Title Screen
+time: 2025-12-01 09:13:44, track name: Opening Scene 2: Yoshis at Peace
+time: 2025-12-01 09:13:45, track name: Go for the Flower!
+time: 2025-12-01 09:13:45, track name: Course Clear: Results
+time: 2025-12-01 09:13:45, track name: World Map 1
+time: 2025-12-01 09:13:45, track name: Poochy Pups Appear
+time: 2025-12-01 09:13:45, track name: Big, Beefy Boss
+time: 2025-12-01 09:13:45, track name: Course Clear
+time: 2025-12-01 09:13:45, track name: Opening Scene 4: The Forest
+time: 2025-12-01 09:13:45, track name: Main Theme
+time: 2025-12-01 09:13:45, track name: Challenge Course Lobby
+time: 2025-12-01 09:13:45, track name: Beyond the Wild
+time: 2025-12-01 09:13:45, track name: Chatting before the Boss Battle
+time: 2025-12-01 09:13:45, track name: Bigger, Beefier Boss
+time: 2025-12-01 09:13:45, track name: Found a Dream Gem - Part 2
+time: 2025-12-01 09:13:45, track name: Chatting with Kamek after the Boss Battle
+time: 2025-12-01 09:13:45, track name: World Map 2
+time: 2025-12-01 09:13:45, track name: Boss Transformation: Tin-Can Condor
+time: 2025-12-01 09:13:45, track name: Found a Dream Gem - Part 1
+time: 2025-12-01 09:13:45, track name: Clickity-Clack Attack (First Half)
+time: 2025-12-01 09:13:45, track name: Found a Dream Gem - Part 3
+time: 2025-12-01 09:13:45, track name: Boss Defeated
+time: 2025-12-01 09:13:45, track name: Yards of Yarn
+time: 2025-12-01 09:13:45, track name: Boss Transformation: Spike the Piranha
+time: 2025-12-01 09:13:45, track name: What's It Gonna Be?!
+time: 2025-12-01 09:13:45, track name: Clickity-Clack Attack (Second Half)
+time: 2025-12-01 09:13:45, track name: Icy Oceans
+time: 2025-12-01 09:13:45, track name: World Map 4
+time: 2025-12-01 09:13:45, track name: Yoshi's Expedition
+time: 2025-12-01 09:13:45, track name: Clickity-Clack Attack (Before the Goal)
+time: 2025-12-01 09:13:45, track name: World Map 3
+time: 2025-12-01 09:13:45, track name: Floppy March
+time: 2025-12-01 09:13:45, track name: Dwelling Place of the Ninja
+time: 2025-12-01 09:13:46, track name: Chatting before the Boss Battle (Great King Bowser)
+time: 2025-12-01 09:13:46, track name: The Great King Bowser
+time: 2025-12-01 09:13:46, track name: Nighttime Crafts
+time: 2025-12-01 09:13:46, track name: Rocket Launch
+time: 2025-12-01 09:13:46, track name: World Map 5
+time: 2025-12-01 09:13:46, track name: Ducking through Danger
+time: 2025-12-01 09:13:46, track name: The Great King Bowser: Transformation
+time: 2025-12-01 09:13:46, track name: Boss Transformation: Burt the Ball & Gator Train
+time: 2025-12-01 09:13:46, track name: A Teeny, Tiny Universe
+time: 2025-12-01 09:13:46, track name: Final Fights and Last Hurrahs
+time: 2025-12-01 09:13:46, track name: The Yoshis' Wish
+time: 2025-12-01 09:13:46, track name: Staff Credits
+time: 2025-12-01 09:13:46, track name: Ending
+time: 2025-12-01 09:13:46, track name: Round and Round
+time: 2025-12-01 09:13:46, track name: Sundream Stone Restored
+time: 2025-12-01 09:13:46, track name: Mega Baby Bowser Appears
+time: 2025-12-01 09:13:46, track name: Chatting before the Boss Battle (Mega Baby Bowser)
+time: 2025-12-01 09:13:46, track name: Chatting after the Boss Battle (Mega Baby Bowser)
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 9a955843-2b7d-496a-a51d-473c08782912
+time: 2025-12-01 09:13:47, Failed to get data for track ID: caeb0444-d346-491a-8de8-2fcaad508ac0
+time: 2025-12-01 09:13:47, Failed to get data for track ID: b9e87b4a-f049-4493-bbfe-03e36ca522e7
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 5152cbac-f405-4911-8edb-aa9827a2b1b3
+time: 2025-12-01 09:13:47, Failed to get data for track ID: a442eb5b-383d-4e4a-b8be-f2c897836786
+time: 2025-12-01 09:13:47, Failed to get data for track ID: eac1af2e-20b2-4f7b-9199-fb5d428fb2a8
+time: 2025-12-01 09:13:47, Failed to get data for track ID: db5ed2b6-b597-4d48-81b5-7e46f2c145a0
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 0c002ed5-694f-49c9-902b-db00c015b977
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 39d3e73c-42fb-43c2-8693-bd5614d9aabf
+time: 2025-12-01 09:13:47, Failed to get data for track ID: af9baf1e-62fe-42f5-a298-ba1e5e6aad03
+time: 2025-12-01 09:13:47, Failed to get data for track ID: b3b47341-802b-4639-b21c-8ad6d87345b6
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 258b8cb5-260a-425a-9c63-ee7ec0ee7a26
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 298f4a93-ce9f-4471-8243-cecfef720b5c
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 42ff17ce-e365-4935-86c6-5166d1a51032
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 96abeb39-2bbc-4fcc-bdfd-59e5a3acbca9
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 6da7798f-18a9-4ae8-b703-dbf5f16fc997
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 0321ab21-1453-4b4c-b884-52e06f44370c
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 34f463b8-ecb4-468f-990e-d2414aa47089
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 68a67ec4-d9c5-4ec8-b35d-385d66cd4d81
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 011c3107-2528-4011-80fa-7a6d125b79b4
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 2e68da78-b851-4328-ab07-14b9013b726f
+time: 2025-12-01 09:13:47, Failed to get data for track ID: bec35bf0-7cdc-458a-8900-5b77a6f9605e
+time: 2025-12-01 09:13:47, Failed to get data for track ID: f6393c7d-4720-4a93-9951-be489d4ccefb
+time: 2025-12-01 09:13:47, Failed to get data for track ID: f21e4a2f-82e0-4d21-b9c2-ec223de6917b
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 099dee44-3dd1-48b4-b4b5-a224f1e2b26a
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 7152f09e-ba27-4f65-b05b-b67c4f01d49c
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 6318a59c-75e7-4166-9812-f634a90a7846
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 84c0a390-a63a-4968-9e37-7cc9f9257c9d
+time: 2025-12-01 09:13:47, Failed to get data for track ID: 99c728df-3f4a-4e34-8faf-842ea4af0c0e
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 4a92c2e9-22f1-406e-9137-cada36958c87
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 3149f435-7ebc-4fe2-8a8a-f8060056ed90
+time: 2025-12-01 09:13:48, Failed to get data for track ID: ddd29434-6ce6-4038-9a32-ac5f82c591ae
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 7c387112-e261-40cb-a3b7-4dfecd590bc1
+time: 2025-12-01 09:13:48, Failed to get data for track ID: cc1f143a-a702-42b6-b915-446760b73981
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 3c80cb50-1752-4e81-8a43-0a7a3b664312
+time: 2025-12-01 09:13:48, Failed to get data for track ID: e44e1b82-285e-4e4d-a3a2-5594a0084741
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 57368374-86e4-4858-94a5-7e260ab76358
+time: 2025-12-01 09:13:48, Failed to get data for track ID: a4d85a78-469e-46a8-9d4e-bad917897d74
+time: 2025-12-01 09:13:48, Failed to get data for track ID: c7cb4715-99e6-47f1-a575-74cb250cacc0
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 922fbb3e-748b-415a-9c36-8f4213a33d09
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 6619b5ac-4f19-4080-9d0b-483750261998
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 258a175e-356e-4035-8ec4-8c62f50bee86
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 590ac05e-3abf-4fab-bf1a-dc345616d1fa
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 8d4cbc60-2986-4da0-91f7-f6c1173b6d01
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 936d53ca-77b4-4774-a390-24f3853c75eb
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 1649097e-77f6-4ef1-a7ff-fe224202b592
+time: 2025-12-01 09:13:48, Failed to get data for track ID: c01d4f03-a5f0-4cba-ade1-576c806eaa1e
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 085d45be-a519-495c-986c-7ecc68e555c6
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 81e5253d-e1c1-452b-b59c-cba69fc0205f
+time: 2025-12-01 09:13:48, Failed to get data for track ID: b8ef1079-4168-4146-88f2-555f0b445c56
+time: 2025-12-01 09:13:48, Failed to get data for track ID: b5778f06-45b4-4421-8c4b-a0d1b6195d6f
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 4a54a498-32e6-4b82-b230-8df9349510bc
+time: 2025-12-01 09:13:48, Failed to get data for track ID: ede153a9-8d3e-4ac8-a859-2ec692047b87
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 3064da1e-442d-4fe0-bb0a-2af8a43da4c1
+time: 2025-12-01 09:13:48, Failed to get data for track ID: cca6cc92-1ab9-43bc-9b64-558404196a59
+time: 2025-12-01 09:13:48, Failed to get data for track ID: d13b1a52-9814-441c-a1ff-b777d9246b9c
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 8b85629d-c341-46c9-81df-2a1065b5f202
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 83dc95bc-cab4-481f-a06c-fd6710b32949
+time: 2025-12-01 09:13:48, Failed to get data for track ID: a3090a6d-c4b6-480e-94dd-036a79e79e83
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 087aefad-f086-40b8-ab74-46852dcca00f
+time: 2025-12-01 09:13:48, Failed to get data for track ID: fff51b11-de24-490b-a6c9-7b87ba3e25ff
+time: 2025-12-01 09:13:48, Failed to get data for track ID: 3683611d-9b5e-4a09-ba2d-0b57fd21b0d9
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 8ac2f810-4e00-4f75-81d3-20c6d41d46f8
+time: 2025-12-01 09:13:49, Failed to get data for track ID: cad7eb99-d067-407e-8cad-6f41bbc4e86d
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 16f9fa7b-d59d-4e97-b8bd-330018b09452
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 47c0502b-a1c2-4b53-8fc6-b4907b89d331
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 55531eba-5f0b-48a1-867f-e7352e433918
+time: 2025-12-01 09:13:49, Failed to get data for track ID: e1b28090-4afe-4752-873f-d6a71c2db4b0
+time: 2025-12-01 09:13:49, Failed to get data for track ID: cdb05646-cbae-4a19-92a0-dc5782e0b65e
+time: 2025-12-01 09:13:49, Failed to get data for track ID: abdb950a-a28e-4879-be42-bdc8cab36eec
+time: 2025-12-01 09:13:49, Failed to get data for track ID: fd5bc983-8f6f-4b33-9c95-4ef164179fa7
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 9e1622bd-978f-4f53-a743-c1e14a815d0e
+time: 2025-12-01 09:13:49, Failed to get data for track ID: d98c7844-7d23-468c-8da9-5fa616f106e2
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 3643ecee-2328-412e-a65f-6ae8073424fc
+time: 2025-12-01 09:13:49, Failed to get data for track ID: b231136e-b05e-4f8f-b639-10115372d7c1
+time: 2025-12-01 09:13:49, Failed to get data for track ID: ddb157f9-8c01-4091-9806-ff373fca4bc0
+time: 2025-12-01 09:13:49, Failed to get data for track ID: a4175c5f-acdd-4ea0-a1b8-406943679d18
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 73e3a52f-28f1-443b-8180-440383bbd69c
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 0ea81f3a-bff0-4e5a-b8de-e7319908001e
+time: 2025-12-01 09:13:49, Failed to get data for track ID: d12f6519-5356-4af4-91fc-a8cbbbda6711
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 034f9306-d15f-4046-bdeb-53d6c21e02b4
+time: 2025-12-01 09:13:49, Failed to get data for track ID: df34b3ed-4494-4678-915e-7a0ed5088664
+time: 2025-12-01 09:13:49, Failed to get data for track ID: c9a16256-db59-4496-b090-a7111f798d25
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 77f1847c-d71d-4772-8527-1e0f665bb40b
+time: 2025-12-01 09:13:49, Failed to get data for track ID: d0676458-27b8-4488-aa2c-79b4c019c1b3
+time: 2025-12-01 09:13:49, Failed to get data for track ID: eb3876c9-d646-41e3-8867-0602e533733e
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 685be609-d68d-4ea5-b395-3c154f16a475
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 75cc86e3-aa6b-4340-817c-4d637abe3de8
+time: 2025-12-01 09:13:49, Failed to get data for track ID: 5def786d-a14a-4b78-a648-0e3c19a785ac
+time: 2025-12-01 09:13:49, Failed to get data for track ID: e88647a5-2872-48ad-810c-0c7aaf610b0c
+time: 2025-12-01 09:13:49, Failed to get data for track ID: cd2d471f-3838-4065-89c7-e03b5cbaaa79
+time: 2025-12-01 09:13:49, Failed to get data for track ID: b6f0a2fb-0610-451b-82c7-55047f6ceaaf
+time: 2025-12-01 09:13:50, Failed to get data for track ID: 66cf7527-96ef-4316-a7b2-7ffc1ef74692
+time: 2025-12-01 09:13:50, Failed to get data for track ID: 4e2b46fa-1889-4b33-83f3-ddc9dab20ce1
+time: 2025-12-01 09:13:50, Failed to get data for track ID: 3f6a2249-c384-452b-8efc-328dd3727678
+time: 2025-12-01 09:13:50, Failed to get data for track ID: c96cc562-c7e3-434f-a769-56b7b2403da1
+time: 2025-12-01 09:13:50, Failed to get data for track ID: eed0308b-9aa0-40cd-a014-65e2e5343388
+time: 2025-12-01 09:13:50, Failed to get data for track ID: e7a84119-f639-4ab6-8343-fdf5f533c1f4
+time: 2025-12-01 09:13:50, Failed to get data for track ID: 7a0a8d2b-9d07-4619-80b8-787272fbbd7e
+time: 2025-12-01 09:13:50, Failed to get data for track ID: a1aaa212-d7c1-47da-83ab-50fab4f0b39b
+time: 2025-12-01 09:13:50, Failed to get data for track ID: 2d1219e1-0a39-4884-9ffe-eae619df2269
+time: 2025-12-01 09:13:50, Failed to get data for track ID: 9b733ab9-30d7-41e0-9b7e-9872237a3cda
+time: 2025-12-01 09:13:50, Failed to get data for track ID: 5af848cc-de35-4813-979c-82a44ad3e693
+time: 2025-12-01 09:13:50, Failed to get data for track ID: 3376af06-9151-42a4-a058-348aca0b193b
+time: 2025-12-01 09:13:50, Failed to get data for track ID: f67e1c29-6d3e-4060-b737-27ff9bee3daf
+time: 2025-12-03 15:54:16, track name: Volt Forge
+time: 2025-12-03 15:54:16, track name: Ice Belt Power On
+time: 2025-12-03 15:54:16, track name: The Sacred Tree
+time: 2025-12-03 15:54:16, track name: Fury Green
+time: 2025-12-03 15:54:16, track name: Carvex
+time: 2025-12-03 15:54:16, track name: Vi-O-La
+time: 2025-12-03 15:54:16, track name: Metroid Prime 4 Main Theme
