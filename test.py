@@ -40,7 +40,7 @@ for track in updated_tracks:
     response = requests.get(url, params={'country': 'JP', 'lang': 'zh-CN'})
     if response.status_code == 200:
         track_data = response.json()
-        str = f"time: {updated_date}, track name: {track_data.get('name')}"
+        str = f"time: {updated_date}, ID: {track_id}, name: {track_data.get('name')}"
     else:
         str = f"time: {updated_date}, Failed to get data for track ID: {track_id}"
 

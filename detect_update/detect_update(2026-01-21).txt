@@ -1,0 +1,239 @@
+time: 2025-12-24 09:08:19, ID: 9026f92d-ec0c-4be9-88ef-9db8dafd2114, name: Title Theme (The Great Sea)
+time: 2025-12-24 09:08:19, ID: ab02a702-2453-447b-b7e5-392ee203dcc6, name: File Selection
+time: 2025-12-24 09:08:19, ID: 8487484a-ffc0-4806-b83b-d20629726eb9, name: The Pirate Ship
+time: 2025-12-24 09:08:19, ID: fdd9d253-e940-482c-a2fe-b44f4222c893, name: The Ghost Ship Appears
+time: 2025-12-24 09:08:19, ID: 140fe2a1-b697-4a80-879c-a6f794647f44, name: House Theme
+time: 2025-12-24 09:08:19, ID: 98d7099d-f580-464f-934b-59097713a660, name: Tetra's Call
+time: 2025-12-24 09:08:19, ID: 47c590c8-9e59-4bc3-a3b6-7c43229225ff, name: Oshus's Sword Training
+time: 2025-12-24 09:08:19, ID: 21e5ca1d-40f3-4a95-aecf-e15f83fa941e, name: Fortune-Teller's House
+time: 2025-12-24 09:08:19, ID: aa5094d7-cdad-4b6a-92c2-3ebfeac80759, name: Item Acquired
+time: 2025-12-24 09:08:19, ID: 702074c9-f31c-4658-a0ad-1b5a6396a5b5, name: Temple of the Ocean King: Commencing Search
+time: 2025-12-24 09:08:19, ID: dbd1fa2a-8b15-4af1-aadc-246cf8b8b02e, name: Phantom Hourglass Acquired
+time: 2025-12-24 09:08:20, ID: abba1938-7f55-4fff-a887-7ed06b60274f, name: Looming Phantom
+time: 2025-12-24 09:08:20, ID: 5fb02110-c16b-49c5-88d9-aee7bea558ff, name: Linebeck's Theme
+time: 2025-12-24 09:08:20, ID: 726adea1-0383-4e48-874a-2385aeba24ab, name: Oshus's Theme
+time: 2025-12-24 09:08:20, ID: a7ab30ed-0b22-4edd-9b57-0ec98cd59ae6, name: Cavern Interior
+time: 2025-12-24 09:08:20, ID: 4fc401ce-ab65-4eff-8e25-c3cd0ffc932e, name: Item Acquired (Dizzy)
+time: 2025-12-24 09:08:20, ID: 7ac9e8d6-44e0-44d2-87d0-11e8caad43aa, name: Battle
+time: 2025-12-24 09:08:20, ID: 7720d0ba-7a4a-4ac0-952c-7e1b3babea9b, name: Phantom Strike
+time: 2025-12-24 09:08:20, ID: d8a4f853-7b8c-4a8f-bd0e-03350d41a23f, name: Spirit Gem Acquired
+time: 2025-12-24 09:08:20, ID: 8c9381f4-81fb-4f00-bfbc-0261b51c50a8, name: Boss Battle
+time: 2025-12-24 09:08:20, ID: 53c51478-28bf-4630-ab31-aadede908a36, name: Temple Interior
+time: 2025-12-24 09:08:20, ID: a14c4368-ca8a-4291-913c-2ddd0befb8bd, name: Beedle's Shop Ship
+time: 2025-12-24 09:08:20, ID: d490e6e4-e05e-4507-a572-fc786dcab807, name: Sand of Hours Appears
+time: 2025-12-24 09:08:20, ID: eca55852-aa12-4781-a38e-808acc4669ef, name: Sand of Hours Acquired
+time: 2025-12-24 09:08:20, ID: ea7d7e72-0620-4004-ae4a-c240e2946d0c, name: Approaching the Ghost Ship 
+time: 2025-12-24 09:08:20, ID: 803280e8-0eaa-42c1-8943-863c5e96148c, name: Important Item Acquired
+time: 2025-12-24 09:08:20, ID: 6e7e2b53-7827-4282-892e-69eba32c6ff5, name: Heart Container Acquired
+time: 2025-12-24 09:08:20, ID: 8f3c0416-cb5f-4ac9-97e3-91cd22081944, name: Conversation with Oshus
+time: 2025-12-24 09:08:20, ID: ec2aa439-822b-436a-b6b7-86bbb8e17ddd, name: Ciela's Awakening
+time: 2025-12-24 09:08:20, ID: 03e0408c-d6bd-4e5f-9c99-e1ce861faf38, name: Cannon Game Explained
+time: 2025-12-24 09:08:20, ID: 011a6241-fcba-42e1-850f-71caef88d4b9, name: Spirit Rescued?
+time: 2025-12-24 09:08:20, ID: 212270e6-12c2-4dfb-b549-cccc96866fa3, name: A Spirit Opens the Way
+time: 2025-12-24 09:08:20, ID: 91e3779a-5b52-4b6a-817f-1fb52a1dd388, name: Boss Battle at Sea
+time: 2025-12-24 09:08:20, ID: 8a3e0298-8d09-4025-9056-d7337b90433f, name: Game Over
+time: 2025-12-24 09:08:21, ID: e7da10a0-add9-484e-aa10-ae9e3950a75f, name: Spirit Rescued
+time: 2025-12-24 09:08:21, ID: 96271fef-96b6-4d91-ae23-7fc19b8c0182, name: Tetra Located
+time: 2025-12-24 09:08:21, ID: 7f5db149-e5d9-4617-a8cb-0c0107401ed2, name: Jolene Attacks
+time: 2025-12-24 09:08:21, ID: 55d92a23-25b4-4c76-ae3b-ea5c5230c8e8, name: Foggy Seas
+time: 2025-12-24 09:08:21, ID: 6b9a1fd7-5fc9-4f8a-b4bc-e77ed7522a01, name: A New Voyage
+time: 2025-12-24 09:08:21, ID: be596e0b-3ef3-4287-bb91-21697f5fd950, name: Paper-Cutout Theater - Bellum
+time: 2025-12-24 09:08:21, ID: 45abdaec-bcef-4ced-9ebb-c41544dbaac8, name: Rupoor Acquired
+time: 2025-12-24 09:08:21, ID: 3c25af73-f148-492f-bc95-17b5316667aa, name: Goron Island House Theme
+time: 2025-12-24 09:08:21, ID: 5be928b6-190e-4a22-95c8-f2617d6c12aa, name: Big Gold Rupee Acquired
+time: 2025-12-24 09:08:21, ID: 56bee91e-fe22-4fcb-828c-d162ff8af459, name: Link and Tetra
+time: 2025-12-24 09:08:21, ID: 875f2edb-0763-4efc-8bf4-07c2ad760d77, name: Goron Island
+time: 2025-12-24 09:08:22, ID: a04ab42a-aa2f-4a89-a405-40cc9c0973c1, name: Magic Box
+time: 2025-12-24 09:08:22, ID: 03c0cd26-dbf4-4403-ac2f-9870904b677c, name: Reunited with Tetra
+time: 2025-12-24 09:08:22, ID: e0b6ab49-c64e-4705-8d2d-2c290fa2073c, name: Bellum Lives
+time: 2025-12-24 09:08:22, ID: 76db3fc7-092f-40f1-af3c-4f99b93ae6a8, name: Bellum Battle (Ghost Ship)
+time: 2025-12-24 09:08:22, ID: c92dde93-13b9-4749-9050-ce9432e205a6, name: Bellum Battle (Recovered Memories)
+time: 2025-12-24 09:08:22, ID: 36789c8d-fe8e-44e7-a1cf-8cdfeabbea49, name: Important Item Acquired?
+time: 2025-12-24 09:08:22, ID: 9a4c6755-73f7-4395-b387-da799eca50d9, name: Tetra Abducted
+time: 2025-12-24 09:08:22, ID: b7d2196a-9f21-4c98-86d5-c3139cc7d4ee, name: Bellum Battle
+time: 2025-12-24 09:08:22, ID: 27306b6c-eecb-46d6-8f25-c4460bc8eddb, name: Phantom Sword Acquired
+time: 2025-12-24 09:08:22, ID: bbf77236-86ae-407b-ab6e-b24907c3bdfb, name: Tetra Restored
+time: 2025-12-24 09:08:22, ID: dcd7f044-99b7-41ae-a660-a96e4c88481a, name: Bellum's Tenacity
+time: 2025-12-24 09:08:22, ID: a1431b7e-3e65-4351-a3f0-a855f997960a, name: The Ocean King Appears
+time: 2025-12-24 09:08:22, ID: 3e5d0869-248e-4157-9ae8-7d11c97b0ee7, name: Linebeck Captured
+time: 2025-12-24 09:08:22, ID: 9fcb638b-4b2b-423f-a0da-668c5761ab03, name: Parting Ways with Ciela
+time: 2025-12-24 09:08:22, ID: 11305eec-4c43-4004-9208-42829831d965, name: Linebeck Possessed
+time: 2025-12-24 09:08:22, ID: 8fd76288-7712-4b7a-b53f-d12d745afb70, name: Bellum Battle (Phantom)
+time: 2025-12-24 09:08:22, ID: d974da50-8619-40de-8ba4-ddf9043c1e08, name: Final Conversation
+time: 2025-12-24 09:08:22, ID: 26398da5-3f11-4f88-b4a4-38d27382185d, name: Conversation with the Ocean King
+time: 2025-12-24 09:08:22, ID: cc6e5d02-0a2f-4741-b7d4-5043b1a83e70, name: Epilogue
+time: 2025-12-24 09:08:22, ID: 6176ddf3-5729-4b8d-8a9b-8f1c12eb1042, name: Staff Credits
+time: 2025-12-24 09:08:22, ID: 3b5bba6f-31f5-4baf-b510-e9d00bc2275e, name: Wireless Mode - Battle Mode: Begin
+time: 2025-12-24 09:08:22, ID: ff16631e-6350-4211-98b4-f24a35063a26, name: Wireless Mode - Battle Mode: Victory
+time: 2025-12-24 09:08:22, ID: 9012ac4c-8182-4b33-99eb-103d202397d7, name: Wireless Mode - Battle Mode: Playing as Link
+time: 2025-12-24 09:08:22, ID: 6e640cd5-4023-48f6-ae32-341f38baa4bb, name: Wireless Mode - Battle Mode: Lose/Draw
+time: 2025-12-24 09:08:22, ID: c68b3de9-9786-437a-b9b7-20a534ef1a84, name: Wireless Mode - Battle Mode: Defeated by a Phantom
+time: 2025-12-24 09:08:22, ID: a1f605ca-eb86-4281-8ba1-6c7923e16335, name: Wireless Mode - Battle Mode: Results
+time: 2025-12-24 09:08:22, ID: 97150f6b-c6a1-46dd-935c-12aa30937181, name: Wireless Mode - Battle Mode: Link Defeated
+time: 2025-12-24 09:08:26, ID: 677aa9f7-9896-4aad-9926-c395b95418d9, name: The First Fight
+time: 2025-12-24 09:08:26, ID: 5ee04593-eb42-4054-900c-5f2e9d00d0f2, name: Like Father, Like Son
+time: 2025-12-24 09:08:26, ID: f3beaaa7-a740-470a-b60d-3ebe69101a24, name: Ike's Resolution
+time: 2025-12-24 09:08:26, ID: f4112619-95d2-4b64-9418-f7b3967ed4ad, name: Greil Mercenaries
+time: 2025-12-24 09:08:26, ID: ce0ca09e-2996-411f-b74f-7d618b3f8408, name: Crimea Attacks
+time: 2025-12-24 09:08:26, ID: 84d729bb-1a52-44f0-93c2-4a327fad4065, name: Clash
+time: 2025-12-24 09:08:26, ID: 5ca7b85e-40af-4add-86eb-bb37191bb312, name: A Battle and a Beginning
+time: 2025-12-24 09:08:26, ID: a995de5f-14bc-4303-92e7-909cc9f4ba3d, name: Defensive Battle
+time: 2025-12-24 09:08:26, ID: 1035186c-7a07-4c62-b2d6-b4f3468fbb04, name: Side Battle
+time: 2025-12-24 09:08:26, ID: f8e8e1ea-608c-4291-a9cc-39e1bfdf7495, name: Congregation of Ambition
+time: 2025-12-24 09:08:26, ID: 7c2f04b7-ac64-48ff-b551-bed70f0dffc2, name: Decisive Attack
+time: 2025-12-24 09:08:26, ID: 54a46e11-2a14-4037-8a33-6fbe85b9acc6, name: Change of Scenery
+time: 2025-12-24 09:08:26, ID: 1c6709d7-b020-44dd-b420-b8c123ef19f9, name: Victory Is Near
+time: 2025-12-24 09:08:27, ID: 1946d0df-faf5-4abd-aa47-246d4f9f174f, name: Holding Your Own
+time: 2025-12-24 09:08:27, ID: 44186cf9-bf5a-43ad-88af-f677f6e43f06, name: Against the Black Knight
+time: 2025-12-24 09:08:27, ID: b676fbff-d729-45d7-96b4-d2eb3ce20146, name: The Enemy Approaches
+time: 2025-12-24 09:08:27, ID: ca4cc6c6-555d-4d30-bdda-750cbd2847fd, name: The Enemy Draws Near
+time: 2025-12-24 09:08:27, ID: 730784e4-14d6-401d-8022-22005f39961e, name: Victory United
+time: 2025-12-24 09:08:27, ID: 48fae6f9-048f-4691-ac6d-ca46d3fb4a4c, name: To Challenge Ashnard
+time: 2025-12-24 09:08:27, ID: adcf2393-0457-4a63-a943-643c2ecd279b, name: Moving Up
+time: 2025-12-24 09:08:27, ID: f26356c9-f6b6-4a4a-b716-4fefe1fb7f9a, name: Plight!
+time: 2025-12-24 09:08:27, ID: d7c58896-0a34-4ac3-abfe-deb9bd6b961f, name: A Mighty Foe
+time: 2025-12-24 09:08:27, ID: e949a480-8d3c-48c0-aa94-418430d986c0, name: Move Out!
+time: 2025-12-24 09:08:27, ID: e766d7d1-eac2-4d17-9ef6-14b3f4abbe3d, name: Quiet Days
+time: 2025-12-24 09:08:27, ID: 380f9edf-b75f-479b-a0f4-678d80ca1781, name: Abominable Memory
+time: 2025-12-24 09:08:27, ID: 3683ebcb-df60-44a7-b4bd-cee82b7dea7e, name: A Grave Fate
+time: 2025-12-24 09:08:27, ID: b199cd2b-05cc-4015-9ff5-067fb029f3d7, name: Wonderful Pirates
+time: 2025-12-24 09:08:27, ID: 42be9e8a-f21a-4c63-9997-f44f49866075, name: A World of Sorrow
+time: 2025-12-24 09:08:27, ID: f5d919fc-b724-473b-bf9e-30f392316045, name: Bittersweet Victory
+time: 2025-12-24 09:08:27, ID: 9e976e65-a086-4d4c-85b2-96ee8e746f92, name: The White Heron
+time: 2025-12-24 09:08:27, ID: e6b78d2f-d885-4b89-99f4-8d17cddf3b6d, name: Power-Hungry Fool
+time: 2025-12-24 09:08:27, ID: 98155792-98df-4d8b-883a-8b0770fd718c, name: Vow
+time: 2025-12-24 09:08:27, ID: caf081b4-05e5-4399-8067-2da812e1695d, name: With Us!
+time: 2025-12-24 09:08:27, ID: 9723cb41-ae82-4a1d-bf86-a2c6f6386323, name: Rally the Spirit
+time: 2025-12-24 09:08:27, ID: 9d1bc074-8fb9-4688-874b-3cd750bb700a, name: Dreaming of Home
+time: 2025-12-24 09:08:27, ID: e12ad333-f3c2-45fd-bae6-15761d6dfc53, name: Father's Back
+time: 2025-12-24 09:08:27, ID: 07542b12-f1c8-46d8-83e8-91e959725a49, name: Beautiful Princess Elincia
+time: 2025-12-24 09:08:27, ID: 453fe059-b277-41a4-aafe-a7e39235a257, name: His Father's Son
+time: 2025-12-24 09:08:27, ID: e37220e2-db64-464e-bbd2-a8d21ab2903c, name: Memory of Mom
+time: 2025-12-24 09:08:27, ID: 3dd604df-9756-4c5f-ad1a-2ac61f8f2dc0, name: Shadows Materialize
+time: 2025-12-24 09:08:27, ID: 48f85255-644d-44dc-acb5-8f2e416642af, name: A Messenger
+time: 2025-12-24 09:08:27, ID: 99156de4-e819-4687-ac6a-1182f5c9e4b8, name: Brave General, Brave King
+time: 2025-12-24 09:08:27, ID: b60ca97a-2ee9-4eb5-886f-a78574f7e93a, name: Lion King Caineghis
+time: 2025-12-24 09:08:28, ID: 51057f08-f89e-49dc-9ec2-4ee7e8ccbaed, name: Stratagem in Black Armor
+time: 2025-12-24 09:08:28, ID: d80ff097-7038-416b-b4c5-cbf6980a0069, name: Fate Unstoppable
+time: 2025-12-24 09:08:28, ID: f666235d-1bfd-46ba-8fea-9c820ba26435, name: To My Love
+time: 2025-12-24 09:08:28, ID: e4f28352-40ea-46fe-9c34-158f246399df, name: On Black Wings
+time: 2025-12-24 09:08:28, ID: ed5503da-5c3a-4871-951d-851282cbdce7, name: A Trusted Ruler
+time: 2025-12-24 09:08:28, ID: 284027a8-2a41-43d7-87eb-f6172c00d071, name: The Black Knight
+time: 2025-12-24 09:08:28, ID: 51951b2c-1aec-4a1b-b132-f3fa8d7b7334, name: March Forward!
+time: 2025-12-24 09:08:28, ID: 56e448d4-eea0-4ed4-a853-a89e269ce4d4, name: Burning Ambition
+time: 2025-12-24 09:08:28, ID: 460dfdbe-6297-4174-9d17-b8100f76db9a, name: Painful Wish
+time: 2025-12-24 09:08:28, ID: 27ff145c-93bd-49e5-b4bb-7857e229aaed, name: Limitless Power
+time: 2025-12-24 09:08:28, ID: 473f6169-678b-402d-8fca-34efabceb8fb, name: Requiem for the Fallen
+time: 2025-12-24 09:08:28, ID: 759133af-b1ab-4ca2-bb71-a8aa6a7413dc, name: Young Warriors
+time: 2025-12-24 09:08:28, ID: 9eebd9bc-301f-4208-b152-2e6c7b6cc171, name: Life Returns
+time: 2025-12-24 09:08:28, ID: 7448ed51-0af9-49e9-8b04-8392c43fc845, name: Rising Morale
+time: 2025-12-24 09:08:28, ID: bc0e3d40-d897-4794-aa0a-c132ca3c414b, name: Final Farewell
+time: 2025-12-24 09:08:28, ID: 9bd838f0-fb52-40b0-886e-64c959def044, name: Puzzling Truth
+time: 2025-12-24 09:08:28, ID: 251dadec-d65f-48db-a16d-b585cba05b1c, name: After the War
+time: 2025-12-24 09:08:28, ID: f5a480c9-0011-41d8-8d66-06695bd4aaf2, name: For Victory
+time: 2025-12-24 09:08:28, ID: c67a2427-dbd6-40f2-a22a-4d84998c6567, name: A Fallen Comrade
+time: 2025-12-24 09:08:28, ID: 0387e6bf-9ce2-46f7-bdec-d93062354f0a, name: Eternal Glory
+time: 2025-12-24 09:08:28, ID: d4a501f7-3183-4d9d-824d-404cfc650f66, name: Fire Emblem Theme
+time: 2025-12-24 09:08:29, ID: 0500dddf-547b-460f-bf62-cc28b1c5acae, name: A Connectar Portal Opens
+time: 2025-12-24 09:08:29, ID: c7284265-d2db-4a28-8530-e47e9fa5c247, name: Waking Up
+time: 2025-12-24 09:08:29, ID: 2f5dadf6-a610-4faf-be09-6962855ccfe4, name: Brothership!
+time: 2025-12-24 09:08:29, ID: b893df92-d4f3-4471-adcb-117cdd7e8fd7, name: Guided by Luigi's Voice
+time: 2025-12-24 09:08:29, ID: 3618b6fc-8e25-460d-ae42-b53aeb5b2ccc, name: Lighthouse of Rumbla Island
+time: 2025-12-24 09:08:29, ID: 953d3712-7f51-4869-abc1-01be4dcdad35, name: Discovered a Drifting Island!
+time: 2025-12-24 09:08:29, ID: ac1e40d9-8520-4caf-b15c-b5ff4503522c, name: Where'd They Land Now?
+time: 2025-12-24 09:08:29, ID: 4d50af63-b636-4f90-b70e-be829c468665, name: Victory!
+time: 2025-12-24 09:08:29, ID: 13ad064a-72ba-4ce6-90ac-7264695faa2c, name: Fly, Mario and Luigi!
+time: 2025-12-24 09:08:29, ID: 0e65efc3-cd5a-49ca-83ae-e50b7e12a600, name: Attack Combos!
+time: 2025-12-24 09:08:29, ID: 6edfcebb-115d-47e7-9fcc-cf8a36873f7e, name: What's Gonna Happen?!
+time: 2025-12-24 09:08:29, ID: c8c81ee8-29bb-46ba-8bb9-365061267273, name: Exciting!
+time: 2025-12-24 09:08:29, ID: 6572b7e5-d8ea-4c91-ba44-809595819cec, name: Connie and Shipshape Island
+time: 2025-12-24 09:08:29, ID: 6d81692f-46ee-4ae4-a166-9f83c6a96db8, name: Connecting Everyone with Island Link
+time: 2025-12-24 09:08:29, ID: 6a97a066-c8c0-4b87-852e-c8ca7669c42c, name: Soggy Rescue on Raynforst Island
+time: 2025-12-24 09:08:29, ID: 7039aa27-7533-4728-9b9b-79470cde0fcf, name: Luigi Logic
+time: 2025-12-24 09:08:29, ID: 024032fa-45bd-4038-9be4-6eeffddd950d, name: Twistee Island Twist
+time: 2025-12-24 09:08:29, ID: 4fdff432-8b51-4456-91f2-6fcb46ed4a35, name: Cooperation or Competition?!
+time: 2025-12-24 09:08:29, ID: dd5ceae3-bb63-4575-a789-f5d4b33045f5, name: First-Time Island Link
+time: 2025-12-24 09:08:29, ID: 4be69d12-1fd0-488a-8ff5-b4d383b250c2, name: Growdacious Groove
+time: 2025-12-24 09:08:29, ID: 78bc0d86-3dc7-48c4-bcd6-231df163dbf1, name: To the Linked Island!
+time: 2025-12-24 09:08:29, ID: c2f090bd-3ec2-4b73-9c6d-8157112ff935, name: Wow! The Rumbla Dish!
+time: 2025-12-24 09:08:29, ID: 4288a27b-8586-4403-81f4-78e25f14111b, name: Dyode Groove Is Back
+time: 2025-12-24 09:08:30, ID: 61d031ae-b7a6-4d9a-8c9e-b3b91f1d7b41, name: Kindness and Regret
+time: 2025-12-24 09:08:30, ID: af11573d-8f36-42f6-89fd-92df6ba7f076, name: Wriggling Spite
+time: 2025-12-24 09:08:30, ID: 0f78e8b9-52f9-4448-b5e7-21228c40b784, name: The Four Great Lighthouses
+time: 2025-12-24 09:08:30, ID: cb379ef3-851b-4600-a657-d6a86a388900, name: A Battle of Logic
+time: 2025-12-24 09:08:30, ID: 85ccc722-4e7b-4433-b1e0-f39d144a6d40, name: Good Night
+time: 2025-12-24 09:08:30, ID: a2b81358-95f1-44be-a062-f2bda8505e38, name: A Threat Blocks Your Path
+time: 2025-12-24 09:08:30, ID: 7349a42d-fccb-4af9-a921-129281b72aaa, name: Full-Power Battle Groove!
+time: 2025-12-24 09:08:30, ID: 3598ccd3-e8c6-4d27-9ffa-6f70509ff439, name: The Gentle Breeze of Florall Island
+time: 2025-12-24 09:08:30, ID: 6f54a1dd-a768-4490-8e21-181b417ac762, name: A Changed Island
+time: 2025-12-24 09:08:30, ID: b727c99a-2f0e-4489-af3c-5a9642f47c24, name: Great Lighthouse - Stolen Light
+time: 2025-12-24 09:08:30, ID: e822dcd6-f20a-429e-8f97-8fc147495b51, name: The Maze of Merrygo Island and the Vision in Pink
+time: 2025-12-24 09:08:30, ID: 6c3b0277-4e73-4d7a-b2f1-ee9c6dd0fc30, name: An Afternoon on an Islet
+time: 2025-12-24 09:08:30, ID: 79deb1b7-47b4-442f-89df-9fda5b70bcdc, name: Connie Lights the Lighthouses
+time: 2025-12-24 09:08:30, ID: 58ad80cf-5eeb-4bfc-b333-1a865776a0d7, name: The Monster Bird of Desolatt Island
+time: 2025-12-24 09:08:30, ID: 0da8e59a-b53a-4102-a589-540298d133d5, name: Bulbfish Island in the Dark
+time: 2025-12-24 09:08:30, ID: c2c40f74-0fc5-446f-ba22-816bbe7fad93, name: Rescue Operation
+time: 2025-12-24 09:08:30, ID: ec71b4aa-153f-4c1b-9a1a-bb1f5bce8be0, name: The Majesty of IDLE
+time: 2025-12-24 09:08:30, ID: 8b22dba8-778a-466f-8b3d-e72df7d49fd7, name: The Sharkbones of Allsand Island
+time: 2025-12-24 09:08:30, ID: ffe32bcb-3617-4598-b94e-dc86669e5a76, name: Everyday Errands
+time: 2025-12-24 09:08:30, ID: 895ea9f8-b2db-4f12-823b-3b2edee3e722, name: The Business Boogie of Lottacoins Island
+time: 2025-12-24 09:08:30, ID: 06f52e3d-517b-4dd1-85c7-17c7131bf866, name: Heatfreeze Island's Fire and Ice
+time: 2025-12-24 09:08:30, ID: 9d9f43e4-0959-4db7-9261-bc3625bb79ce, name: Wedding Groove
+time: 2025-12-24 09:08:30, ID: 36cd39da-cd76-4d94-b896-93dc841b1608, name: A Wedding Unites the People
+time: 2025-12-24 09:08:30, ID: 360bea61-fad4-4406-894a-ff6d5aa6ddd1, name: Lord Bowser's Awesome Offandon Island
+time: 2025-12-24 09:08:30, ID: 2a0d1078-5aa2-4f88-a704-9c039ca55b04, name: A Heart-Pounding Dungeon
+time: 2025-12-24 09:08:30, ID: 0f69a599-b83b-48e3-94a4-577eade8e4e3, name: The Couple's Vows
+time: 2025-12-24 09:08:30, ID: e1dd7d2e-709a-4277-9440-5da4ae0e8d9c, name: Slippenglide Island, Where Puns Are Colder Than the Weather
+time: 2025-12-24 09:08:30, ID: b1a888f8-710a-48a8-b225-3e06be8bb643, name: Bowser's Minions Vs. Fortress Zokket
+time: 2025-12-24 09:08:30, ID: 9ec6f30c-3808-40be-a1e9-219924aa130c, name: Red-Hot Skorcheen Island
+time: 2025-12-24 09:08:31, ID: 590041a8-a525-4a97-a5c4-ab9bb5e395e7, name: Chilliam and Burnadette
+time: 2025-12-24 09:08:31, ID: 1b7c9f6a-6b88-40f6-ada9-52f22871429a, name: The Power of Fortress Zokket
+time: 2025-12-24 09:08:31, ID: e85e3642-735a-413a-ae8a-03e0099381ae, name: Tune of Unease
+time: 2025-12-24 09:08:31, ID: b4abf23f-1329-4c2c-86fa-d03d5c52495f, name: What the Light Reveals
+time: 2025-12-24 09:08:31, ID: af273d8c-9799-40ca-b71b-e5846a2db7b9, name: Jellyfish Island Vibes
+time: 2025-12-24 09:08:31, ID: e4aa1e46-b5d9-42d3-b54b-3f8589d5f439, name: Guiding Voice
+time: 2025-12-24 09:08:31, ID: 8de04cb1-1ffe-49c6-ad7d-89679ae91b25, name: Bowser's Castle on Wayaway Island
+time: 2025-12-24 09:08:31, ID: 83e17cf0-8fa9-4eab-9ac1-3da42acf2dc0, name: Glohm Bowser's Bellow
+time: 2025-12-24 09:08:31, ID: eadf1217-3b8f-4309-8b0f-64584bb9303b, name: Growdacious Groove (Hard)
+time: 2025-12-24 09:08:31, ID: 2c9eae48-eef6-482d-9f24-5b858a474e8c, name: The Great Conductor's Gentle Light
+time: 2025-12-24 09:08:31, ID: 25564018-f358-46f5-be3f-c9cde8b5f14c, name: Fierce Battles in Fortress Zokket
+time: 2025-12-24 09:08:31, ID: 004cd38c-2fdc-4d50-8cd9-39b06a9001f4, name: Welcome to Reclusa World
+time: 2025-12-24 09:08:31, ID: 689b8347-1bf9-4aa5-86c0-349f0b01eaea, name: Fly or Dive, Shipshape Island!
+
+time: 2025-12-24 09:08:31, ID: 58968d5d-273b-4405-81ba-d9e80f4b8291, name: Escape from Fortress Zokket
+time: 2025-12-24 09:08:31, ID: 0cfe6251-2750-4e83-bef7-416a2c2e7e66, name: The Revival of Reclusa
+time: 2025-12-24 09:08:31, ID: 9f317a24-543a-40a5-a1e0-f6282178310c, name: The Power of Bonds
+time: 2025-12-24 09:08:31, ID: d99ba377-248b-43b7-9087-031d0572ee63, name: Club Dyode
+time: 2025-12-24 09:08:31, ID: f2c2e1c1-d2b1-4313-9d96-1db930a731e7, name: The Beginning of the End
+time: 2025-12-24 09:08:31, ID: ee3734fd-c3cd-4451-88bc-4a9a8e240ce4, name: Dyode Groove
+time: 2025-12-24 09:08:31, ID: 09983906-7d32-490d-a6de-82ab310cb853, name: Up-Tempo Growdacious Groove (Hard)
+time: 2025-12-24 09:08:31, ID: 6561067c-36bd-4a7a-8579-5120e2b4ba0e, name: Reclusa World
+time: 2025-12-24 09:08:31, ID: 70cd0c51-5939-4dcf-a544-538d722a29fd, name: Infiltrate Soli-Tree!
+time: 2025-12-24 09:08:31, ID: a7710dd4-16a3-4b3b-acbf-aaaad7eb1f83, name: The M*shr**m K*ngd*m?
+time: 2025-12-24 09:08:32, ID: 1e8cfbd7-8562-478a-9d5d-60f78610c5eb, name: Bond Groove
+time: 2025-12-24 09:08:32, ID: 802e49a5-d916-4e03-bec8-fdcb5e070185, name: Up-Tempo Bond Groove
+time: 2025-12-24 09:08:32, ID: d8880b56-7b24-49f7-93a8-67593dd73059, name: May You Have Safe Travels
+time: 2025-12-24 09:08:32, ID: b8edc8c9-d02f-44ed-8170-8b0f8473439b, name: The M******m K*****m?
+time: 2025-12-24 09:08:32, ID: 85213e37-3d8b-4da6-8fa4-5a111362d545, name: The M*shroom K*ngdom?
+time: 2025-12-24 09:08:32, ID: 4ae4ece9-0d9c-45d3-918d-c81007b55037, name: The Mushroom Kingdom?
+time: 2025-12-24 09:08:32, ID: e286bb24-26e4-49c0-a9fa-b5c349b77caf, name: Where Are You Planning to Go?
+time: 2025-12-24 09:08:32, ID: a250d62a-d6fd-46b9-9e33-7a7b382233d4, name: Up-Tempo Dyode Groove
+time: 2025-12-24 09:08:32, ID: fe65e50b-a719-4df3-8ea2-e399a21809cc, name: The End of Reclusa World
+time: 2025-12-24 09:08:32, ID: 04c03b90-38d5-4563-822c-8975777e0b3a, name: Reuniting with Everyone
+time: 2025-12-24 09:08:32, ID: 708bfcd9-c86a-4ba7-974e-d724e351f4d9, name: Reclusa's Fierce Attack
+time: 2025-12-24 09:08:32, ID: ba3af539-8770-49e4-b3ad-e550ba38362a, name: Goodbye, Shipshape Island! Goodbye, Everyone!
+time: 2025-12-24 09:08:32, ID: 71635b75-33d5-40e3-90a3-96c4c6a27a86, name: Unexpected Help in a Dire Situation
+time: 2025-12-24 09:08:32, ID: 16014f51-d235-4ef6-a0cc-dd4df655047f, name: Ready to Face Weeping Reclusa
+time: 2025-12-24 09:08:32, ID: 35fefcce-99a5-4c55-bd2b-6d21b5bcb999, name: Weeping Reclusa Activates
+time: 2025-12-24 09:08:32, ID: 1ade944b-53b1-448b-aadc-7d20eb5a5e0f, name: Reclusa's White Shadow
+time: 2025-12-24 09:08:32, ID: 5da9200e-a6bd-4d44-8e81-fe32d357ed44, name: The Final Phase
+time: 2025-12-24 09:08:32, ID: 6d7be642-48c3-4fa2-9c00-8e109aaffab5, name: This Is the End for You!
+time: 2025-12-24 09:08:32, ID: b8bfbe5a-2176-4da5-a245-ee5203e68630, name: The World Is Connected!
+time: 2026-01-09 09:04:47, ID: 1409f341-5236-4008-884c-42579acb11d6, name: Paper-Cutout Theater - Meeting
+time: 2026-01-09 09:04:47, ID: a7bc1587-1396-446b-8225-ddcd63da9ce3, name: North Mercay Island
+time: 2026-01-09 09:04:47, ID: a71eb36f-de82-4354-b820-d4a639216997, name: Paper-Cutout Theater - Beginning
+time: 2026-01-09 09:04:47, ID: 10dd7980-2df0-41de-98db-04b2294f4061, name: Paper-Cutout Theater - Demon King's Scheme
+time: 2026-01-09 09:04:47, ID: 4bb5e75a-4dcb-40e9-bf7a-13001a768bab, name: South Mercay Island
+time: 2026-01-09 09:04:47, ID: 7a8b382f-ba07-49e3-b35e-53dc1240202d, name: Paper-Cutout Theater - Princess Zelda
+time: 2026-01-09 09:04:47, ID: 0117c515-5074-407e-83c0-6dbe316a326f, name: Paper-Cutout Theater - The Boy Who Became a Hero
+time: 2026-01-09 09:04:47, ID: 20d01453-a43e-4767-846e-2fb34b1ddd06, name: Paper-Cutout Theater - Departure
