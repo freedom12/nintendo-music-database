@@ -32,7 +32,9 @@ def get_api(url: str, params: dict, retry_count: int = 5) -> dict | list:
                 print(f'Error: {response.status_code}')
         except Exception as e:
             print(f'Error: {e}')
-    raise RuntimeError('Failed to get a successful response from the API after multiple retries')
+    print(f'Failed to get a successful response from the API after {retry_count} retries')
+    # raise RuntimeError('Failed to get a successful response from the API after multiple retries')
+    return []
 
 
 # track_id = "bfac443c-402e-4242-8d35-9545b9d87453"
