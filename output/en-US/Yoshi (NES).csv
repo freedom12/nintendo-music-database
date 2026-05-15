@@ -1,0 +1,12 @@
+index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
+1,"Title Screen",41550,False,True,"Yoshi","Title Themes","NES Selects|Nintendo Music Selects|Nintendo Music Top Tracks","ae7baaca-fca8-4b57-bdfc-5979fc024d65","https://image-assets.m.nintendo.com/2cf25548-f3a8-4d64-ad0c-98ab73154cc7"
+2,"Mushroom BGM",200815,True,True,"Yoshi","","NES Selects|Nintendo Music Selects|Nintendo Music Top Tracks","41275350-b0b4-4b1b-8da0-3be617d7667c","https://image-assets.m.nintendo.com/1eb4cb77-aa30-41d7-aa22-25fe55d202c8"
+3,"Flower BGM",219537,True,True,"","","Nintendo Music Top Tracks","8aecf17e-7ec1-4617-b2df-141259fa9c5d","https://image-assets.m.nintendo.com/bc26af88-86e1-45be-9830-585b3321eff1"
+4,"Star BGM",203569,True,True,"","","Nintendo Music Top Tracks","65c5033d-8846-4df7-a16c-9e640fd2f415","https://image-assets.m.nintendo.com/223f9097-e8a2-4ec4-b0f3-d8aa16d58e49"
+5,"B-Type Clear",3603,False,True,"","","Nintendo Music Top Tracks","1d284224-c800-4fdb-9a3d-a3d25e480d2d","https://image-assets.m.nintendo.com/3570d588-1862-4143-b353-a2f8a316bf9a"
+6,"Congratulations!",4035,False,True,"","","Nintendo Music Top Tracks","44947321-21f3-4f6e-a1c7-fb88e6528b9c","https://image-assets.m.nintendo.com/ea4c7692-fdd1-4bf2-a318-72e917aa174d"
+7,"Game Over",4022,False,True,"","","Nintendo Music Top Tracks","58476cae-654f-4448-a758-87ba92181165","https://image-assets.m.nintendo.com/05eaa82b-bc1f-4c23-bdfb-5685e5e8d6e5"
+8,"Vs. Menu",59812,True,True,"","","Nintendo Music Top Tracks","120efc17-ded4-4fd3-a62e-3b81b6f4b4da","https://image-assets.m.nintendo.com/d470eaad-0e66-4591-830a-cd1e956117e6"
+9,"Vs. BGM",123705,True,True,"","","NES Selects|Nintendo Music Top Tracks","e72ec11c-3e08-427f-9e80-d1c248c77d27","https://image-assets.m.nintendo.com/ac7bb1fb-a2a1-4295-953a-28023d7ec351"
+10,"One Game Won",2291,False,True,"","Victory!","Nintendo Music Top Tracks","28017502-466a-492b-a84b-cd0b54f57b46","https://image-assets.m.nintendo.com/86123d6f-98dd-4985-9548-3c26b59e6f38"
+11,"Three Games Won",57694,True,True,"","Victory!","Nintendo Music Top Tracks","18b79bf0-ca4d-4aba-acc5-566e8da8d150","https://image-assets.m.nintendo.com/cbb72aa3-a0f7-434d-8de0-ef9c4ecedb0e"
