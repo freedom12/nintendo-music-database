@@ -28,6 +28,8 @@ def get_api(url: str, params: dict, retry_count: int = 5) -> dict | list:
             response = requests.get(url, params=params, headers=headers, timeout=10)
             if response.status_code == 200:
                 return response.json()
+            if response.status_code == 400:
+                return []
             else:
                 print(f'Error: {response.status_code}')
         except Exception as e:
