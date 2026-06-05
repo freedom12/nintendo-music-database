@@ -4208,6 +4208,14 @@
                     "thumbnailURL": "https://image-assets.m.nintendo.com/c0744444-98d8-40a7-abae-bf98046109df",
                     "tracksNum": 91,
                     "type": "MULTIPLE"
+                },
+                {
+                    "description": "收集了能让人感受到自然的恬静乐曲。※乐曲的顺序每天都会变化。",
+                    "id": "3ee02587-d037-4437-9974-888e4244613d",
+                    "name": "感受自然",
+                    "thumbnailURL": "https://image-assets.m.nintendo.com/6b3bc3fd-2cee-42ea-bab9-c722ce103fac",
+                    "tracksNum": 26,
+                    "type": "MULTIPLE"
                 }
             ]
         },

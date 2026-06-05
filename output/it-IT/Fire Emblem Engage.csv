@@ -6,7 +6,7 @@ index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_
 5,"The Dragon's Dream",82511,False,False,"Alear|Marth","","","1993ae9b-edcc-4a07-9811-ec6007645714","https://image-assets.m.nintendo.com/d1e8840f-fbc2-45eb-86e9-802a235fd354"
 6,"Weary Confrontation",139561,True,False,"","","","489f62f4-4f29-4cca-9030-9527c122898f","https://image-assets.m.nintendo.com/0fb62c90-03e9-415c-97eb-fe6f00df56dc"
 7,"Weary Confrontation (Gloom)",148282,True,False,"Campi di battaglia","","","9fbf99e4-6d8b-4a76-9694-4656257dd42f","https://image-assets.m.nintendo.com/db4dbe1d-2da5-40e4-8afe-b1035c6cbbad"
-8,"Garden of Light",150762,False,False,"Somniel","Buonanotte","","26d7b278-f08d-4357-a6f8-7b7584dc047e","https://image-assets.m.nintendo.com/718c4aae-b619-4883-b809-9cf41a42febb"
+8,"Garden of Light",150762,False,False,"Somniel","Buonanotte|Natura","","26d7b278-f08d-4357-a6f8-7b7584dc047e","https://image-assets.m.nintendo.com/718c4aae-b619-4883-b809-9cf41a42febb"
 9,"Faraway Holy Land",184827,True,True,"Campi di battaglia","Inizia l'avventura","Il meglio di Nintendo Music","0ff715aa-ac23-4266-94be-2b25f3bd2011","https://image-assets.m.nintendo.com/f292b767-5c91-4937-9963-b1a3c56ed0d1"
 10,"Faraway Holy Land (Flare)",185114,True,False,"Battaglie","","","f0e93bcc-666c-43d7-b65e-7dbb6291dbf1","https://image-assets.m.nintendo.com/cfa4b9db-692a-4199-8994-1c27416402bb"
 11,"Corrupted",62508,True,True,"Campi di battaglia","","Il meglio di Nintendo Music","c8eb3fe9-31a4-486c-8e6e-6fa9eabff936","https://image-assets.m.nintendo.com/6bd57633-56fa-496a-bbd3-d5b39aa1f22f"
