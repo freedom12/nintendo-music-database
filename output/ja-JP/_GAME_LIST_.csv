@@ -31,7 +31,7 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 30,"スーパーマリオブラザーズ ワンダー Nintendo Switch 2 Edition + みんなでリンリンパーク",2026,"Nintendo Switch 2","New スーパーマリオブラザーズ|New スーパーマリオブラザーズ U デラックス|スーパーマリオ 3Dワールド + フューリーワールド|スーパーマリオ オデッセイ|スーパーマリオ64|スーパーマリオUSA|スーパーマリオギャラクシー|スーパーマリオギャラクシー 2|スーパーマリオブラザーズ|スーパーマリオブラザーズ3|スーパーマリオランド|スーパーマリオランド2 6つの金貨|スーパーマリオワールド",True,"19c34bfb-5f33-486e-8c84-2ce9ca2f3a46","https://image-assets.m.nintendo.com/0ae01067-dbff-4726-a3ba-a3b72a4d5619"
 31,"スーパーマリオブラザーズ ワンダー",2023,"Nintendo Switch","New スーパーマリオブラザーズ|New スーパーマリオブラザーズ U デラックス|スーパーマリオ 3Dワールド + フューリーワールド|スーパーマリオ オデッセイ|スーパーマリオ64|スーパーマリオUSA|スーパーマリオギャラクシー|スーパーマリオギャラクシー 2|スーパーマリオブラザーズ|スーパーマリオブラザーズ3|スーパーマリオランド|スーパーマリオランド2 6つの金貨|スーパーマリオワールド",False,"e55a92d6-12f2-4011-8312-e7b38e2a3c7f","https://image-assets.m.nintendo.com/c2e89bf9-5d5c-4608-be84-e468fba2fc25"
 32,"スーパードンキーコング 2",1995,"スーパーファミコン","スーパードンキーコング|スーパードンキーコング 3",False,"8c4d990d-6e83-4ba6-9ff5-f8da1792e6cf","https://image-assets.m.nintendo.com/23100fa3-f6bd-45e0-8234-78407ea89c69"
-33,"Wii Sports",2006,"Wii","",False,"f137bc44-6ce6-4890-88fe-b6197e07d5a2","https://image-assets.m.nintendo.com/47aab0ff-feed-4e42-8a37-85d6623648ee"
+33,"Wii Sports",2006,"Wii","Wii Sports Resort",False,"f137bc44-6ce6-4890-88fe-b6197e07d5a2","https://image-assets.m.nintendo.com/47aab0ff-feed-4e42-8a37-85d6623648ee"
 34,"F-ZERO X",1998,"NINTENDO 64","F-ZERO",False,"cc83236d-5e11-40ba-b2cd-2769ffb41f02","https://image-assets.m.nintendo.com/514cfd2f-9bbe-48ef-b172-8afba9e1e834"
 35,"脳を鍛える大人のDSトレーニング",2005,"ニンテンドーDS","",False,"1324151b-3f15-47c5-bb66-77ee58616670","https://image-assets.m.nintendo.com/f4f7f32b-c5b7-42d5-98be-d8708cf81f89"
 36,"スプラトゥーン2",2017,"Nintendo Switch","スプラトゥーン|スプラトゥーン3",False,"f3a39d36-519f-4839-87d3-ec70c0298b6a","https://image-assets.m.nintendo.com/eaf580a9-cefa-467d-a66d-8d52623e61ea"
@@ -148,3 +148,4 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 147,"ピクミン1",2023,"Nintendo Switch","ピクミン4",True,"34eee53e-b0fc-46e3-819b-4896f13116de","https://image-assets.m.nintendo.com/5863525b-ffb6-4c19-b185-4593b5f5637f"
 148,"ピクミン",2001,"ニンテンドー ゲームキューブ","ピクミン4",False,"80e934da-641b-4c06-a899-b90e6ff7a0b1","https://image-assets.m.nintendo.com/8ec3313f-b1c4-45e8-8410-a4b500a77b67"
 149,"マリオカート ワールド",2025,"Nintendo Switch 2","スーパーマリオカート|マリオカート64|マリオカート7|マリオカート8 デラックス",False,"dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd","https://image-assets.m.nintendo.com/985d81ae-7d37-4bd1-8732-f247f47f8821"
+150,"Wii Sports Resort",2009,"Wii","Wii Sports",False,"9d587df8-884a-4855-8498-8a3f3f465bff","https://image-assets.m.nintendo.com/3eb2e40f-e2e5-4884-8042-69bca451cf79"

@@ -31,7 +31,7 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 30,"슈퍼 마리오브라더스 원더 Nintendo Switch 2 Edition + 다 함께 방울 파크",2026,"Nintendo Switch 2","Super Mario 64|Super Mario Land|Super Mario Land 2 - 6 Golden Coins|뉴 슈퍼 마리오브라더스|뉴 슈퍼 마리오브라더스 U 디럭스|슈퍼 마리오 3D 월드 + 퓨리 월드|슈퍼 마리오 Wii 2 갤럭시 어드벤처 투게더|슈퍼 마리오 Wii 갤럭시 어드벤처|슈퍼 마리오 오디세이|슈퍼 마리오 월드|슈퍼 마리오브라더스|슈퍼 마리오브라더스 2|슈퍼 마리오브라더스 3",True,"19c34bfb-5f33-486e-8c84-2ce9ca2f3a46","https://image-assets.m.nintendo.com/0155fec8-d9ba-40bc-a723-ad157bbc822b"
 31,"Super Mario Bros. Wonder",2023,"Nintendo Switch","Super Mario 64|Super Mario Land|Super Mario Land 2 - 6 Golden Coins|뉴 슈퍼 마리오브라더스|뉴 슈퍼 마리오브라더스 U 디럭스|슈퍼 마리오 3D 월드 + 퓨리 월드|슈퍼 마리오 Wii 2 갤럭시 어드벤처 투게더|슈퍼 마리오 Wii 갤럭시 어드벤처|슈퍼 마리오 오디세이|슈퍼 마리오 월드|슈퍼 마리오브라더스|슈퍼 마리오브라더스 2|슈퍼 마리오브라더스 3",False,"e55a92d6-12f2-4011-8312-e7b38e2a3c7f","https://image-assets.m.nintendo.com/c2e89bf9-5d5c-4608-be84-e468fba2fc25"
 32,"동키콩 컨트리 2",1995,"Super Nintendo Entertainment System","Donkey Kong Country 3: Dixie Kong's Double Trouble!|동키콩 컨트리",False,"8c4d990d-6e83-4ba6-9ff5-f8da1792e6cf","https://image-assets.m.nintendo.com/696905a5-d86f-452a-90ae-73c4c5a2062d"
-33,"Wii Sports",2006,"Wii","",False,"f137bc44-6ce6-4890-88fe-b6197e07d5a2","https://image-assets.m.nintendo.com/7a480745-3e90-43dd-9ee2-86a92039b2f1"
+33,"Wii Sports",2006,"Wii","Wii Sports Resort",False,"f137bc44-6ce6-4890-88fe-b6197e07d5a2","https://image-assets.m.nintendo.com/7a480745-3e90-43dd-9ee2-86a92039b2f1"
 34,"F-Zero X",1998,"Nintendo 64","F-ZERO",False,"cc83236d-5e11-40ba-b2cd-2769ffb41f02","https://image-assets.m.nintendo.com/e0473a8c-9409-46c3-8eed-152dde6e3848"
 35,"매일매일 DS 두뇌 트레이닝",2005,"Nintendo DS","",False,"1324151b-3f15-47c5-bb66-77ee58616670","https://image-assets.m.nintendo.com/140569bd-b1aa-4be4-a16c-c214e9f34319"
 36,"Splatoon 2",2017,"Nintendo Switch","Splatoon|스플래툰 3",False,"f3a39d36-519f-4839-87d3-ec70c0298b6a","https://image-assets.m.nintendo.com/2cdd6eab-f6e3-4c2d-9d0f-aaea5edb3303"
@@ -148,3 +148,4 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 147,"피크민 1",2023,"Nintendo Switch","피크민 4",True,"34eee53e-b0fc-46e3-819b-4896f13116de","https://image-assets.m.nintendo.com/71f9d552-2557-490d-b017-02a5709e43d5"
 148,"피크민",2001,"Nintendo GameCube","피크민 4",False,"80e934da-641b-4c06-a899-b90e6ff7a0b1","https://image-assets.m.nintendo.com/9e62ed41-0d75-45c9-977d-b6055c28be56"
 149,"마리오 카트 월드",2025,"Nintendo Switch 2","Super Mario Kart|마리오 카트 64|마리오 카트 7|마리오 카트 8 디럭스",False,"dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd","https://image-assets.m.nintendo.com/985d81ae-7d37-4bd1-8732-f247f47f8821"
+150,"Wii Sports Resort",2009,"Wii","Wii Sports",False,"9d587df8-884a-4855-8498-8a3f3f465bff","https://image-assets.m.nintendo.com/da7102c9-cb98-4069-86f7-400711478fd8"
