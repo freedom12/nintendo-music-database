@@ -1,0 +1,482 @@
+time: 2026-07-01 08:47:28, ID: 8f8918a0-b237-4662-a79a-0f99a36bc52d, name: Title Theme
+time: 2026-07-01 08:47:29, ID: 02d7774e-21d8-44fc-8918-b21c250113e5, name: Ingot Isle
+time: 2026-07-01 08:47:29, ID: 6261d1b6-f577-4c9a-93fd-7beb6660b907, name: Oh, Banana!
+time: 2026-07-01 08:47:29, ID: b10d16ac-b35f-467d-9ccd-a3524bee9005, name: Encounter with Odd Rock #1
+time: 2026-07-01 08:47:29, ID: 39e9baa9-f3ea-4132-ae29-8ec1ec05cad7, name: Odd Rock Rescue Battle
+time: 2026-07-01 08:47:29, ID: 542edc10-fe66-4750-9195-2a389f139ac7, name: Encounter with Odd Rock #2
+time: 2026-07-01 08:47:29, ID: 84d3dc84-a433-464a-874d-24e1bd9ca4d2, name: Ingot Isle: Outside the Tunnel
+time: 2026-07-01 08:47:29, ID: 83fd70fd-a796-47f1-8d42-244352465a4c, name: Ingot Isle Falls
+time: 2026-07-01 08:47:29, ID: 37d206c0-8cd7-4d3a-b355-80f06eebbd87, name: Enter DK!
+time: 2026-07-01 08:47:29, ID: 5bc67f95-42ab-4e7f-8769-3a323fbcaf7c, name: Ingot Isle Cave-In
+time: 2026-07-01 08:47:29, ID: 1ea5d1bf-af0b-4966-b207-4596d08004f0, name: You Got a Banandium Gem
+time: 2026-07-01 08:47:30, ID: d1cb4d23-876e-4930-a728-547b8a3da26c, name: Lagoon Layer
+time: 2026-07-01 08:47:30, ID: cb2f2186-be20-4ea8-bd93-4713c935605c, name: You Got Three Banandium Gems
+time: 2026-07-01 08:47:30, ID: 00632f22-cf04-421a-9eac-a90e1acae18d, name: Donkey Kong Bananza
+time: 2026-07-01 08:47:30, ID: 80f58119-6cb7-452b-9bf6-98bf82cfc6f5, name: Odd Rock Rescue #2
+time: 2026-07-01 08:47:30, ID: b67feda5-f1cd-4e6d-899b-86970909b162, name: Welcome to the Underground World
+time: 2026-07-01 08:47:30, ID: b550fb74-776f-45a0-b332-e46bec19a30d, name: Odd Rock Has Decided to Join You!
+time: 2026-07-01 08:47:30, ID: e9ba71f6-deec-42c1-a6af-2e41ca6e6b8b, name: Entrance to the Underground World
+time: 2026-07-01 08:47:30, ID: ce5afe3b-d361-494f-a0ca-c44364ae6ff3, name: Ingot Isle Cave-In Battle
+time: 2026-07-01 08:47:30, ID: 123610e4-efd5-4251-89c5-c54eebd8f100, name: Crockoid Rises
+time: 2026-07-01 08:47:30, ID: 5db2b5cc-9b13-46ee-851b-e5719fe3fac9, name: Odd Rock Rescue #1
+time: 2026-07-01 08:47:30, ID: 7394b4ad-27a8-4b26-9455-d9bd32da9e82, name: Challenge Course #1
+time: 2026-07-01 08:47:30, ID: 1ba98a67-7284-4de6-a069-43536448aac6, name: Pauline Is Now Your Friend!
+time: 2026-07-01 08:47:30, ID: 1468d31d-5f1a-4678-9541-57a0fe0b469f, name: Battle Challenge Lobby
+time: 2026-07-01 08:47:30, ID: 80a31919-e704-4499-98e2-647848aa4312, name: Lagoon Layer: Salvager's Landing
+time: 2026-07-01 08:47:30, ID: 298f1bd0-c1d8-4b37-870e-20ecd7c58f6b, name: Battle Challenge Clear
+time: 2026-07-01 08:47:30, ID: 2f8bc707-dc05-4ffc-b26e-386827d9cb69, name: Lagoon Layer Battle
+time: 2026-07-01 08:47:30, ID: cbfbd12e-d36e-4bca-b78a-37b50f948b5b, name: Kong Bananza
+time: 2026-07-01 08:47:30, ID: 5ed337cd-f75f-48ad-8bf2-2c24e69d6040, name: Battle Challenge
+time: 2026-07-01 08:47:30, ID: 95ef9ee1-ee59-4486-b2b2-652c0a1c6958, name: Kong Bananza Lesson
+time: 2026-07-01 08:47:30, ID: 8452e9d5-38b0-48e3-9232-18c22026745d, name: The Sinkhole Is Open
+time: 2026-07-01 08:47:31, ID: c7976010-77d1-46c3-9f45-5256497ae56f, name: Showdown with Peekabruiser!
+time: 2026-07-01 08:47:31, ID: 6cccb53d-3907-4451-8aa6-689a53291b9b, name: Sinkhole Dive
+time: 2026-07-01 08:47:31, ID: 39e2d3d6-a79c-4d33-8588-ccb5c438aba5, name: Boss Introduction
+time: 2026-07-01 08:47:31, ID: b9fd718e-7eb8-41f9-8975-2e48ac42b1e3, name: Boss Defeated
+time: 2026-07-01 08:47:31, ID: dc127bd9-e993-4f73-b509-461dd5232699, name: Peekabruiser Battle
+time: 2026-07-01 08:47:31, ID: e40589a9-852f-446c-8c21-4490dcf3b0ca, name: Sinkhole
+time: 2026-07-01 08:47:31, ID: 48a2b630-25d5-4c47-a165-3af2e6d41033, name: DK & Pauline Dance
+time: 2026-07-01 08:47:31, ID: 4dd1aaf9-9001-44d0-9b25-be1e19ae9a06, name: Void Kong Confrontation
+time: 2026-07-01 08:47:31, ID: 69219e3d-b3a4-4663-893a-97ab9f0493b4, name: Poppy Kong Gathers Intelligence
+time: 2026-07-01 08:47:31, ID: 7d015279-373e-476d-82c7-bca6542e1876, name: Void Company Revealed
+time: 2026-07-01 08:47:31, ID: b5562d24-14d7-4061-b474-9d025d2311cd, name: You Got Five Banandium Gems
+time: 2026-07-01 08:47:31, ID: 68f84c5c-9ccd-42a0-9061-a4fdbc502d4b, name: Closet
+time: 2026-07-01 08:47:31, ID: 34dadb62-e609-4a14-8b71-7c2b5f3b90c6, name: Canyon Layer
+time: 2026-07-01 08:47:31, ID: 4037d1b3-93ad-4ef6-a110-5589adeb779a, name: You Got a Skill Point!
+time: 2026-07-01 08:47:31, ID: 6b317b3d-c2cc-48fc-af62-8b34fbd67146, name: 2D Challenge Course #1 (DK Island Swing)
+time: 2026-07-01 08:47:31, ID: cfd63ca5-9b38-4747-80e2-3e0bbc50491c, name: Hilltop Layer
+time: 2026-07-01 08:47:31, ID: 4096b130-fd89-4cfb-8803-4fe7b417643c, name: Time for a Break
+time: 2026-07-01 08:47:31, ID: 3fe750fe-a8ba-42fb-bf03-29422aede02a, name: Hilltop Layer: Undertone Canal
+time: 2026-07-01 08:47:31, ID: ef5fe37b-59db-4e19-a53b-5a2450e7838b, name: Hilltop Layer: Fractone Village
+time: 2026-07-01 08:47:31, ID: ad109f26-2eb9-4e81-9575-51fddec0d68c, name: Getaway
+time: 2026-07-01 08:47:32, ID: c8464710-218f-4e28-bf88-0da1d8748404, name: Challenge Course #2
+time: 2026-07-01 08:47:32, ID: fbe93ac9-227d-43a9-8faf-f5d97f6f18fe, name: Canyon Layer: Smokestack Depths
+time: 2026-07-01 08:47:32, ID: 9c8d0bca-6c6f-4917-bb8b-3e4f54cf83c1, name: Grumpy Kong Battle (Now's Your Chance!)
+time: 2026-07-01 08:47:32, ID: 37632107-5207-4432-81a5-db6449eb011c, name: Canyon Layer Battle
+time: 2026-07-01 08:47:32, ID: f2a3a241-1e79-4a42-9ac4-918494d22881, name: Canyon Layer: Banandium Refinery Mine-Cart Ride
+time: 2026-07-01 08:47:32, ID: 593d5a4c-4747-4d34-ab54-7674b4447db2, name: Canyon Layer: Banandium Refinery
+time: 2026-07-01 08:47:32, ID: 62923af4-8f10-47a6-b8c7-91e67784431b, name: Showdown with Stompenclomper!
+time: 2026-07-01 08:47:32, ID: 1ce07a9b-d363-47fc-906b-3617baaa6696, name: Showdown with Grumpy Kong!
+time: 2026-07-01 08:47:32, ID: f7fdc270-c62d-47a4-a895-2d520b5807b3, name: Mad Mixer Battle
+time: 2026-07-01 08:47:32, ID: 18216914-cda8-46bd-886c-64b726715583, name: Grumpy Kong Battle
+time: 2026-07-01 08:47:32, ID: d5c4c9a7-7a09-4709-a998-19d51e69eacf, name: Freezer Layer: Cold-Colt Crest Battle
+time: 2026-07-01 08:47:32, ID: 8998ed1e-04d6-4cd6-a848-9e5bb6d546e3, name: The Divide
+time: 2026-07-01 08:47:32, ID: dc17e053-32a8-438b-9cb0-0b7e430e6146, name: The Divide: Freezer Path
+time: 2026-07-01 08:47:32, ID: 2c2b773e-2949-435c-abbb-abd3195220c0, name: Freezer Layer: Cold-Colt Crest
+time: 2026-07-01 08:47:32, ID: bb9fcce6-10e6-42ef-8952-8a4c1418681c, name: Freezer Layer: Chocolava Lake
+time: 2026-07-01 08:47:32, ID: 1db990a4-261d-4544-b0b9-9f42d99ff30b, name: Stompenclomper Battle
+time: 2026-07-01 08:47:32, ID: d31e812a-8c6b-4031-b283-f5690375eba8, name: Stompenclomper Battle (Now's Your Chance!)
+time: 2026-07-01 08:47:32, ID: 35f8e06f-46ec-4861-9cbd-cd936ecc5359, name: Freezer Layer: Chocolava Lake Battle
+time: 2026-07-01 08:47:32, ID: 8cb3794a-64a0-43e4-a70f-7bf7ef3393cf, name: Bonus Stage
+time: 2026-07-01 08:47:32, ID: 2c31695d-12eb-41b3-bac4-0f128c6409ed, name: Freezer Layer: Canter Creamery
+time: 2026-07-01 08:47:33, ID: 6b01dfc8-acdf-45c0-9d0b-b5dbf27cd6cb, name: Forest Layer: Beaky Thicket
+time: 2026-07-01 08:47:33, ID: d6fcce4a-bf8a-43ba-8591-2e487cb23566, name: Showdown with Inflammonite!
+time: 2026-07-01 08:47:33, ID: 3df1aca7-b81a-4d1b-8e45-aaaa6323ad23, name: Forest Layer: Beaky Thicket Battle
+time: 2026-07-01 08:47:33, ID: 228cdb85-12a4-454f-bb4a-1edb96dfdd15, name: Freezer Layer: Hot-Hoof Heater
+time: 2026-07-01 08:47:33, ID: 5f672f48-89e6-4df4-8ba6-b848b6b202c2, name: Showdown with Poppy Kong!
+time: 2026-07-01 08:47:33, ID: d03bad4c-0021-4541-afb6-6fa5dc158ef3, name: Poppy Kong Battle
+time: 2026-07-01 08:47:33, ID: 0d292556-db7f-4924-8da5-50bfd7894c6e, name: Inflammonite Battle
+time: 2026-07-01 08:47:33, ID: d943eaf7-4c74-46ec-90a4-b0205a9b55fd, name: The Divide: Forest Path
+time: 2026-07-01 08:47:33, ID: 59e78c82-6de0-4779-b0b1-a011f430a5fd, name: Inflammonite Battle (Now's Your Chance!)
+time: 2026-07-01 08:47:33, ID: 71ebe4f5-0179-4fec-a1b2-18cfb6750eb8, name: Zebra Bananza
+time: 2026-07-01 08:47:33, ID: 34ba5482-d211-4752-b2be-a069807e59db, name: Ostrich Bananza
+time: 2026-07-01 08:47:33, ID: 739341d7-077e-4f43-a760-11b60bf4e02a, name: Forest Layer: Eggshell Hotel
+time: 2026-07-01 08:47:33, ID: 1159af73-fa18-465c-85cc-5703a5a05e6e, name: Forest Layer: Bramblenest Bog
+time: 2026-07-01 08:47:33, ID: 9e422fad-8154-41de-9bb9-f901b32ebae7, name: Forest Layer: Mossplume Marsh Battle
+time: 2026-07-01 08:47:33, ID: c66cf270-2a6a-4a4a-a2d5-78e95d1ea02d, name: Forest Layer: Eggshell Hotel Annex
+time: 2026-07-01 08:47:33, ID: 8550dcb7-b6f1-438f-9f90-81d2fc0ff6d0, name: Abracajabya Battle
+time: 2026-07-01 08:47:33, ID: eabdcca1-ea58-4462-99f7-89541a08b2f9, name: Forest Layer: Bellhop Burb
+time: 2026-07-01 08:47:33, ID: e003dfc8-65ea-4b3d-938f-cf74404956e7, name: 2D Challenge Course #2 (Stickerbush Symphony)
+time: 2026-07-01 08:47:34, ID: c215ed3f-faab-49b9-86dc-3b6957d2e95c, name: Showdown with Abracajabya!
+time: 2026-07-01 08:47:34, ID: a34fca1a-2fb4-4ed3-86c1-facaf44aa920, name: Forest Layer: Mossplume Marsh
+time: 2026-07-01 08:47:34, ID: 025b528a-11ec-478e-9993-b1ad76094a9d, name: Forest Layer: Bramblenest Bog (After Boss Defeat)
+time: 2026-07-01 08:47:34, ID: 2ab44c2b-21e5-43a4-b5cb-7a9dae59113d, name: Void Company Withdraws
+time: 2026-07-01 08:47:34, ID: 2b9f862f-14ec-43ff-8189-96c450f86e4c, name: Abracajabya Battle (Now's Your Chance!)
+time: 2026-07-01 08:47:34, ID: 2156a2e9-4c33-4e80-b292-c33f9c3d7108, name: The Junction: Void Chase
+time: 2026-07-01 08:47:34, ID: 056f18ab-9d3b-4899-85f8-06f0591e2fd6, name: Void Company, Once Again
+time: 2026-07-01 08:47:34, ID: a96dd173-c442-4a6a-999c-a69ffda81878, name: Showdown with Void Kong!
+time: 2026-07-01 08:47:34, ID: b6abae44-5829-4cfa-85b4-1b5a757b80ec, name: Resort Layer
+time: 2026-07-01 08:47:34, ID: a2609680-a98d-4bc6-a1e5-77517dcef0b9, name: Void Kong Battle #1 (Now's Your Chance!)
+time: 2026-07-01 08:47:34, ID: f0b60ea7-851c-462d-8c1d-fd61248b98ff, name: The Junction
+time: 2026-07-01 08:47:34, ID: 40b2f16b-7100-4623-98f5-e19db26f8cd5, name: Void Kong Battle #1
+time: 2026-07-01 08:47:34, ID: 657a3940-03a5-48b2-a4be-9f853b46ea10, name: 2D Challenge Course #3 (Mine Cart Madness)
+time: 2026-07-01 08:47:34, ID: c3c3fcf3-42fd-4f33-9878-7a6bdf43c481, name: Elephant Bananza
+time: 2026-07-01 08:47:34, ID: cbd4836c-960c-4146-94b3-755e0464ea83, name: Tempest Layer: Forecaster Refuge
+time: 2026-07-01 08:47:35, ID: d2e995d8-f086-4bb0-a2dc-e0de3c4afd17, name: Showdown with Sinister Blusterwing!
+time: 2026-07-01 08:47:35, ID: b0b9fb86-a1b1-4622-9776-e831e84f791e, name: Tempest Layer: Jumbo Spa
+time: 2026-07-01 08:47:35, ID: 06fb1859-a11f-4feb-8826-e790f1316474, name: Resort Layer: Underground
+time: 2026-07-01 08:47:35, ID: 00da416c-b570-4660-98d3-afefd7422e4e, name: Sinister Blusterwing Battle #1 (Now's Your Chance!)
+time: 2026-07-01 08:47:35, ID: ee04e66d-2738-43e0-ab7c-d75328ca0bb2, name: Tempest Layer: Lava Lake
+time: 2026-07-01 08:47:35, ID: c46695b7-05ed-4d92-b618-ce90296722b0, name: Sinister Blusterwing Battle #1
+time: 2026-07-01 08:47:35, ID: 18984e45-4804-48d6-ac67-c1417aa931eb, name: Tempest Layer: Hot-Shower Cave
+time: 2026-07-01 08:47:35, ID: 835152fd-1e6d-4a7d-a66a-c20b7ae85129, name: Landfill Layer: Forgotten Pit
+time: 2026-07-01 08:47:35, ID: c218427e-3edc-478f-95a9-836099864b4e, name: Rambi Rumble Start
+time: 2026-07-01 08:47:35, ID: ef493287-e5f1-484b-815d-e8e3d3ce443a, name: Tempest Layer: Stormy Weather
+time: 2026-07-01 08:47:35, ID: 6f01f2c5-305e-491d-bbb2-c4659c5f01d9, name: Challenge Course #4
+time: 2026-07-01 08:47:35, ID: ff47ac63-4b37-4397-9aaf-acbf0c75be87, name: Racing Layer: Rambi Rumble
+time: 2026-07-01 08:47:35, ID: 1f30d83c-54b6-4e7f-aab9-7e1a697157a1, name: Challenge Course #3
+time: 2026-07-01 08:47:35, ID: 11e9092f-f2af-4318-957c-fd9c1d5f91a9, name: Sinister Blusterwing Battle #2 (Now's Your Chance!)
+time: 2026-07-01 08:47:35, ID: 1ad66462-d6ec-4720-a2a7-f21b8f58e020, name: Challenge Course Clear
+time: 2026-07-01 08:47:35, ID: 45fbbb5e-1fae-41ee-b888-b1771bb6f596, name: Landfill Layer: Trashtopia
+time: 2026-07-01 08:47:35, ID: 96a7d53d-a4ed-4003-8c6a-6738a8631e98, name: Sinister Blusterwing Battle #2
+time: 2026-07-01 08:47:35, ID: 9f149908-d38c-48ba-86f3-293bf836bd12, name: Rambi Rumble (Win)
+time: 2026-07-01 08:47:36, ID: fd89fdb8-b8d4-4c8e-a8de-a55452be1628, name: Rambi Rumble (Loss)
+time: 2026-07-01 08:47:36, ID: de9af1b8-3ec0-4834-af65-dc64c97ebb72, name: Racing Layer: Rambi Rumble (Final Lap)
+time: 2026-07-01 08:47:36, ID: 7a6e83aa-56e6-4556-b93a-9f76de2a371d, name: Radiance Layer: Darkness
+time: 2026-07-01 08:47:36, ID: ff69e2cc-94da-4dca-963d-04daa838ab25, name: Snake Bananza
+time: 2026-07-01 08:47:36, ID: db9600d2-11ba-4ae3-acbf-da6ffd454224, name: Radiance Layer: Solar Control Tower
+time: 2026-07-01 08:47:36, ID: 210f31f6-aff3-4281-be0b-550c9c11d0ef, name: Radiance Layer: Solar Control Tower Battle
+time: 2026-07-01 08:47:36, ID: 7bb78f63-d1c3-4093-ac58-f7d3ac7d409e, name: Radiance Layer: Elder Court
+time: 2026-07-01 08:47:36, ID: af3de13d-98ff-40b3-b51e-8cf7963ee4d8, name: Radiance Layer: Darkness Battle
+time: 2026-07-01 08:47:36, ID: a43e9b9d-bd89-42bb-b862-5b568048bb70, name: Racing Layer: Rambi Rumble (Results)
+time: 2026-07-01 08:47:36, ID: 35a2f73e-d96f-467c-934e-26de57a6b2ae, name: Radiance Layer: Solar Control Tower Battle (Synthetic Sun Restored)
+time: 2026-07-01 08:47:36, ID: dad19419-7648-4b75-a803-21531ebd1c06, name: Poppy Kong's Pivot
+time: 2026-07-01 08:47:36, ID: ccc3e76e-6f24-4c48-a8f3-f69379517573, name: Radiance Layer: Hiss Hiss Oasis
+time: 2026-07-01 08:47:36, ID: 7afc27d3-4201-4399-b9b2-bc8da232fee0, name: Challenge Course #5
+time: 2026-07-01 08:47:36, ID: 7d236ada-dcb6-4230-827f-6de0c45a3668, name: Radiance Layer: Serpent Sands
+time: 2026-07-01 08:47:36, ID: 7fd894e1-de23-4a7c-9029-5dc95f5956e0, name: Radiance Layer: Window Viper
+time: 2026-07-01 08:47:36, ID: 9594c26a-1f7c-4a16-8cbb-53ae99ddbc88, name: Restoring the Synthetic Sun
+time: 2026-07-01 08:47:36, ID: 32cd57a3-b97d-46fc-9d48-daf0a1b7e6ce, name: Radiance Layer: Solar Control Tower (Synthetic Sun Restored)
+time: 2026-07-01 08:47:36, ID: cf91db7a-e234-40a7-b98c-738409389c3e, name: Radiance Layer: Serpent Sands Battle
+time: 2026-07-01 08:47:36, ID: 1d427070-266d-497e-8774-e870b1a084f4, name: 2D Challenge Course #4 (25m)
+time: 2026-07-01 08:47:37, ID: 43752df4-cc33-411c-9df6-d01c8194562b, name: Pauline Down the Gullet
+time: 2026-07-01 08:47:37, ID: 46967987-989b-4771-b98e-e2d32ef10ca7, name: Groove Layer: Jail Hall
+time: 2026-07-01 08:47:37, ID: 96f86052-5782-4009-bc53-846103b5e06d, name: Groove Layer: Disco Hall (Chill)
+time: 2026-07-01 08:47:37, ID: 7ca275bb-43b8-47fc-ac72-5a63cd5e33ee, name: Radiance Layer: Window Viper Battle
+time: 2026-07-01 08:47:37, ID: 5902f5dd-6e58-4f8d-aa29-c7232055803e, name: Groove Layer: Disco Hall
+time: 2026-07-01 08:47:37, ID: 6befbf7b-69c6-4b5e-8f69-007b893bc108, name: Radiance Layer: Crystal-Cobra Den
+time: 2026-07-01 08:47:37, ID: cdf08d43-98a6-4cf2-bedf-f5c50628eb65, name: Groove Layer: Disco Hall (Beat)
+time: 2026-07-01 08:47:37, ID: 9e53f12d-a8a8-472a-9e21-7fb66a2940cc, name: Radiance Layer: Shade Clouds Battle
+time: 2026-07-01 08:47:37, ID: 88f3a0e0-9ab1-4f28-a9f9-b2806769866a, name: Groove Layer: Disco Hall (Bass)
+time: 2026-07-01 08:47:37, ID: da4a10b6-984f-4de1-9eba-cf37e790c2b1, name: Radiance Layer: Shade Clouds
+time: 2026-07-01 08:47:37, ID: b2c44ad0-296f-40a4-b04f-24486555a4c6, name: Feast Layer: Ferocious Fryhouse
+time: 2026-07-01 08:47:37, ID: 228c9975-1943-4794-80f0-5d62ce7a7158, name: Inside the Great Harmoneel
+time: 2026-07-01 08:47:37, ID: 084a9315-ee5c-45c5-b1e5-4d68c4fb938b, name: Feast Layer: Kingly Swings
+time: 2026-07-01 08:47:37, ID: 00ad6055-926c-4965-85bb-8a998eb83076, name: Feast Layer: Mane Gate Market
+time: 2026-07-01 08:47:37, ID: 08da7d97-e431-4a63-99fb-327ab7c2109a, name: Feast Layer: Admission Gate
+time: 2026-07-01 08:47:37, ID: 5fd1a4f5-ee13-44a2-b047-8a1902e7fba0, name: The Great Harmoneel
+time: 2026-07-01 08:47:37, ID: f7d36924-7a83-4084-924d-cbd8712a5efe, name: Feast Layer: Fried Pride Plaza
+time: 2026-07-01 08:47:37, ID: cb3717c8-ac03-4dac-96eb-830a6680d6ca, name: Rescue Pauline!
+time: 2026-07-01 08:47:37, ID: 74be6252-381b-438a-a72f-0aca67a72d6b, name: Groove Layer: Disco Hall (Groovin')
+time: 2026-07-01 08:47:37, ID: 2ca089af-c6bf-48ee-a781-a2708ea61b69, name: Feast Layer: Grater-Go-Round
+time: 2026-07-01 08:47:37, ID: aa9e7126-f3de-46f1-81e9-47cf760e6605, name: Feast Layer: Cat-Scratch Kitchen
+time: 2026-07-01 08:47:37, ID: 20baa5ff-ab5a-4f2c-960c-5c1f9fc58883, name: Muckety-Muck Battle (Now's Your Chance!)
+time: 2026-07-01 08:47:37, ID: 48745d06-2ef5-4352-8983-81d757ff9d2e, name: Feast Layer: Waste-Oil Container
+time: 2026-07-01 08:47:37, ID: 2b4c89a8-b2e7-42c6-a077-d4b4e7eb335c, name: Sinkhole Dive: Forbidden Layer
+time: 2026-07-01 08:47:37, ID: f27178da-0834-405c-bae8-22f2d7bbdcaa, name: Void Kong's Fury
+time: 2026-07-01 08:47:37, ID: 8ad265d1-e01f-4d93-9b28-7a32af752cee, name: Showdown with Muckety-Muck!
+time: 2026-07-01 08:47:37, ID: 5217a481-7e8a-4d39-a4ab-5edab073b620, name: Muckety-Muck Battle
+time: 2026-07-01 08:47:38, ID: 8715017f-7f65-47cd-9585-df3438b05d46, name: Forbidden Layer: Passage Stone Area
+time: 2026-07-01 08:47:38, ID: c0bc21aa-265f-4aca-a8ea-c6e7d49be2bb, name: Feast Layer: Royal Oil Cruise
+time: 2026-07-01 08:47:38, ID: 82e0062c-3ab9-4608-871b-8cd5c08f3897, name: Forbidden Layer: Do-Not-Enter Depths
+time: 2026-07-01 08:47:38, ID: 0a286cec-8434-4019-98d5-cc26823770ce, name: Forbidden Layer: Go-No-Further Gate
+time: 2026-07-01 08:47:38, ID: fa40318f-92bb-4b98-86ed-0d5c1eee6516, name: Planet Core: Kremling Kourtyard
+time: 2026-07-01 08:47:38, ID: 25d9f160-9ce1-469d-843d-ebc0a90c5cce, name: Void Kong's Obsession
+time: 2026-07-01 08:47:38, ID: 51618110-4692-47f1-a790-fb5354040be4, name: Void Kong Battle #2
+time: 2026-07-01 08:47:38, ID: 5120d4e1-d4d0-4c28-b3ca-8cc5b9043915, name: Enter Void Kong!
+time: 2026-07-01 08:47:38, ID: 8c811a2c-c978-4f24-91b4-a7ec2e85fa7a, name: Planet Core: Kremling Kourtyard Battle
+time: 2026-07-01 08:47:38, ID: 11f9b0af-50b4-44fc-8ba2-99482f0c7df6, name: The Power of Song
+time: 2026-07-01 08:47:38, ID: 8b0a05ff-d9de-4de9-8bdd-b24ec0cc6112, name: DK Is Back!
+time: 2026-07-01 08:47:38, ID: 9fc67ed3-bfdd-4b38-836c-62ebb564664a, name: King K. Rool Is Back!
+time: 2026-07-01 08:47:38, ID: 427c669e-aef2-4ef0-aea5-042fae2eb9af, name: Sinkhole Dive: Planet Core
+time: 2026-07-01 08:47:38, ID: 11d433e5-c6ca-4f35-a7ca-3c0ef5f6d278, name: Planet Core: Mine-Cart Ride
+time: 2026-07-01 08:47:38, ID: 7e62d7e3-825e-49b7-9f8b-e3f52bd6ce55, name: Planet Core: First-Half Battle
+time: 2026-07-01 08:47:38, ID: 7c490279-8878-4100-a5f5-6f39d7c3fa44, name: Planet Core: Second-Half Battle
+time: 2026-07-01 08:47:38, ID: cd4ad93e-a650-443f-a936-4ce7385447e5, name: Planet Core: Fractone Cradle
+time: 2026-07-01 08:47:38, ID: c58866ef-c8d9-430d-8f49-834d5f447207, name: Planet Core: Second Half
+time: 2026-07-01 08:47:38, ID: a89055db-08a8-4684-b31f-6f1fb316fd35, name: Planet Core: First Half
+time: 2026-07-01 08:47:38, ID: 814e3ade-19a7-4910-afd9-41612f5db9aa, name: Planet Core: Heart of Gold
+time: 2026-07-01 08:47:38, ID: ba1a9420-23c4-43c1-878d-2a82af124609, name: Planet Core: Climactic Cliff
+time: 2026-07-01 08:47:38, ID: b6779d0e-3aac-4329-8a57-45e9917484ce, name: Showdown with King K. Rool!
+time: 2026-07-01 08:47:38, ID: 15be8709-4727-47ba-ac42-f39a9758c5e8, name: King K. Rool Battle
+time: 2026-07-01 08:47:39, ID: d0566850-cf7f-48fb-a533-a5ddfbb875f1, name: K. Rool, King of Rot Battle
+time: 2026-07-01 08:47:39, ID: 2462f4d4-4375-45d3-b461-43290b97d05f, name: Enter K. Rool, King of Rot!
+time: 2026-07-01 08:47:39, ID: 0be38857-11f5-45bd-9b9f-7577ba94a72b, name: A Wish for Two
+time: 2026-07-01 08:47:39, ID: 5379938b-6c86-40c9-a60f-5b13ba330c41, name: New Donk City
+time: 2026-07-01 08:47:39, ID: 2f276f8d-cb55-4a23-a784-402c90ed5d42, name: Feasting on New Donk City
+time: 2026-07-01 08:47:39, ID: b317f75f-bd8e-4fea-9437-fdf45602222e, name: Breaking Through (Heart of Gold)
+time: 2026-07-01 08:47:39, ID: f29f3366-cccf-427b-8410-5f76fa205f99, name: Showdown with K. Rool, King of Rot!
+time: 2026-07-01 08:47:39, ID: 6cf43d92-2ee9-4800-b837-c099ea8c6d1b, name: See Ya Around, DK
+time: 2026-07-01 08:47:39, ID: 8b3d4dd1-b20d-46dc-b456-ff492a44644f, name: Donkey K.ong Bananza
+time: 2026-07-01 08:47:39, ID: fb0c6b7d-2c86-4854-a763-93493791255d, name: Banandium Root Tower
+time: 2026-07-01 08:47:39, ID: c3ad3e28-dfe3-4c6c-92b7-7c59910c1c6d, name: Pauline's Back!
+time: 2026-07-01 08:47:39, ID: bee7b9f9-38c2-4709-b0c9-f95337823572, name: Elephant Bananza (Instrumental)
+time: 2026-07-01 08:47:39, ID: fa0ee0d6-a4bb-48d6-8846-a4729fcacbee, name: Elephant Elder's Rehearsal Hall Clear
+time: 2026-07-01 08:47:39, ID: 8166696d-26a2-4c76-a429-9933ed919a86, name: Kong Bananza (Instrumental)
+time: 2026-07-01 08:47:39, ID: b28a381a-15d3-4b75-a3c1-26ce6712b595, name: Reunited!
+time: 2026-07-01 08:47:39, ID: 7fc04736-388b-4643-9fbd-98c34ea8e03d, name: Zebra Elder's Rehearsal Hall Clear
+time: 2026-07-01 08:47:39, ID: b5afff2a-3ecb-4b86-9268-c0400b6c767c, name: Ostrich Bananza (Instrumental)
+time: 2026-07-01 08:47:39, ID: 296c7df2-7e19-4958-b7f8-3130f056bdd7, name: Zebra Bananza (Instrumental)
+time: 2026-07-01 08:47:39, ID: 45c79306-c80a-47cb-b213-1b8adefdd19a, name: Kong Elder's Rehearsal Hall Clear
+time: 2026-07-01 08:47:39, ID: ea26d619-71c8-4657-897a-9cc94a4d70c6, name: Breaking Through (Heart of Gold) (Instrumental)
+time: 2026-07-01 08:47:40, ID: fd0336c2-b3e3-4d8d-8e33-4c140b42103a, name: Emerald Rush (Hurry Up!)
+time: 2026-07-01 08:47:40, ID: 5de4705e-44e3-44d5-8791-345b284c1d40, name: Emerald Rush #1
+time: 2026-07-01 08:47:40, ID: 11834a7a-4ef0-4c25-ba37-747ece44e206, name: Emerald Rush #2
+time: 2026-07-01 08:47:40, ID: 0ade7aa8-a985-43d3-9d71-74e3444667dd, name: Emerald Rush Round Clear
+time: 2026-07-01 08:47:40, ID: fa2f87bc-e69a-4dad-ba62-b9db500db156, name: Emerald Rush #4
+time: 2026-07-01 08:47:40, ID: 66308e55-df94-41a0-92e8-a74e615a84d3, name: Emerald Rush #3
+time: 2026-07-01 08:47:40, ID: 80e2412e-1595-4bb2-8426-97f7522b7240, name: DK Island (Daytime)
+time: 2026-07-01 08:47:40, ID: c936413a-f833-4542-8e89-ec7e9b899600, name: Reunited with Void Kong
+time: 2026-07-01 08:47:40, ID: 389675ef-46a4-473e-928f-dfac8ee5dda7, name: DK Artist
+time: 2026-07-01 08:47:40, ID: 3e22279b-f8ca-4f16-933e-962e14cc09f8, name: Snake Bananza (Instrumental)
+time: 2026-07-01 08:47:40, ID: 979aba7d-a732-4c34-b6f7-d78fd31e6397, name: Emerald Rush (Super Mario Version)
+time: 2026-07-01 08:47:40, ID: f4c70ff7-458f-4240-91a7-a71acf7627d7, name: Emerald Rush (Hurry Up!) (Super Mario Version)
+time: 2026-07-01 08:47:40, ID: 01804da5-ce51-4488-b8df-65e0d17e61b1, name: DK Island (Sunset)
+time: 2026-07-01 08:47:40, ID: 87738803-1edd-4da5-9703-fd842b12db6e, name: Emerald Rush Results
+time: 2026-07-01 08:47:40, ID: 1b0f4835-1625-4d6d-a459-7d1ac8951ec9, name: Nintendo Direct: Nintendo Switch 2 Trailer BGM
+time: 2026-07-01 08:47:40, ID: faed064c-ff91-40a5-a126-613e7ba770c1, name: Void Kong Defeated (DK Island)
+time: 2026-07-01 08:47:40, ID: bf01261e-af47-49ef-b2b3-c536725939eb, name: Emerald Rush Results (Super Mario Version)
+time: 2026-07-01 08:47:40, ID: d185e334-93f8-4d91-8c07-5053d5ee9376, name: Emerald Rush Staff Credits (Score Display)
+time: 2026-07-01 08:47:41, ID: 00ac5a82-5a08-41e2-8e91-349f63b7b1a3, name: Ground BGM (Super Mario Land)
+time: 2026-07-01 08:47:41, ID: c444897a-6545-4173-a409-b80d1d56d6fb, name: Underground BGM (Super Mario Land)
+time: 2026-07-01 08:47:42, ID: 5e990fde-c13e-4019-9ae1-4dac89b7817f, name: Ground BGM (Rock 'n' Roll Ver. 1) (Super Mario World)
+time: 2026-07-01 08:47:42, ID: f68911f1-a787-4348-9bae-14773b6561db, name: Bonus Game BGM (Super Mario World)
+time: 2026-07-01 08:47:42, ID: 39092d74-8ccc-4580-83b2-11a6318f084e, name: Ground BGM (Ska Ver.) (Super Mario World)
+time: 2026-07-01 08:47:42, ID: 4b7ce33c-63f8-4e89-a2e7-cb0e9b0dcd40, name: Underwater BGM (Super Mario World)
+time: 2026-07-01 08:47:42, ID: edd84e39-537c-4cfd-a415-432e63836289, name: Title BGM (Super Mario World)
+time: 2026-07-01 08:47:42, ID: 617c3844-2254-4657-ae8e-8117fe741164, name: Castle BGM (Super Mario World)
+time: 2026-07-01 08:47:42, ID: 54728c62-7a84-4aba-9678-fbf67b39b9c7, name: Ground BGM (Rock 'n' Roll Ver. 2) (Super Mario World)
+time: 2026-07-01 08:47:42, ID: b12a3d81-f461-4797-986a-52506ebdf9b0, name: Overworld Medley (Super Mario World)
+time: 2026-07-01 08:47:42, ID: 0646e127-c252-43ba-abf2-af8b477b4cc8, name: Ground BGM (Country Ver.) (Super Mario World)
+time: 2026-07-01 08:47:42, ID: b77b1418-aecb-4de8-85e9-b8bb1aafc37c, name: Underground BGM (Super Mario World)
+time: 2026-07-01 08:47:42, ID: 60d4d7a4-f1f6-491e-923a-961ec0db16c9, name: Koopalings BGM (Super Mario World)
+time: 2026-07-01 08:47:42, ID: f1b45c82-3c81-4944-bab7-ca00029eb7a2, name: Main Theme (Super Mario Land 2 - 6 Golden Coins)
+time: 2026-07-01 08:47:42, Failed to get data for track ID: eb66e223-da8a-42ad-b93a-e18eb4431c7f
+time: 2026-07-01 08:47:42, ID: 7c462053-ef11-44c4-9ba1-10b1fb343a2c, name: Main Theme (Wario Land: Super Mario Land 3)
+time: 2026-07-01 08:47:42, ID: 89da0316-aaf8-4a7b-9b09-79e0049ed3af, name: Painting Mode 1 (Mario Paint)
+time: 2026-07-01 08:47:42, Failed to get data for track ID: 1a36a6e0-0f23-43a3-b910-37cd1bc77d70
+time: 2026-07-01 08:47:42, Failed to get data for track ID: 44da5f86-2f7f-4362-b5e6-d6b447e66640
+time: 2026-07-01 08:47:42, Failed to get data for track ID: 989c3ffe-1434-4535-a4de-75d3b7dc965b
+time: 2026-07-01 08:47:42, ID: 390ee27b-1737-4e82-a538-7b47b5e37150, name: Flyswatter Level 1 (Mario Paint)
+
+time: 2026-07-01 08:47:42, ID: 27d339e2-5ac6-4bdd-9e7f-6bddb63131cb, name: Ending (Super Mario World)
+time: 2026-07-01 08:47:43, Failed to get data for track ID: bdfa1a28-e7b9-4793-b3fe-a5f33c5c1e7c
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 853974e4-d3fb-4943-9238-b5aa26b9674a
+time: 2026-07-01 08:47:43, Failed to get data for track ID: ba58ebfa-6108-4121-b6c9-8b081086a9d0
+time: 2026-07-01 08:47:43, Failed to get data for track ID: f1882c72-eac2-4989-b335-85e989991d57
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 274d48a7-7218-436e-938f-70f928222404
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 4dfa2bca-c143-490d-8b14-ea189f217a63
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 4e8cd531-4918-45c2-a323-c44b42556848
+time: 2026-07-01 08:47:43, Failed to get data for track ID: e66fd0b0-71a6-4528-be10-bd2dce9c8f76
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 3553fc59-cd45-46a5-98a6-e9e6309ee944
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 04586594-a7a4-461a-ac72-0c93a5344e56
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 75ba4ca2-4eff-4ca3-a466-be9d4d783bfd
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 4a5da885-7984-425b-a583-c2d5b26e3707
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 91e455c7-72f3-47cf-a39f-d824b06066ed
+time: 2026-07-01 08:47:43, Failed to get data for track ID: f26d39a6-93de-41bf-ab7c-b33d498f1c62
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 1f840f02-2e84-48b4-83ed-5aeb1f0accf1
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 67818d21-417a-4699-9782-c07497fa9077
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 01a5c564-de29-4205-adea-927ee11d550a
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 2b23dadd-97ba-4e9e-9a0c-a44547252faf
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 8ca8d1cd-4a65-4c76-ad25-445e5038991b
+time: 2026-07-01 08:47:43, Failed to get data for track ID: 99cd82aa-5797-4f02-bc68-72dc2879f233
+time: 2026-07-01 08:47:44, ID: f18fd397-4375-40e9-87f9-5dd21c5231dc, name: Desert BGM (New Super Mario Bros. Wii)
+time: 2026-07-01 08:47:44, Failed to get data for track ID: e213c260-58fe-4c2d-9f3a-c3e052b2d191
+time: 2026-07-01 08:47:44, ID: 30d141f4-f853-416e-8bad-a7aebbaba386, name: Castle Boss (New Super Mario Bros. Wii)
+time: 2026-07-01 08:47:44, ID: 4f89bfdd-0dc5-4125-b5e2-261b9214219f, name: Castle BGM (New Super Mario Bros. Wii)
+time: 2026-07-01 08:47:44, ID: d5a86f48-c5e9-4c65-94f7-f125cc9916f9, name: Castle BGM (New Super Mario Bros.)
+time: 2026-07-01 08:47:44, Failed to get data for track ID: 92a01020-b8f2-4c96-9d2a-b3ebcbdd4fad
+time: 2026-07-01 08:47:44, Failed to get data for track ID: 1d4e164e-29fd-49a1-87fa-f217b60dda01
+time: 2026-07-01 08:47:44, ID: b9c1ceee-afde-4666-baee-510f769e0a1d, name: Ground BGM (New Super Mario Bros.)
+time: 2026-07-01 08:47:44, ID: 44b392bf-db20-4364-afc8-50757f0e547d, name: Beach Theme (New Super Mario Bros. Wii)
+time: 2026-07-01 08:47:44, ID: 84a4c176-c8bf-49ca-a6d3-fd3f79812ee0, name: Underwater BGM (New Super Mario Bros. Wii)
+time: 2026-07-01 08:47:44, ID: a6308207-3f46-4665-b693-4652ff67b27f, name: Credits Theme 1 (New Super Mario Bros. Wii)
+time: 2026-07-01 08:47:44, ID: 57c774b6-9a67-4db0-a03f-c37b4a36a695, name: Title Screen (Super Mario Maker)
+time: 2026-07-01 08:47:44, ID: 21aa2f0a-ef4c-470d-80bd-1b02bb382b3e, name: Volcano BGM (New Super Mario Bros. Wii)
+time: 2026-07-01 08:47:44, ID: 48449f05-e09a-44ff-a3de-e80a39e352b2, name: Ground Theme (New Super Mario Bros. U)
+time: 2026-07-01 08:47:45, Failed to get data for track ID: ab853afd-ba3c-43a3-849e-b4b29875413b
+time: 2026-07-01 08:47:45, Failed to get data for track ID: f226ff32-3064-4c16-a0d6-bdd5a5ba0fb3
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 2e827320-c06f-4056-982b-8c6279ce91fc
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 411c2576-bead-4ceb-901a-9beb570ba298
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 71a80e55-f1a8-42f7-a6ca-6cc0a3036e60
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 50e75610-58d1-4583-9f35-9e9fab644742
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 71b90d9a-5c34-400f-abc3-956f841a18f8
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 2e51e5b2-f520-49eb-aa12-c6f2a1cf11d7
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 7bf245e2-f1bd-4c73-a221-4047b8c6a4d2
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 70dd624f-a581-4680-af58-2b27b9f5a3fe
+time: 2026-07-01 08:47:45, Failed to get data for track ID: e8974f25-02e1-460c-9f23-8a12c6cce06f
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 0ef94880-8da1-4926-8b78-acba29101614
+time: 2026-07-01 08:47:45, Failed to get data for track ID: c5f3434c-083a-4aac-b52f-9090bbe91e47
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 55c72b8c-02bc-4d57-8005-d178c1fd91d8
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 62c8d2f1-67d3-4ef6-b4e7-6af22eea2097
+time: 2026-07-01 08:47:45, Failed to get data for track ID: 2299aaa5-8862-41b1-bf8b-03b57dc3c48b
+time: 2026-07-01 08:47:46, Failed to get data for track ID: f6f10ca0-f948-4041-993f-17bccf4491df
+time: 2026-07-01 08:47:46, Failed to get data for track ID: a584b88c-e00d-45c2-9abe-1bbd7e3843bc
+time: 2026-07-01 08:47:46, Failed to get data for track ID: 3995fe1c-f3cd-45aa-a47e-30a7e4e6094d
+time: 2026-07-01 08:47:46, Failed to get data for track ID: 34139db0-c550-4cdf-a435-9ba67081d222
+time: 2026-07-01 08:47:46, Failed to get data for track ID: a63c23ad-1962-4dea-b586-90026e881bbc
+time: 2026-07-01 08:47:46, Failed to get data for track ID: 02e34d7b-5ce6-4ae5-9b88-be32a2cf4b7f
+time: 2026-07-01 08:47:46, Failed to get data for track ID: 48c50c18-f0aa-4518-9461-a5700a1e6d22
+time: 2026-07-01 08:47:46, Failed to get data for track ID: f1c9b148-712e-4aba-bf10-05386390cbb3
+time: 2026-07-01 08:47:46, Failed to get data for track ID: 6940ba8e-83cb-4495-846e-8e40f091748d
+time: 2026-07-01 08:47:46, Failed to get data for track ID: b53bfc56-bc05-4e2c-902f-d4a272997366
+time: 2026-07-01 08:47:46, Failed to get data for track ID: ead36d06-72e8-46b0-aa91-5112ae856452
+time: 2026-07-01 08:47:46, Failed to get data for track ID: 4485aae3-97e3-45b2-9279-14292dfb4b81
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 92b68a3f-af37-49a3-a8f3-d4c8db04a8d7
+time: 2026-07-01 08:47:47, Failed to get data for track ID: fc0591e1-1325-4c31-9c6e-0ff63e6d320a
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 50c3cf6c-072f-4d02-ba09-e8acf196952f
+time: 2026-07-01 08:47:47, Failed to get data for track ID: c8dbf1e1-913b-41cd-a75e-fcc64890b870
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 2ee4cd35-582d-4632-86cd-50c13a47c873
+time: 2026-07-01 08:47:47, Failed to get data for track ID: a7f74b2c-5819-4e12-a200-8ea88b4c8620
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 834a2e0d-c147-4226-a5fd-27ac181f4da6
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 5e8e0b89-764e-4b43-9584-15b780e72d29
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 162d87e1-583c-43d7-aecc-7ec3109eef99
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 0ffc2121-02c5-4ccb-96a2-04f9b1319f40
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 34256a01-6494-42a7-9fe4-fb7a9154e119
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 5a480e08-6f3c-4420-8620-9bbdc2e38598
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 5dcdee49-b857-49b3-8fa5-de8e6a536db0
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 5051f070-2ade-4b68-ad16-b26c6f7b47bd
+time: 2026-07-01 08:47:47, Failed to get data for track ID: 6c3f8443-b36c-46cc-840a-88a539a5a548
+time: 2026-07-01 08:47:47, Failed to get data for track ID: a0304254-5781-4760-b651-8ea4d53c2d45
+time: 2026-07-01 08:47:48, Failed to get data for track ID: 9eac3ccc-2340-4ff8-ac7f-273be7533ce5
+time: 2026-07-01 08:47:48, Failed to get data for track ID: 234e884a-8ca9-49f0-b9a8-0c96c6485816
+time: 2026-07-01 08:47:48, Failed to get data for track ID: 4ee29cc8-d263-4c82-a54a-fc976e6e49c2
+time: 2026-07-01 08:47:48, Failed to get data for track ID: d37b3da9-6a2a-4d29-a5b7-7a0f7effeaf7
+time: 2026-07-01 08:47:48, Failed to get data for track ID: 6001e5af-c764-4952-84f2-1090d52a45c3
+time: 2026-07-01 08:47:48, Failed to get data for track ID: 0bd0c0ca-4a90-4feb-813e-bc4a444585a0
+time: 2026-07-01 08:47:48, Failed to get data for track ID: a12000cd-db6d-452e-8748-0c880d738218
+time: 2026-07-01 08:47:48, Failed to get data for track ID: 6558aa36-d204-4454-847a-47b9cc359219
+time: 2026-07-01 08:47:48, Failed to get data for track ID: d5fb834a-1d2b-4a23-8e62-5a829ebb345c
+time: 2026-07-01 08:47:48, Failed to get data for track ID: 638671e5-a141-4131-a654-11e362968a43
+time: 2026-07-01 08:47:48, Failed to get data for track ID: e29616fd-0adb-48de-b75e-2149d06c4f9d
+time: 2026-07-01 08:47:48, Failed to get data for track ID: 35f6d339-5fc4-429c-bcd4-e93572172e5f
+time: 2026-07-01 08:47:48, Failed to get data for track ID: deddfb54-93e9-4061-b6a3-1173b4ad20ab
+time: 2026-07-01 08:47:48, Failed to get data for track ID: 8638f603-3637-45b5-b3fc-998e815b5bfc
+time: 2026-07-01 08:47:48, Failed to get data for track ID: e5ac1a5e-b120-4217-a3b9-c258f575d68e
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 04e1a68b-a83b-43d6-a99c-f37b220ba362
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 9858779c-c6f4-462a-a808-9f3162a17351
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 3ad68ff5-976e-4d91-9639-2521e1bad803
+time: 2026-07-01 08:47:49, Failed to get data for track ID: c0d928a3-1c33-4e82-a3a8-ae6b50de709f
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 5ee1cced-9c67-4dce-aea9-7fe4a1dda55b
+time: 2026-07-01 08:47:49, Failed to get data for track ID: cb7bad6e-b9bc-4133-b202-1b4bcfe84144
+time: 2026-07-01 08:47:49, Failed to get data for track ID: b62bebc7-2290-4187-a631-925b6162c4d4
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 3e54ff65-8aad-4353-b69b-36e3a73b157e
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 3b23ba01-dbdd-4c7b-81c4-b617ab7f11c9
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 5ff5e9fb-3b9b-418a-a605-2af2acd6f316
+time: 2026-07-01 08:47:49, Failed to get data for track ID: c616e5ce-aa1a-4caa-a850-6b40a992e31c
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 41a386a9-e95f-4f53-ba9a-27bcdc881baa
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 2da744a9-4e06-4bf1-856c-3fa7a244e191
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 49750f80-f648-4e23-936d-7ad2eb56dd0b
+time: 2026-07-01 08:47:49, Failed to get data for track ID: c7e7d7d9-604f-4e4c-975c-6582d3fba19e
+time: 2026-07-01 08:47:49, Failed to get data for track ID: eb1e86f8-bd89-4a34-8394-709cf66aa4ed
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 6bc6e761-2b70-471b-b8cb-7044b14047dc
+time: 2026-07-01 08:47:49, Failed to get data for track ID: ff7c90cd-9869-4285-ad85-9b1be597813c
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 7274f51d-24da-4b06-b9b5-247092075dc5
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 3d8f925b-7bf3-46f7-acdf-6ac11d3d3145
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 5f35deb0-13ae-4b3a-81aa-9604a7dce3f8
+time: 2026-07-01 08:47:49, Failed to get data for track ID: 123bc61a-8225-470b-97b6-623706213f5f
+time: 2026-07-01 08:47:50, Failed to get data for track ID: 7297a7fe-2bde-422f-a10a-409147e6c3ab
+time: 2026-07-01 08:47:50, Failed to get data for track ID: 812d3b0d-8980-4ebd-9c84-04b5fdd49e93
+time: 2026-07-01 08:47:50, Failed to get data for track ID: e20365b4-e9a5-45f8-be17-4426b30e50d1
+time: 2026-07-01 08:47:50, Failed to get data for track ID: 1c9f5bee-f625-4ae1-9992-074a58cf2de6
+time: 2026-07-01 08:47:50, Failed to get data for track ID: 904a58c2-82ab-4ed6-b2cb-a95ee9da5e51
+time: 2026-07-01 08:47:50, ID: 116a3fe9-4f5e-41b6-80ce-6c1deb53065d, name: 马力欧卡丁车8 标题
+time: 2026-07-01 08:47:51, Failed to get data for track ID: fb66bb70-dc81-41bc-bd57-6ee20489e1c5
+time: 2026-07-01 08:47:51, Failed to get data for track ID: 79f5a85c-a826-4823-99d5-792085d26a54
+time: 2026-07-01 08:47:51, Failed to get data for track ID: ac6786fb-b9e6-4c55-8faf-ac2cfc97a5bc
+time: 2026-07-01 08:47:51, Failed to get data for track ID: c4440945-b2d1-48b5-a1e2-b4d6aea86231
+time: 2026-07-01 08:47:51, Failed to get data for track ID: 9e871fd5-1f3c-47da-8ca7-d3eb7d7d92d9
+time: 2026-07-01 08:47:51, Failed to get data for track ID: d603142e-b269-45e2-bda8-81de341e3637
+time: 2026-07-01 08:47:51, Failed to get data for track ID: 5ec62d45-01ed-4700-8048-b18bfa9ff40a
+time: 2026-07-01 08:47:51, Failed to get data for track ID: f09d6d32-13f5-4954-ade7-1edb9cd87bdb
+time: 2026-07-01 08:47:51, Failed to get data for track ID: 1cf6eea8-7ab1-46b1-918e-a2188a74fd76
+time: 2026-07-01 08:47:51, Failed to get data for track ID: e14a333a-d85d-4ec0-9aed-35757fe17118
+time: 2026-07-01 08:47:51, Failed to get data for track ID: de868baa-07ab-4a93-a2aa-a020c6203138
+time: 2026-07-01 08:47:51, Failed to get data for track ID: da8887bb-7fb6-491c-99bf-bc62efe0a4df
+time: 2026-07-01 08:47:51, Failed to get data for track ID: 7491fc4b-27d9-43ab-a651-d7bed7179c40
+time: 2026-07-01 08:47:51, Failed to get data for track ID: 87a671a6-ccee-4fce-9d99-c2fe52b506e2
+time: 2026-07-01 08:47:51, Failed to get data for track ID: 0c1a8896-ac35-40fc-a3e8-2d5152588907
+time: 2026-07-01 08:47:51, Failed to get data for track ID: 22864f3d-191d-4149-aae9-707396788f63
+time: 2026-07-01 08:47:52, Failed to get data for track ID: ef0404dc-1224-45c1-acc7-194bcf8d2eb5
+time: 2026-07-01 08:47:52, Failed to get data for track ID: b81dcddf-2ae6-4a4c-a426-ef551f953ec1
+time: 2026-07-01 08:47:52, Failed to get data for track ID: 68f424dc-b6a0-4dd3-8754-410024d1496e
+time: 2026-07-01 08:47:52, Failed to get data for track ID: 2d445ad6-716b-4f37-bbb0-396aa3d02547
+time: 2026-07-01 08:47:52, Failed to get data for track ID: 3836f2ef-3c82-4a1a-a620-17cd5623934d
+time: 2026-07-01 08:47:52, Failed to get data for track ID: fa067e66-075e-4178-ad8c-afa5eb3bdc52
+time: 2026-07-01 08:47:52, ID: 7e4a494f-18f9-41d8-b31a-6392e83b1151, name: Opening Theme
+time: 2026-07-01 08:47:52, ID: fe5ec978-cebb-475f-8728-f1ee6dbf7e1b, name: Mute City
+time: 2026-07-01 08:47:52, ID: 0b692a05-321b-44e8-9e25-b744d02e51ed, name: Sand Ocean
+time: 2026-07-01 08:47:52, ID: 84429df5-bf47-4457-81f8-e36027b23bb5, name: Death Wind
+time: 2026-07-01 08:47:52, ID: b26d83fb-cdfb-4d5b-868c-58c8673b206a, name: Big Blue
+time: 2026-07-01 08:47:52, ID: 5128dfe9-8ee2-48ed-a379-e5985c41264b, name: Results
+time: 2026-07-01 08:47:52, ID: 21f7ce39-8383-42d1-9673-ac3364476d2e, name: Port Town
+time: 2026-07-01 08:47:52, ID: 2444cf3a-c796-4eb8-b1cf-ae7bcea80674, name: Finish - Top 3
+time: 2026-07-01 08:47:52, ID: c3533153-5f94-45b0-be1c-885f9be05ceb, name: Fire Field
+time: 2026-07-01 08:47:52, ID: 2e6bcdf2-1c5d-45ac-b654-48d3537cbdeb, name: Red Canyon
+time: 2026-07-01 08:47:52, ID: 6d767847-6b0e-4edf-8214-7968f15a9483, name: You Lost
+time: 2026-07-01 08:47:52, ID: 2a90e600-6e28-4f9c-8a25-84274142c693, name: Finish
+time: 2026-07-01 08:47:53, ID: 2b26653e-a768-4953-9c6b-4df5911fa70b, name: Silence
+time: 2026-07-01 08:47:53, ID: fe10d8ac-9c2e-4386-ab83-637a263f5d3b, name: White Land II
+time: 2026-07-01 08:47:53, ID: d128e85c-6c7a-4845-acdd-57eaa724f23a, name: White Land I
+time: 2026-07-01 08:47:53, ID: 2f193411-8c5a-4c9d-8ed2-cb47bfaefcd8, name: Ending Theme
+time: 2026-07-01 08:47:53, ID: 86a476cf-1f67-40f4-8da0-dd965fd466b1, name: Top 3 - Grand Prix
+time: 2026-07-01 08:47:53, ID: ec40eb49-895e-44f0-bacc-8ce1b1aa4cef, name: Team Battle Complete
+time: 2026-07-01 08:47:53, ID: 2bee5c8e-fee8-4c6c-aba8-26a3b56fa0f7, name: Select Time
+time: 2026-07-01 08:47:53, ID: 21762496-09a9-45d1-a5e9-8b4493372577, name: Opening Theme - Grand Prix
+time: 2026-07-01 08:47:53, ID: 06dc7238-64d8-431c-9b39-f35997cdf404, name: Lucky Bumper Ending
+time: 2026-07-01 08:47:53, ID: afa371ed-0a26-42a5-b5af-73bf70c3d19f, name: End of Final Race - Grand Prix
+time: 2026-07-01 08:47:53, ID: c38411b0-6c0c-4655-b097-efb4b20bb959, name: ??? - Mute City Remix
+time: 2026-07-01 08:47:53, ID: fb14d647-2323-4814-a19c-041602b20758, name: Elite Rank Promotion
+time: 2026-07-01 08:47:53, ID: d7bd7c1f-0603-4017-9a7d-3b9b351e4229, name: Lucky Bumper Theme
+time: 2026-07-01 08:47:53, ID: e2f6764a-c3bf-436d-a222-61cb614274df, name: ??? - Sand Ocean Remix
+time: 2026-07-01 08:47:53, ID: de37a95f-e1b0-457d-b174-64feb1fe3a9c, name: Results - Frozen World Tour
+time: 2026-07-01 08:47:53, ID: 36e17ca3-d581-4457-8707-29b2ad8ccb07, name: ??? - Big Blue Remix
+time: 2026-07-01 08:47:53, ID: ce55ac51-9798-4aee-a7be-66df242ceb75, name: ??? - Silence Remix
+time: 2026-07-01 08:47:53, ID: 545c07c3-49ce-40a1-ab23-6af2ba7b3786, name: Opening Theme - Submenu
+time: 2026-07-01 08:47:53, ID: 68ee1465-8489-42d9-b21d-0433243af9f1, name: ??? - Death Wind Remix
+time: 2026-07-01 08:47:53, ID: a3cbccaf-6a91-4567-b8ca-f8db9cc4ca42, name: Credits
+time: 2026-07-01 08:47:53, ID: d059679c-f86f-4023-abfb-b3d5e24f8c6c, name: Opening Theme - Frozen World Tour
+time: 2026-07-01 08:47:53, ID: 0fc8feae-13a2-4685-9d72-7e49fa3095f0, name: End of Final Race - Frozen World Tour 
+time: 2026-07-01 08:47:53, ID: fb39cb35-4d98-45ec-88f6-3df0521bab15, name: Top 3 - Frozen World Tour
+time: 2026-07-01 08:47:54, ID: a9e90c5b-88cd-4152-aebc-eb6a18d7ab88, name: Top 3 - Meteor Grand Prix
+time: 2026-07-01 08:47:54, ID: a8e99a2b-689a-4186-8f5c-a818fa034021, name: Top 3 - Mini World Tour
+time: 2026-07-01 08:47:54, ID: a2b04697-0676-4bd2-a28c-fd28235a5693, name: Results - Meteor Grand Prix
+time: 2026-07-01 08:47:54, ID: 293e4ef1-6779-440f-906d-81c6573f2b88, name: Results - Festival World Tour
+time: 2026-07-01 08:47:54, ID: b5587c9f-b7c4-44ce-9842-49f4b1852b1b, name: Opening Theme - Mini World Tour
+time: 2026-07-01 08:47:54, ID: 456bbc27-a033-430a-be86-70272066fa6a, name: Opening Theme - Meteor Grand Prix
+time: 2026-07-01 08:47:54, ID: 7704ec7d-f2e3-4372-ae87-b05d8e598ac0, name: Top 3 - Festival World Tour
+time: 2026-07-01 08:47:54, ID: 18461828-24f8-450a-a862-6848be3d33e4, name: Opening Theme - Festival World Tour
+time: 2026-07-01 08:47:54, ID: 55443b73-1139-4da0-aba8-909c1912ef86, name: Results - Mini World Tour
+time: 2026-07-01 08:47:55, Failed to get data for track ID: 781ac0d7-d0eb-494a-bc57-3fd57c42a3a5
+time: 2026-07-01 08:47:55, Failed to get data for track ID: 4ba56ff9-a7d3-454a-99cd-457fe3d91df1
+time: 2026-07-01 08:47:55, Failed to get data for track ID: 64c8c68c-8bbf-4641-9cb1-df47fab89e4e
+time: 2026-07-01 08:47:55, Failed to get data for track ID: d268cfb3-4015-4004-ba44-b7a3003fd9f5
+time: 2026-07-01 08:47:55, Failed to get data for track ID: df1aaf54-ad46-4b18-a2e5-a50125820475
+time: 2026-07-01 08:47:55, Failed to get data for track ID: c265bc12-59a3-47a2-9638-97a950a5ebba
+time: 2026-07-01 08:47:55, Failed to get data for track ID: bdf174da-ffdf-46f2-a592-914db3c4bf0b
+time: 2026-07-01 08:47:55, Failed to get data for track ID: e1bc224a-e37b-4d94-8673-ec1d9eccef26
+time: 2026-07-01 08:47:55, Failed to get data for track ID: 74419568-df93-475b-a944-c509b6f8dd80
+time: 2026-07-01 08:47:55, Failed to get data for track ID: a08b45f3-529e-4d85-a312-e75b6c8d3ca6
+time: 2026-07-01 08:47:55, Failed to get data for track ID: 5b86ab75-a987-49db-adee-4b30133e4a60
+time: 2026-07-01 08:47:55, Failed to get data for track ID: ecf6b860-878b-4f05-b894-d07ccc77d015
+time: 2026-07-01 08:47:55, Failed to get data for track ID: 5a4e9e73-50a6-4ab0-bf53-563f5f5207f0
+time: 2026-07-01 08:47:55, Failed to get data for track ID: 2e1c757a-d9c2-4d8f-8ce4-a0249f79ca96
+time: 2026-07-01 08:47:55, Failed to get data for track ID: 0713a1ad-8612-4240-8f3c-be6d65807713
+time: 2026-07-01 08:47:55, Failed to get data for track ID: b81764ae-ee86-4ff3-bcb2-1cda8c9f8bce
+time: 2026-07-01 08:47:56, Failed to get data for track ID: bb7af12c-5de1-43ac-a48c-55de3dd875c3
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 3bb95928-5dc4-47a2-ac54-9562cfb7530f
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 2088cf2f-7378-4581-83c0-04486b01efc8
+time: 2026-07-01 08:47:56, Failed to get data for track ID: fc3d3ae6-46f0-4365-b929-833e59c0a521
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 37d52db8-ea5e-4aa9-85f1-1532678134cd
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 71f0b892-5f57-4670-80a1-be5e89bef3ec
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 92020564-22a1-45da-8f67-3891d5aff8d2
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 7c3f06b3-aab3-4c06-868f-baff8cbbe9cf
+time: 2026-07-01 08:47:56, Failed to get data for track ID: bc13be0c-60ff-4b5e-ba6f-fb5099414580
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 433bdfe7-83d1-4377-9d42-f8ab1e14362d
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 54e47e5f-b7ed-4c4e-9026-6f8bea9b85b9
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 22bfccca-3f0b-4430-837a-59ce0987d64b
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 46ce94ce-0892-47db-9e1e-b872db9734ca
+time: 2026-07-01 08:47:56, Failed to get data for track ID: bcb11aca-fc0f-4912-a204-79d5f3909d44
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 8b6662dc-a607-4a60-a986-2e275f16e129
+time: 2026-07-01 08:47:56, Failed to get data for track ID: 8bebc88e-72d9-4936-9c44-f21092370efc
+time: 2026-07-01 08:47:56, Failed to get data for track ID: a14a9ecc-59e6-4834-97b2-f345dc007121
+time: 2026-07-01 08:47:56, Failed to get data for track ID: e04cd63e-26e1-438d-befb-b5c2e86021cb
+time: 2026-07-02 08:35:54, ID: da012e8a-63ea-4519-9aae-4c8681d5243a, name: Hoop Trundling
+time: 2026-07-02 08:35:54, ID: 63000aba-9f50-467d-9b8b-2f1803ce6069, name: The Monsters 1
+time: 2026-07-02 08:35:54, ID: 9eedabf2-f3db-46d4-a240-743d10fab692, name: Play with Friends
+time: 2026-07-02 08:35:54, ID: 8daeae22-4b1a-4c17-bce6-966b2e5d6af3, name: Amazing!
+time: 2026-07-02 08:35:54, ID: a8ffb7e1-031d-4d41-8664-8f23e84d08ee, name: Rhythm Tweezers
+time: 2026-07-02 08:35:54, ID: 89320b75-8d06-491d-85fb-8e194b1ed2c1, name: Title Screen
+time: 2026-07-02 08:35:54, ID: 1b802e84-1942-4a39-b7d9-5ae2263c607b, name: Play Solo
+time: 2026-07-09 08:33:32, ID: 8014974a-f1d9-47e6-a0de-391b3ddfb309, name: 12:00 AM - Clear
+time: 2026-07-09 08:33:33, ID: 88cc89f5-b69b-4f92-b720-c5b2ad63fabd, name: Main Theme (Bonus Track)
