@@ -1,10 +1,12 @@
 import concurrent.futures
+import csv
 import json
 import math
 import re
+import threading
 from pathlib import Path
 from typing import Optional, TypedDict
-import csv
+
 import pandas as pd
 import requests
 # https://www.nintendo.com/hk/nintendo-music/titles/ 可查询游戏曲目更新日期
@@ -27,8 +29,33 @@ import requests
 # https://api.m.nintendo.com/catalog/resources:detectUpdates
 
 host = 'https://api.m.nintendo.com'
-lang_list = ['zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
-# lang_list = ['zh-CN', 'en-US', 'ja-JP']  # IETF
+lang_list = ['zh-CN', 'en-US', 'ja-JP', 'zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
+
+# ============ 并发与连接复用（提速核心） ============
+# 全局信号量：限制所有线程同时进行的 HTTP 请求总数，防止过载与限流
+MAX_CONCURRENT_REQUESTS = 32
+_request_semaphore = threading.BoundedSemaphore(MAX_CONCURRENT_REQUESTS)
+_print_lock = threading.Lock()
+_thread_local = threading.local()
+# 播放列表磁盘缓存目录：跨运行复用；数据过期时删除该目录即可强制刷新
+playlist_cache_dir = Path('playlist_cache')
+
+
+def log(msg: str):
+    """多线程下安全打印，避免日志交错。"""
+    with _print_lock:
+        print(msg)
+
+
+def get_session() -> requests.Session:
+    """每个线程复用一个 Session：开启 keep-alive，复用 TCP 连接，省去每次请求的握手开销。"""
+    session = getattr(_thread_local, 'session', None)
+    if session is None:
+        session = requests.Session()
+        adapter = requests.adapters.HTTPAdapter(pool_connections=8, pool_maxsize=16, max_retries=0)
+        session.mount('https://', adapter)
+        _thread_local.session = session
+    return session
 
 
 class Game(TypedDict):
@@ -62,13 +89,14 @@ def get_api(url: str, params: dict, retry_count: int = 5) -> dict | list:
             headers = {
                 'User-Agent': 'Nintendo Music/1.4.0 (com.nintendo.znba; build:25101508; iOS 26.1.0) Alamofire/5.10.2',
             }
-            response = requests.get(url, params=params, headers=headers, timeout=10)
+            with _request_semaphore:
+                response = get_session().get(url, params=params, headers=headers, timeout=10)
             if response.status_code == 200:
                 return response.json()
             else:
-                print(f'Error: {response.status_code}')
+                log(f'Error: {response.status_code}')
         except Exception as e:
-            print(f'Error: {e}')
+            log(f'Error: {e}')
     raise RuntimeError('Failed to get a successful response from the API after multiple retries')
 
 
@@ -84,15 +112,28 @@ playlist_data_dict: dict[str, dict[str, dict]] = {}
 
 
 def get_playlist_data(id, lang: str = 'zh-CN') -> dict:
-    if lang not in playlist_data_dict:
-        playlist_data_dict[lang] = {}
-    if id in playlist_data_dict[lang]:
-        return playlist_data_dict[lang][id]
+    cached = playlist_data_dict.setdefault(lang, {}).get(id)
+    if cached is not None:
+        return cached
+    cache_file = playlist_cache_dir / lang / f'{id}.json'
+    if cache_file.exists():
+        try:
+            playlist_data = json.loads(cache_file.read_text(encoding='utf-8'))
+        except (OSError, json.JSONDecodeError):
+            pass  # 缓存损坏则忽略，重新请求
+        else:
+            playlist_data_dict[lang][id] = playlist_data
+            return playlist_data
     url = f'{host}/catalog/officialPlaylists/{id}'
     playlist_data = get_api(url, {'country': 'JP', 'lang': lang, 'membership': 'BASIC', 'packageType': 'hls_cbcs', 'sdkVersion': 'ios-1.4.0_f362763-1'})
     if not isinstance(playlist_data, dict):
         raise RuntimeError('Failed to get playlist data')
     playlist_data_dict[lang][id] = playlist_data
+    cache_file.parent.mkdir(parents=True, exist_ok=True)
+    # 通过临时文件 + 原子替换写入，避免并发写坏缓存
+    tmp_file = cache_file.with_name(f'{cache_file.name}.{threading.get_ident()}.tmp')
+    tmp_file.write_text(json.dumps(playlist_data, ensure_ascii=False), encoding='utf-8')
+    tmp_file.replace(cache_file)
     return playlist_data
 
 
@@ -120,11 +161,18 @@ def get_all_game_data(lang: str = 'zh-CN') -> list[dict]:
     return game_data_list
 
 
+game_group_data_cache: dict[str, dict] = {}
+
+
 def get_game_group_data(grouping_policy: str, lang: str = 'zh-CN') -> dict:
+    # 这里只用到 id 与 releasedYear，均与语言无关：按 policy 缓存，多语言全量生成时仅请求一次
+    if grouping_policy in game_group_data_cache:
+        return game_group_data_cache[grouping_policy]
     url = f'{host}/catalog/gameGroups'
     game_group_data = get_api(url, {'country': 'JP', 'groupingPolicy': grouping_policy, 'lang': lang})
     if not isinstance(game_group_data, dict):
         raise RuntimeError('Failed to get game group data')
+    game_group_data_cache[grouping_policy] = game_group_data
     return game_group_data
 
 
@@ -183,15 +231,75 @@ def load_track_csv(file_path: str) -> list[Track]:
     return track_list
 
 
+def process_game(game: Game, lang: str, path: Path, related_game_cache: dict[str, set[str]]) -> None:
+    """获取单个游戏的数据并填充 game（related_game 与 track_dict）。每个游戏数据独立，可并发执行。"""
+    if game['id'] in related_game_cache:
+        game['related_game'] = related_game_cache[game['id']]
+    else:
+        related_game_data_list = get_related_game_data_list(game['id'], lang)
+        for related_game_data in related_game_data_list:
+            game['related_game'].add(related_game_data['name'])
+
+    if game['is_link']:
+        return
+
+    file_name = get_valid_filename(f"{game['name']}.csv")
+    file_path = path / file_name
+    if file_path.exists():
+        for track in load_track_csv(str(file_path)):
+            game['track_dict'][track['id']] = track
+        return
+
+    related_playlist_data = get_related_playlist_data(game['id'], lang)
+    track_data_list: list[dict] = get_playlist_data(related_playlist_data['allPlaylist']['id'], lang)['tracks']
+    track_dict = game['track_dict']
+    for track_index, track_data in enumerate(track_data_list, start=1):
+        payload_data = track_data['media']['payloadList'][0]
+        is_loop = payload_data['containsLoopableMedia']
+
+        if is_loop:
+            duration = payload_data['loopableMedia']['composed']['durationMillis']
+            if payload_data['durationMillis'] != duration:
+                log(f"{game['name']} {track_data['name']} {payload_data['durationMillis']} {duration}")
+        else:
+            duration = payload_data['durationMillis']
+
+        track = {
+            'id': track_data['id'],
+            'index': track_index,
+            'name': track_data['name'],
+            'duration': duration,
+            'is_loop': is_loop,
+            'is_best': False,
+            'playlist': set(),
+            'playlist_2': set(),
+            'playlist_3': set(),
+            'thumbnail_url': track_data.get('thumbnailURL', ''),
+        }
+        track_dict[track['id']] = track
+
+    for track_data in related_playlist_data['bestPlaylist']['tracks']:
+        track_dict[track_data['id']]['is_best'] = True
+
+    for play_list_sum_data in related_playlist_data['miscPlaylistSet']['officialPlaylists']:
+        if play_list_sum_data['type'] == 'LOOP':
+            continue
+        track_data_list = get_playlist_data(play_list_sum_data['id'], lang)['tracks']
+        for track_data in track_data_list:
+            track_id = track_data['id']
+            if track_id in track_dict:
+                track_dict[track_id]['playlist'].add(play_list_sum_data['name'])
+
+
 def gen_excel(lang: str):
-    print(f'Generating {lang}...')
+    log(f'Generating {lang}...')
     path = Path('output') / lang
     path.mkdir(parents=True, exist_ok=True)
 
     game_data_list = get_all_game_data(lang)
     game_dict: dict[str, Game] = {}
     for game_index, game_data in enumerate(game_data_list, start=1):
-        print(f'{game_data['id']} {game_data['name']}')
+        log(f"{game_data['id']} {game_data['name']}")
         game: Game = {
             'id': game_data['id'],
             'index': len(game_data_list) - game_index + 1,
@@ -204,61 +312,42 @@ def gen_excel(lang: str):
             'track_dict': {}
         }
         game_dict[game['id']] = game
-        related_game_data_list = get_related_game_data_list(game_data['id'], lang)
-        for related_game_data in related_game_data_list:
-            game['related_game'].add(related_game_data['name'])
 
-        if game['is_link']:
-            continue
+    # 从上次生成的 _GAME_LIST_.csv 读取 related_game 缓存，省去每个游戏一次 relatedGames 请求
+    related_game_cache: dict[str, set[str]] = {}
+    game_list_path = path / '_GAME_LIST_.csv'
+    if game_list_path.exists():
+        with open(game_list_path, 'r', encoding='utf-8') as file:
+            reader = csv.reader(file, escapechar='\\')
+            header = next(reader, None) or []
+            for row in reader:
+                if len(row) != len(header):
+                    continue
+                item = dict(zip(header, row))
+                if item.get('id'):
+                    related_game_cache[item['id']] = set(item['related_game'].split('|')) if item['related_game'] else set()
 
-        file_name = get_valid_filename(f'{game_data['name']}.csv')
-        file_path = path / file_name
-        if file_path.exists():
-            for track in load_track_csv(str(file_path)):
-                game['track_dict'][track['id']] = track
-            continue
-
-        related_playlist_data = get_related_playlist_data(game_data['id'], lang)
-        track_data_list: list[dict] = get_playlist_data(related_playlist_data['allPlaylist']['id'], lang)['tracks']
-        track_dict = game['track_dict']
-        for track_index, track_data in enumerate(track_data_list, start=1):
-            payload_data = track_data['media']['payloadList'][0]
-            is_loop = payload_data['containsLoopableMedia']
-
-            if is_loop:
-                duration = payload_data['loopableMedia']['composed']['durationMillis']
-                if payload_data['durationMillis'] != duration:
-                    print(f'{game_data['name']} {track_data['name']} {payload_data['durationMillis']} {duration}')
-            else:
-                duration = payload_data['durationMillis']
-
-            track = {
-                'id': track_data['id'],
-                'index': track_index,
-                'name': track_data['name'],
-                'duration': duration,
-                'is_loop': is_loop,
-                'is_best': False,
-                'playlist': set(),
-                'playlist_2': set(),
-                'playlist_3': set(),
-                'thumbnail_url': track_data.get('thumbnailURL', ''),
-            }
-            track_dict[track['id']] = track
-
-        for track_data in related_playlist_data['bestPlaylist']['tracks']:
-            track_dict[track_data['id']]['is_best'] = True
-
-        for play_list_sum_data in related_playlist_data['miscPlaylistSet']['officialPlaylists']:
-            if play_list_sum_data['type'] == 'LOOP':
-                continue
-            track_data_list = get_playlist_data(play_list_sum_data['id'], lang)['tracks']
-            for track_data in track_data_list:
-                track_id = track_data['id']
-                if track_id in track_dict:
-                    track_dict[track_id]['playlist'].add(play_list_sum_data['name'])
+    # 游戏级并发：每个游戏一个任务（游戏数远大于线程数，并行度足够）
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CONCURRENT_REQUESTS) as executor:
+        future_list = [executor.submit(process_game, game, lang, path, related_game_cache) for game in game_dict.values()]
+        for future in concurrent.futures.as_completed(future_list):
+            future.result()
 
     data = json.loads(open('home.json', 'r', encoding='utf-8').read())
+
+    # 先并发预取 home.json 涉及的全部播放列表（内存/磁盘缓存命中则跳过），后续循环纯本地操作
+    playlist_id_list: list[str] = []
+    for section_data in data['miscSections']:
+        for play_list_sum_data in section_data['playlists']:
+            playlist_id_list.append(play_list_sum_data['id'])
+    for section_data in data['commonSections']:
+        if section_data['name'] != '听听看吧':
+            continue
+        for play_list_sum_data in section_data['playlists']:
+            playlist_id_list.append(play_list_sum_data['id'])
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CONCURRENT_REQUESTS) as playlist_executor:
+        list(playlist_executor.map(lambda playlist_id: get_playlist_data(playlist_id, lang), dict.fromkeys(playlist_id_list)))
+
     for section_data in data['miscSections']:
         for play_list_sum_data in section_data['playlists']:
             playlist_data = get_playlist_data(play_list_sum_data['id'], lang)
@@ -329,8 +418,8 @@ def gen_excel(lang: str):
 
 def main(is_concurrency: bool = False):
     if is_concurrency:
-        with concurrent.futures.ThreadPoolExecutor() as executor:
-            executor.map(gen_excel, lang_list)
+        with concurrent.futures.ThreadPoolExecutor(max_workers=len(lang_list)) as executor:
+            list(executor.map(gen_excel, lang_list))
     else:
         for lang in lang_list:
             gen_excel(lang)

@@ -2,3 +2,4 @@
 *.rar
 .mypy_cache/
 __pycache__/
+playlist_cache/
