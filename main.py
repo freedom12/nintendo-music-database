@@ -35,8 +35,6 @@ lang_list = ['zh-CN', 'en-US', 'ja-JP', 'zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-
 
 # ============ 并发与连接复用（提速核心） ============
 # 全局信号量：限制所有线程同时进行的 HTTP 请求总数。
-# 注意：并发过高会被 API 服务器限流（表现为 ConnectionResetError(10054)），
-# 重试风暴会让进程看起来"卡死"；8 是实测较稳妥的值，必要时可小幅上调。
 MAX_CONCURRENT_REQUESTS = 32
 _request_semaphore = threading.BoundedSemaphore(MAX_CONCURRENT_REQUESTS)
 _print_lock = threading.Lock()
@@ -431,8 +429,6 @@ def gen_excel(lang: str):
 
 
 def main(is_concurrency: bool = True):
-    # 语言间默认串行：单个语言内部已经按 MAX_CONCURRENT_REQUESTS 并发。
-    # 多语言同时跑会互相挤占全局并发配额，更易触发 API 限流；失败时等待时间也更长。
     if is_concurrency:
         with concurrent.futures.ThreadPoolExecutor(max_workers=len(lang_list)) as executor:
             list(executor.map(gen_excel, lang_list))
