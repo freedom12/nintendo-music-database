@@ -4,6 +4,7 @@ import json
 import math
 import re
 import threading
+import time
 from pathlib import Path
 from typing import Optional, TypedDict
 
@@ -32,7 +33,9 @@ host = 'https://api.m.nintendo.com'
 lang_list = ['zh-CN', 'en-US', 'ja-JP', 'zh-TW', 'fr-FR', 'de-DE', 'it-IT', 'es-ES', 'ko-KR']
 
 # ============ 并发与连接复用（提速核心） ============
-# 全局信号量：限制所有线程同时进行的 HTTP 请求总数，防止过载与限流
+# 全局信号量：限制所有线程同时进行的 HTTP 请求总数。
+# 注意：并发过高会被 API 服务器限流（表现为 ConnectionResetError(10054)），
+# 重试风暴会让进程看起来"卡死"；8 是实测较稳妥的值，必要时可小幅上调。
 MAX_CONCURRENT_REQUESTS = 32
 _request_semaphore = threading.BoundedSemaphore(MAX_CONCURRENT_REQUESTS)
 _print_lock = threading.Lock()
@@ -42,9 +45,9 @@ playlist_cache_dir = Path('playlist_cache')
 
 
 def log(msg: str):
-    """多线程下安全打印，避免日志交错。"""
+    """多线程下安全打印，flush 保证在 VS Code 终端实时可见（否则输出被缓冲，像卡死）。"""
     with _print_lock:
-        print(msg)
+        print(msg, flush=True)
 
 
 def get_session() -> requests.Session:
@@ -84,19 +87,22 @@ class Track(TypedDict):
 
 
 def get_api(url: str, params: dict, retry_count: int = 5) -> dict | list:
-    for _ in range(retry_count):
+    for attempt in range(retry_count):
         try:
             headers = {
                 'User-Agent': 'Nintendo Music/1.4.0 (com.nintendo.znba; build:25101508; iOS 26.1.0) Alamofire/5.10.2',
             }
             with _request_semaphore:
-                response = get_session().get(url, params=params, headers=headers, timeout=10)
+                response = get_session().get(url, params=params, headers=headers, timeout=2)
             if response.status_code == 200:
                 return response.json()
             else:
                 log(f'Error: {response.status_code}')
         except Exception as e:
             log(f'Error: {e}')
+        if attempt < retry_count - 1:
+            # 指数退避：被限流（RST）时疯狂重试只会加重限流并拖延整体进度
+            time.sleep(min(1.5 * (2 ** attempt), 8))
     raise RuntimeError('Failed to get a successful response from the API after multiple retries')
 
 
@@ -112,6 +118,7 @@ playlist_data_dict: dict[str, dict[str, dict]] = {}
 
 
 def get_playlist_data(id, lang: str = 'zh-CN') -> dict:
+    log(f'Getting playlist data: {id} ({lang})')
     cached = playlist_data_dict.setdefault(lang, {}).get(id)
     if cached is not None:
         return cached
@@ -184,6 +191,7 @@ def save_csv(file_path: str, data: list, key_list: Optional[list[str]] = None):
     if not key_list:
         key_list = list(data[0].keys())
     with open(file_path, 'w', encoding='utf-8') as file:
+        log(f'Saving CSV: {file_path}')
         file.write(','.join(key_list) + '\n')
         for item in data:
             value_list = [item[key] for key in key_list]
@@ -408,6 +416,7 @@ def gen_excel(lang: str):
     file_path = Path('output') / f'Nintendo Music Database({lang}).xlsx'
     if file_path.exists():
         file_path.unlink()
+    log(f'Generating Excel: {file_path}')
     with pd.ExcelWriter(file_path) as writer:
         for csv_path in csv_path_list:
             df = pd.read_csv(csv_path, escapechar='\\')
@@ -416,14 +425,16 @@ def gen_excel(lang: str):
             df.to_excel(writer, sheet_name=csv_path.stem, index=False)
 
 
-def main(is_concurrency: bool = False):
+def main(is_concurrency: bool = True):
+    # 语言间默认串行：单个语言内部已经按 MAX_CONCURRENT_REQUESTS 并发。
+    # 多语言同时跑会互相挤占全局并发配额，更易触发 API 限流；失败时等待时间也更长。
     if is_concurrency:
         with concurrent.futures.ThreadPoolExecutor(max_workers=len(lang_list)) as executor:
             list(executor.map(gen_excel, lang_list))
     else:
         for lang in lang_list:
             gen_excel(lang)
-    print('Done')
+    print('Done', flush=True)
 
 
 if __name__ == '__main__':
