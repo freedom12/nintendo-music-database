@@ -5,6 +5,7 @@ import math
 import re
 import threading
 import time
+import warnings
 from pathlib import Path
 from typing import Optional, TypedDict
 
@@ -417,12 +418,16 @@ def gen_excel(lang: str):
     if file_path.exists():
         file_path.unlink()
     log(f'Generating Excel: {file_path}')
-    with pd.ExcelWriter(file_path) as writer:
-        for csv_path in csv_path_list:
-            df = pd.read_csv(csv_path, escapechar='\\')
-            if 'duration' in df.columns:
-                df['duration'] = df['duration'].apply(lambda x: f'{x // 60000}:{math.ceil(x / 1000) % 60:02d}')
-            df.to_excel(writer, sheet_name=csv_path.stem, index=False)
+    with warnings.catch_warnings():
+        # 保留完整工作表名（目标软件可正常读取超长标题），只屏蔽 openpyxl 的长度提示。
+        # 注意：message 参数是"从消息开头匹配"的正则，必须写完整开头文本
+        warnings.filterwarnings('ignore', message='Title is more than 31 characters', module='openpyxl')
+        with pd.ExcelWriter(file_path) as writer:
+            for csv_path in csv_path_list:
+                df = pd.read_csv(csv_path, escapechar='\\')
+                if 'duration' in df.columns:
+                    df['duration'] = df['duration'].apply(lambda x: f'{x // 60000}:{math.ceil(x / 1000) % 60:02d}')
+                df.to_excel(writer, sheet_name=csv_path.stem, index=False)
 
 
 def main(is_concurrency: bool = True):
