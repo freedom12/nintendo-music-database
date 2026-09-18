@@ -1,7 +1,7 @@
 index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_url
-1,"Mario Kart 64 Title Screen",48495,False,True,"","타이틀 화면","Nintendo Music 셀렉션|Nintendo Music 픽업 모음|마리오 셀렉션","aa2ae7d5-dc3c-49b6-bf86-b3461cadf828","https://image-assets.m.nintendo.com/1c01dcd9-b9e0-4bbd-b313-e62c37148913"
+1,"Mario Kart 64 Title Screen",48495,False,True,"","타이틀 화면","Nintendo 64 셀렉션|Nintendo Music 셀렉션|Nintendo Music 픽업 모음|마리오 셀렉션","aa2ae7d5-dc3c-49b6-bf86-b3461cadf828","https://image-assets.m.nintendo.com/1c01dcd9-b9e0-4bbd-b313-e62c37148913"
 2,"Selection Screens",74841,True,True,"","","Nintendo Music 픽업 모음","48c9379d-bf7e-4f9a-b402-022cba76868c","https://image-assets.m.nintendo.com/772f70d0-9245-4103-8660-0739b4c62ea9"
-3,"Luigi Raceway",177669,True,True,"루이지","힘내","Nintendo Music 셀렉션|Nintendo Music 픽업 모음|마리오 셀렉션","97f70dd8-5af8-4170-8d66-4d859b6ed6f4","https://image-assets.m.nintendo.com/a7fe07ff-6641-4448-8e88-0b69379f34a5"
+3,"Luigi Raceway",177669,True,True,"루이지","힘내","Nintendo 64 셀렉션|Nintendo Music 셀렉션|Nintendo Music 픽업 모음|마리오 셀렉션","97f70dd8-5af8-4170-8d66-4d859b6ed6f4","https://image-assets.m.nintendo.com/a7fe07ff-6641-4448-8e88-0b69379f34a5"
 4,"Moo Moo Farm",135623,True,True,"","걷기|모두 다 같이","Nintendo Music 픽업 모음","1956c4a3-73d1-406c-890c-f07acb8ea281","https://image-assets.m.nintendo.com/d6ff2d35-e8f0-433d-8af5-bc7395137184"
 5,"Koopa Troopa Beach",141780,True,True,"엉금엉금","여름","Nintendo Music 픽업 모음","d744814c-dacf-4105-ad7d-8f1e221be2c2","https://image-assets.m.nintendo.com/c4848b70-d993-4f92-bd04-36b0c63ef2e1"
 6,"Kalimari Desert",156443,True,True,"","","Nintendo Music 픽업 모음","e23e5478-309f-4473-a123-93ee1f99fb87","https://image-assets.m.nintendo.com/c68b9650-f2e4-4e12-8e25-e57536008e98"
@@ -16,7 +16,7 @@ index,name,duration,is_loop,is_best,playlist,playlist_2,playlist_3,id,thumbnail_
 15,"D.K.'s Jungle Parkway",78938,True,True,"","","Nintendo Music 픽업 모음","afefa278-6a3a-428a-a3e2-74c40ae9f44e","https://image-assets.m.nintendo.com/2fe34151-2c07-4e84-b152-8e776aaaf04c"
 16,"Yoshi Valley",135623,True,False,"요시","","","ea5f7932-b927-4c12-a423-ad1fc13834c9","https://image-assets.m.nintendo.com/3c48e3cf-4470-4af7-a40d-a2b42681da65"
 17,"Banshee Boardwalk",110123,True,True,"부끄부끄","유령이 나올지도?","Nintendo Music 픽업 모음","75fa8c25-8888-4f25-8690-96c33096f238","https://image-assets.m.nintendo.com/29425f3e-8910-4a10-b730-e4aa4cd0c0a7"
-18,"Rainbow Road",290423,True,True,"","","Nintendo Music 셀렉션|Nintendo Music 픽업 모음|마리오 셀렉션","20e972e2-eeb4-44c4-9da0-c892ed6a0c05","https://image-assets.m.nintendo.com/5e60ef84-5b58-46b3-9cb4-5b260305e86c"
+18,"Rainbow Road",290423,True,True,"","","Nintendo 64 셀렉션|Nintendo Music 셀렉션|Nintendo Music 픽업 모음|마리오 셀렉션","20e972e2-eeb4-44c4-9da0-c892ed6a0c05","https://image-assets.m.nintendo.com/5e60ef84-5b58-46b3-9cb4-5b260305e86c"
 19,"Battle Arenas",186687,True,False,"","","","32b2fca8-fbd7-4062-b11b-e13913c01c74","https://image-assets.m.nintendo.com/4d9b84a7-9d22-4fd1-932b-64306efa7375"
 20,"Starting Grid (Grand Prix / VS Race)",8433,False,True,"","","Nintendo Music 픽업 모음","63a9268b-d6d1-40fd-a335-e18374411acc","https://image-assets.m.nintendo.com/60d68751-7ad0-4089-bba7-b76d0615b729"
 21,"Starting Grid (Time Trials / Battle)",4040,False,False,"","","","93ba232f-c7cb-4ae0-820d-f47a9fcd510f","https://image-assets.m.nintendo.com/bc9393ec-99d5-478c-a807-86c1541226d5"

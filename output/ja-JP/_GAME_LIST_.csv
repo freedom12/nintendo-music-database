@@ -128,7 +128,7 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 127,"ファイアーエムブレム 蒼炎の軌跡",2005,"ニンテンドー ゲームキューブ","ファイアーエムブレム エンゲージ|ファイアーエムブレム 烈火の剣|ファイアーエムブレム 覚醒|ファイアーエムブレム 風花雪月",False,"85b5a471-ea3a-4a30-9d76-f3dbc40ccee0","https://image-assets.m.nintendo.com/1eb6fe73-72ed-447c-8995-c7273cd386b5"
 128,"マリオ&ルイージRPG ブラザーシップ!",2024,"Nintendo Switch","",False,"d0adeb68-35ec-4e1d-801a-4e6a84fc1fbf","https://image-assets.m.nintendo.com/53ba337e-b429-4e25-89d2-df35f8571893"
 129,"ゼルダの伝説 夢幻の砂時計",2007,"ニンテンドーDS","ゼルダの伝説|ゼルダの伝説 スカイウォードソード|ゼルダの伝説 時のオカリナ|ゼルダの伝説 時のオカリナ 3D|ゼルダの伝説 神々のトライフォース|ゼルダの伝説 神々のトライフォース2|ゼルダの伝説 風のタクト|ゼルダの伝説　ティアーズ オブ ザ キングダム|ゼルダの伝説　ブレス オブ ザ ワイルド|ゼルダの伝説１（カセット版）|ゼルダ無双 封印戦記|リンクの冒険|リンクの冒険（NES版）",False,"c1a388f3-f88b-4a05-a45c-de828d1c9af8","https://image-assets.m.nintendo.com/2eb5891c-d656-4a0f-be30-d577b7db2023"
-130,"メイド イン ワリオ",2003,"ゲームボーイアドバンス","",False,"8fb7c898-dd32-4fb5-b773-8df9a2d57cbb","https://image-assets.m.nintendo.com/c5f9d9b4-d35b-43b5-bb1e-38f38d0e94fe"
+130,"メイド イン ワリオ",2003,"ゲームボーイアドバンス","超おどる メイド イン ワリオ",False,"8fb7c898-dd32-4fb5-b773-8df9a2d57cbb","https://image-assets.m.nintendo.com/c5f9d9b4-d35b-43b5-bb1e-38f38d0e94fe"
 131,"トモダチコレクション 新生活",2013,"ニンテンドー3DS","トモダチコレクション",False,"7270dfb0-c05e-40a9-a342-4695a9b6fda4","https://image-assets.m.nintendo.com/8c03dc5f-c002-4a93-9ad1-1a9973702f26"
 132,"ペーパーマリオ オリガミキング",2020,"Nintendo Switch","ペーパーマリオRPG（Nintendo Switch版）|ペーパーマリオRPG（ゲームキューブ版）|マリオストーリー",False,"43fc1ee8-45ce-4e66-b8db-2b3ab64e9651","https://image-assets.m.nintendo.com/62e2b4e3-c984-44e8-9409-fe7061a3021d"
 133,"ポケットモンスター ファイアレッド・リーフグリーン",2026,"Nintendo Switch","Pokémon LEGENDS アルセウス|ポケットモンスター スカーレット・バイオレット|ポケットモンスター ソード・シールド",True,"3921b37c-b542-4731-afa5-3be6660f340d","https://image-assets.m.nintendo.com/a393e3f9-bdf6-49ad-a519-a265dd11a859"
@@ -161,3 +161,4 @@ index,name,year,hardware,related_game,is_link,id,thumbnail_url
 160,"シムシティー",1991,"スーパーファミコン","",False,"0b3f719e-ca86-41a1-82c9-d3d2c8460b80","https://image-assets.m.nintendo.com/3b501aff-1a80-44e8-8f32-62a35dca1238"
 161,"ファイアーエムブレム 風花雪月",2019,"Nintendo Switch","ファイアーエムブレム エンゲージ|ファイアーエムブレム 烈火の剣|ファイアーエムブレム 蒼炎の軌跡|ファイアーエムブレム 覚醒",False,"83989883-5a81-4174-9f07-85ddc8147807","https://image-assets.m.nintendo.com/9b98a45c-d39a-4b8c-bef5-3b2d7025c7a0"
 162,"マリオストーリー",2000,"NINTENDO 64","ペーパーマリオ オリガミキング|ペーパーマリオRPG（Nintendo Switch版）|ペーパーマリオRPG（ゲームキューブ版）",False,"7bbfbd24-1125-4298-9e47-76c924a43946","https://image-assets.m.nintendo.com/ad8a640f-7c83-42bb-8c93-8f08d614a5f3"
+163,"超おどる メイド イン ワリオ",2023,"Nintendo Switch","メイド イン ワリオ",False,"62295bca-3899-490a-992c-2992c7e4f109","https://image-assets.m.nintendo.com/c9abbacb-88d8-45bb-b040-5fed671e7883"
